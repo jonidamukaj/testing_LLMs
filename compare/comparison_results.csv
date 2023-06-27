@@ -1,0 +1,72 @@
+Requirement,File 1,File 2,Grammar issues
+Number of words,27,241,
+
+Similar phrases
+
+,,Ben Shneiderman is a,
+,, contribut,
+,, w,
+,, 400 publications,
+,, since 1972.,
+,,bl,
+,, 208 journal articles,
+,,d 197 proceedings papers,
+
+,,,
+,,,Grammar issues
+,,,"Offset 4, length 11, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found.
+Suggestion: Spearman
+Ben Shneiderman is an active and longtime research cont...
+    ^^^^^^^^^^^ (File 1)"
+,,,"Offset 94, length 2, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...tributor with more than 400 publications  since 1972. Shneiderman's published work...
+                                           ^^ (File 1)"
+,,,"Offset 108, length 11, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found.
+Suggestion: Spearman
+...more than 400 publications  since 1972. Shneiderman's published work includes 208 journal a...
+                                           ^^^^^^^^^^^ (File 1)"
+,,,"Offset 166, length 2, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...ished work includes 208 journal articles  and 197 proceedings papers 
+                                           ^^ (File 1)"
+
+,,,"Offset 4, length 11, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found.
+Suggestion: Spearman
+Ben Shneiderman is a highly regarded scientific author ...
+    ^^^^^^^^^^^ (File 2)"
+,,,"Offset 327, length 11, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found.
+Suggestion: Spearman
+...ensive career spanning several decades, Shneiderman has accumulated a remarkable body of wo...
+                                           ^^^^^^^^^^^ (File 2)"
+,,,"Offset 673, length 11, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found.
+Suggestion: Spearman
+...in various aspects of computer science. Shneiderman's work in journals showcases his deep u...
+                                           ^^^^^^^^^^^ (File 2)"
+,,,"Offset 873, length 11, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found.
+Suggestion: Spearman
+....  In addition to his journal articles, Shneiderman has authored 197 proceedings papers. Th...
+                                           ^^^^^^^^^^^ (File 2)"
+,,,"Offset 1046, length 18, Rule ID: AGREEMENT_SENT_START
+Message: Possible agreement error.
+Suggestion: Proceeding papers; Proceedings paper
+...conferences, symposiums, and workshops. Proceedings papers provide a platform for researchers to d...
+                                           ^^^^^^^^^^^^^^^^^^ (File 2)"
+,,,"Offset 1200, length 11, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found.
+Suggestion: Spearman
+...low experts in their respective fields. Shneiderman's extensive involvement in publishing p...
+                                           ^^^^^^^^^^^ (File 2)"
+,,,"Offset 1428, length 11, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found.
+Suggestion: Spearman
+...computer science and HCI.  Overall, Ben Shneiderman is a highly prolific scientific author ...
+                                           ^^^^^^^^^^^ (File 2)"
