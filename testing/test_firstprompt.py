@@ -1,15 +1,16 @@
 import openai
 import json
 import csv
+import os
 
 # Load your API key from a secure location
 openai.api_key = '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'
 
 # Prompt template
 prompt_template = "Please describe briefly the following scientific author and consider the following information:\n\nName: {name}\nPublications: {publications}\nJournal Articles: {journal_articles}\nProceedings Papers: {proceedings_papers}\n\n"
-
+file_path = os.path.abspath("data_authors.json")
 def save_to_csv(data):
-    with open('results.csv', 'a', newline='') as file:
+    with open('results1.csv', 'a', newline='') as file:
         writer = csv.writer(file)
         writer.writerow([data['name'], data['publications'], data['journal_articles'], data['proceedings_papers'], data['generated_text']])
 
@@ -40,11 +41,12 @@ def generate_prompt(data):
 
 def main():
     # Load data from JSON file
-    with open('data.json', 'r') as file:
+    with open('testing\data_authors.json', 'r') as file:
         user_data_list = json.load(file)
+ 
 
     # Write header to the CSV file
-    with open('results.csv', 'w', newline='') as file:
+    with open('results1.csv', 'w', newline='') as file:
         writer = csv.writer(file)
         writer.writerow(['Name', 'Publications', 'Journal Articles', 'Proceedings Papers', 'Generated Text'])
 

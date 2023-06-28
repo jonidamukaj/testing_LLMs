@@ -1,11 +1,13 @@
 [
   {
+    "name": "Prompt 1",
     "existing_text": "Ben Shneiderman is an active and longtime research contributor with more than 400 publications  since 1972. Shneiderman's published work includes 208 journal articles  and 197 proceedings papers ",
     "generated_text": "Ben Shneiderman is a highly regarded scientific author known for his significant contributions to the field of computer science and human-computer interaction (HCI). He has made notable advancements in the areas of information visualization, user interfaces, and data mining. With an extensive career spanning several decades, Shneiderman has accumulated a remarkable body of work, consisting of approximately 400 publications since 1972. Among his notable contributions are 208 journal articles, which have been published in prestigious scientific journals. These articles serve as a testament to his scholarly rigor and expertise in various aspects of computer science. Shneiderman's work in journals showcases his deep understanding of fundamental concepts and his ability to contribute novel insights to the scientific community. In addition to his journal articles, Shneiderman has authored 197 proceedings papers. These papers typically document his research findings and advancements presented at conferences, symposiums, and workshops. Proceedings papers provide a platform for researchers to disseminate their work and engage in discussions with fellow experts in their respective fields. Shneiderman's extensive involvement in publishing proceedings papers indicates his active participation in the scientific community and his commitment to advancing the state of the art in computer science and HCI. Overall, Ben Shneiderman is a highly prolific scientific author whose publications have significantly influenced the fields of computer science and human-computer interaction. His extensive body of work, encompassing journal articles and proceedings papers, reflects his deep expertise, innovative thinking, and dedication to advancing scientific knowledge."
   },
   {
+    "name": "Prompt 2",
     "existing_text": "Ben Shneiderman is an active and longtime research contributor with more than 400 publications  since 1972. Shneiderman's published work includes 208 journal articles  and 197 proceedings papers ",
-    "generated_text": "Ben Shneiderman is an active and longtime research contributor with more than 400 publications  since 1972. Shneiderman's published work includes 208 journal articles  and 197 proceedings papers "
+    "generated_text": "prgs papers "
   }
 
 ]

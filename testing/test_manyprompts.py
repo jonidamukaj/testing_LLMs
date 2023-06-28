@@ -33,7 +33,7 @@ def generate_prompt(data, template):
 
 def main():
     # Load data from JSON file
-    with open('data.json', 'r') as file:
+    with open('testing\data_authors.json', 'r') as file:
         user_data_list = json.load(file)
 
     prompt_idx = 0  # Index to iterate over prompt templates
