@@ -10,7 +10,7 @@ openai.api_key = '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'
 prompt_template1 ="Please describe briefly with a few words the following scientific author and consider the following information: Name: {name}\nCommunity:{community}\nExpertise: {expertise}\nworked: {worked}\nSimmilar Researchers:{researchers}"
 prompt_template2 ="Please describe briefly with a few words the following scientific author and consider ONLY the following information: Name: {name}\nCommunity:{community}\nExpertise: {expertise}\nworked: {worked}\nSimmilar Researchers:{researchers}"
 file_path = os.path.abspath("testing/data_authors.json")
-output_file = os.path.abspath("testing/results2.json")
+output_file = os.path.abspath("testing/prompt2_results.json")
 
 
 def save_to_json(data):
@@ -73,13 +73,13 @@ def generate_prompt(data):
     save_to_json(data)
 
     # Print the generated texts
-    print("Generated Text 1:", generated_text1)
-    print("Generated Text 2:", generated_text2)
+    #print("Generated Text 1:", generated_text1)
+    #print("Generated Text 2:", generated_text2)
 
 
 def main():
     # Load data from JSON file
-    with open(file_path, 'r') as file:
+    with open(file_path, 'r', encoding='utf-8') as file:
         user_data_list = json.load(file)
 
     for user_data in user_data_list:

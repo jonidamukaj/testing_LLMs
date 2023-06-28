@@ -7,10 +7,10 @@ import os
 openai.api_key = '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'
 
 # Prompt templates
-prompt_template1 = "Please describe briefly the following scientific author and consider the following information:\n\nName: {name}\nFirst co_author: {first_co_author}\nFirst co_Author Year: {first_co_author_year}\nFirst co_author Publication:{first_co_author_publications}\second co_author: {second_co_author}\second co_Author Year: {second_co_author_year}\nsecond co_author Publication:{second_co_author_publications}\Another co_author: {another_co_author}\another co_Author Year: {another_co_author_year}\another co_author Publication:{another_co_author_publications}\nOther co_authors: {other_co_authors}\nFirst Collaboration: {first_collaboration}\n\nFirst Collaboration Field: {first_collaboration_field}\nFirst Collaboration Paper number: {first_collaboration_papers}\n\nSecond Collaboration: {second_collaboration}\nSecond Collaboration Paper number: {second_collaboration_papers}\n\n"
-prompt_template1 = "Please describe briefly with a few words the following scientific author and consider ONLY the following information:\n\nName: {name}\nFirst co_author: {first_co_author}\nFirst co_Author Year: {first_co_author_year}\nFirst co_author Publication:{first_co_author_publications}\second co_author: {second_co_author}\second co_Author Year: {second_co_author_year}\nsecond co_author Publication:{second_co_author_publications}\Another co_author: {another_co_author}\another co_Author Year: {another_co_author_year}\another co_author Publication:{another_co_author_publications}\nOther co_authors: {other_co_authors}\nFirst Collaboration: {first_collaboration}\n\nFirst Collaboration Field: {first_collaboration_field}\nFirst Collaboration Paper number: {first_collaboration_papers}\n\nSecond Collaboration: {second_collaboration}\nSecond Collaboration Paper number: {second_collaboration_papers}\n\n"
+prompt_template1 = "Please describe briefly the following scientific author and consider the following information:\n\nName: {name}\nFirst co_author: {first_co_author}\nFirst co_Author Year: {first_co_author_year}\nFirst co_author Publication:{first_co_author_publications}\second co_author: {second_co_author}\second co_Author Year: {second_co_author_year}\nsecond co_author Publication:{second_co_author_publications}\Another co_author: {another_co_author}\another co_Author Year: {another_co_author_year}\another co_author Publication:{another_co_author_publications}\nFirst Collaboration: {first_collaboration}\n\nFirst Collaboration Field: {first_collaboration_field}\nFirst Collaboration Paper number: {first_collaboration_papers}\n\nSecond Collaboration: {second_collaboration}\nSecond Collaboration Paper number: {second_collaboration_papers}\n\n"
+prompt_template2 = "Please describe briefly with a few words the following scientific author and consider ONLY the following information:\n\nName: {name}\nFirst co_author: {first_co_author}\nFirst co_Author Year: {first_co_author_year}\nFirst co_author Publication:{first_co_author_publications}\second co_author: {second_co_author}\second co_Author Year: {second_co_author_year}\nsecond co_author Publication:{second_co_author_publications}\Another co_author: {another_co_author}\another co_Author Year: {another_co_author_year}\another co_author Publication:{another_co_author_publications}\nFirst Collaboration: {first_collaboration}\n\nFirst Collaboration Field: {first_collaboration_field}\nFirst Collaboration Paper number: {first_collaboration_papers}\n\nSecond Collaboration: {second_collaboration}\nSecond Collaboration Paper number: {second_collaboration_papers}\n\n"
 file_path = os.path.abspath("testing/data_authors.json")
-output_file = os.path.abspath("testing/results3.json")
+output_file = os.path.abspath("testing/prompt3_results.json")
 
 
 def save_to_json(data):
@@ -73,13 +73,13 @@ def generate_prompt(data):
     save_to_json(data)
 
     # Print the generated texts
-    print("Generated Text 1:", generated_text1)
-    print("Generated Text 2:", generated_text2)
+    #print("Generated Text 1:", generated_text1)
+    #print("Generated Text 2:", generated_text2)
 
 
 def main():
     # Load data from JSON file
-    with open(file_path, 'r') as file:
+    with open(file_path, 'r', encoding='utf-8') as file:
         user_data_list = json.load(file)
 
     for user_data in user_data_list:
