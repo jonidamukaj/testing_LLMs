@@ -1,0 +1,162 @@
+[
+    {
+        "name": "Ben Shneiderman",
+        "existing_text": "Ben Shneiderman is an active and longtime research contributor with more than 400 publications  since 1972. Shneiderman's published work includes 208 journal articles  and 197 proceedings papers ",
+        "generated_text1": "Ben Shneiderman is an American computer scientist and professor of computer science at the University of Maryland, College Park. He is a prolific author, having published over 400 scientific works since 1972, including 208 journal articles and 197 proceedings papers. He is widely known for his work in the fields of human-computer interaction, information visualization, and computer science education. He is also the creator of the 'Eight Golden Rules of Interface Design'.",
+        "generated_text2": "Ben Shneiderman: Prolific Author (400 publications, 208 journal articles since 1972, 197 proceedings papers).",
+        "generated_text3": "Anna Smith is an esteemed scientific author with over 400 publications since 1972. She has authored 208 journal articles and 197 proceedings papers. Her work has had a lasting impact on the scientific community and her contributions have been widely recognized.",
+        "generated_text4": "Anna Smith is a prolific scientist, having authored 400 publications since 1972, including 208 journal articles and 197 proceedings papers."
+    },
+    {
+        "name": "Fabian Beck",
+        "existing_text": "Fabian Beck is an active researcher since 2008 and has published 61 research papers , including 17 journal articles  and 44 proceedings papers . Out of the total 61 publications, the author published 26 articles as first author . The author received a PhD degree from University of Trier, Germany with the dissertation published in 2013 and titled \u201cUnderstanding Multi-Dimensional Code Couplings\u201d.",
+        "generated_text1": "Fabian Beck is an author with 61 publications since 2008, of which 17 are journal articles and 44 are proceedings papers. He is likely an active researcher in a range of fields given the breadth of his publications.",
+        "generated_text2": "Fabian Beck: Prolific researcher (61 publications, 17 journal articles, 44 proceedings papers since 2008).",
+        "generated_text3": "Anna Smith is an established scientist with 61 publications, including 17 journal articles since 2008 and 44 proceedings papers. She is a highly productive researcher who has made significant contributions to her field.",
+        "generated_text4": "Anna Smith is an experienced researcher with 61 publications since 2008, including 17 journal articles and 44 proceedings papers."
+    },
+    {
+        "name": "Mary Jean Harrold",
+        "existing_text": "Mary Jean Harrold is an active and longtime research contributor with more than 100 publications  since 1989. Harrold's published work includes 41 journal articles  and 105 proceedings papers",
+        "generated_text1": "Mary Jean Harrold is an established scientific author who has been publishing since 1989. She has published a total of 206 papers, including 100 journal articles and 105 proceedings papers. Her body of work is an impressive testament to her contribution to the field of science.",
+        "generated_text2": "Mary Jean Harrold is an established researcher, with over 100 publications since 1989, including 41 journal articles and 105 proceedings papers.",
+        "generated_text3": "Anna Smith is an accomplished scientist with over 100 publications to her name since 1989. She has published 41 scientific journal articles and 105 proceedings papers, demonstrating her expertise in her field.",
+        "generated_text4": "Anna Smith is a prolific scientist with over 100 publications since 1989, including 41 journal articles and 105 proceedings papers."
+    },
+    {
+        "name": "Stephan Diehl",
+        "existing_text": "Stephan Diehl is an active and longtime research contributor with more than 100 publications  since 1994. Diehl's published work includes 38 journal articles  and 89 proceedings papers . The author received a PhD degree from Saarland University, Saarbr\u00fccken, Germany with the dissertation published in 1996 and titled \u201cSemantics-directed generation of compilers and abstract machines\u201d.",
+        "generated_text1": "Stephan Diehl is a prolific scientific author with over 100 publications, including 38 journal articles and 89 proceedings papers since 1994. He is an established researcher in his field with a long track record of success.",
+        "generated_text2": "Stephan Diehl is a prolific author with over 100 publications since 1994, including 38 journal articles and 89 proceedings papers.",
+        "generated_text3": "Anna Smith is a highly productive scientist who has been actively publishing since 1994. She has published a total of 100 papers, including 38 journal articles and 89 proceedings papers.",
+        "generated_text4": "Anna Smith is a prolific scientist with over 100 publications, including 38 journal articles since 1994 and 89 proceedings papers."
+    },
+    {
+        "name": "Daniel Weiskopf",
+        "existing_text": "Daniel Weiskopf is an active researcher with more than 250 publications  since 1999. Weiskopf's published work includes 122 journal articles  and 147 proceedings papers",
+        "generated_text1": "Daniel Weiskopf is a highly productive scientist who has published more than 250 publications since 1999. He has written 122 journal articles and 147 proceedings papers, making him a prolific author in his field. His research focuses on topics related to computer science, such as artificial intelligence, machine learning, and data mining. He is a respected member of the scientific community who is well-known for his contributions to the field.",
+        "generated_text2": "Daniel Weiskopf is a prolific researcher with over 250 publications since 1999, including 122 journal articles and 147 proceedings papers.",
+        "generated_text3": "Anna Smith is a prolific scientist with over 250 publications since 1999. She has 122 journal articles and 147 proceedings papers to her name, making her a highly respected and well-regarded researcher. Her work has been widely published in many different outlets, demonstrating her breadth and depth of expertise.",
+        "generated_text4": "Anna Smith is a prolific researcher, having published 250 papers since 1999, including 122 journal articles and 147 proceedings papers."
+    },
+    {
+        "name": "Michael Burch",
+        "existing_text": "Michael Burch is an active researcher with more than 100 publications  since 2004, where most contributions appeared since 2013 (71 publications). Burch's published work includes 23 journal articles  and 89 proceedings papers",
+        "generated_text1": "Michael Burch is a scientific author who has published a total of 100 papers since 2004, 23 of which have been journal articles and 89 of which have been proceedings papers.",
+        "generated_text2": "Michael Burch: Prolific Author (100 publications, 23 journal articles since 2004, 89 proceedings papers).",
+        "generated_text3": "Anna Smith is a highly productive scientist who has been publishing since 2004, with a total of 100 publications. She has authored 23 journal articles and 89 proceedings papers.",
+        "generated_text4": "Anna Smith is a prolific scientist, having published 100 papers since 2004, including 23 journal articles and 89 proceedings papers."
+    },
+    {
+        "name": "James A. Jones",
+        "existing_text": "James A. Jones is a longtime research contributor since 1998 and has published 45 research papers , including 5 journal articles  and 40 proceedings papers . Out of the total 45 publications, the author published 8 articles as first author . The author received a PhD degree from Georgia Institute of Technology, Atlanta, GA, USA with the dissertation published in 2008 and titled \u201cSemi-automatic fault localization\u201d.",
+        "generated_text1": "James A. Jones is a prolific author with 45 publications, including 5 journal articles and 40 papers in proceedings, since 1998. His research interests span a wide range of topics, including engineering, physics, mathematics and computer science. He is well-known in the scientific community for his work and has made significant contributions to the field.",
+        "generated_text2": "James A. Jones is a prolific researcher with 45 publications since 1998, including 5 journal articles and 40 proceedings papers.",
+        "generated_text3": "Anna Smith is a scientific author with 45 publications since 1998, including 5 journal articles and 40 proceedings papers. She is a highly productive author and has been contributing to the scientific community for over two decades.",
+        "generated_text4": "Anna Smith: accomplished researcher (45 publications, 5 journal articles since 1998, 40 proceedings papers)."
+    },
+    {
+        "name": "Catherine Plaisant",
+        "existing_text": "Catherine Plaisant is an active and longtime research contributor with more than 150 publications  since 1988. Plaisant's published work includes 60 journal articles  and 94 proceedings papers",
+        "generated_text1": "Catherine Plaisant is an experienced scientist with a prolific publication record. She has published 150 works since 1988, including 60 journal articles and 94 proceedings papers. Her research focuses on human-computer interaction, information visualization, and user interface design. She is a recognized leader in her field and her work has had a major impact in the scientific community.",
+        "generated_text2": "Catherine Plaisant: Experienced Computer Scientist (1988-present); 150 publications, 60 journal articles and 94 proceedings papers.",
+        "generated_text3": "Anna Smith is an established scientific author with 150 publications since 1988. She has published 60 journal articles and 94 proceedings papers. She is experienced in her field and has made significant contributions to scientific literature.",
+        "generated_text4": "Anna Smith is an experienced scientist with 150 publications, including 60 journal articles and 94 proceedings papers since 1988."
+    },
+    {
+        "name": "Benjamin B. Bederson",
+        "existing_text": "Benjamin B. Bederson is an active and longtime research contributor with more than 100 publications  since 1992, where most contributions appeared between 2000 and 2009 (68 publications). Bederson's published work includes 43 journal articles  and 76 proceedings papers",
+        "generated_text1": "Benjamin B. Bederson is a prolific scientist who has published over 100 works since 1992. He has authored 43 journal articles and 76 proceedings papers. His areas of expertise span a wide range of topics, from computer science to engineering and mathematics. Bederson is highly respected in the scientific community and his research has had a lasting impact on many fields.",
+        "generated_text2": "Benjamin B. Bederson is a prolific scientist with 100 publications since 1992, including 43 journal articles and 76 proceedings papers.",
+        "generated_text3": "Anna Smith is an experienced researcher with more than 100 publications since 1992. She has published 43 journal articles and 76 proceedings papers during her career. She is a respected author in the scientific community.",
+        "generated_text4": "Anna Smith is an established scientist with 100 publications since 1992, including 43 journal articles and 76 proceedings papers."
+    },
+    {
+        "name": "Stuart K. Card",
+        "existing_text": "Card published 83 research papers  between 1980 and 2010, including 14 journal articles  and 69 proceedings papers . Out of the total 83 publications, the author published 23 articles as first author ",
+        "generated_text1": "Stuart K. Card is a prolific researcher in the field of computer science. He has published a total of 83 works since 1980, of which 69 have been proceedings papers and 14 have been journal articles. He is highly respected in the field and his work has been widely cited.",
+        "generated_text2": "Stuart K. Card: prolific (83 publications, 14 journal articles, 69 proceedings papers) researcher (1980-2010).",
+        "generated_text3": "Anna Smith is a prolific scientist, having published 83 papers since 1980. She has 14 journal articles, and 69 proceedings papers.",
+        "generated_text4": "Anna Smith: Prolific (83 pubs), Varied (14 journal articles, 69 proceedings papers) 1980-2010."
+    },
+    {
+        "name": "Achim Ebert",
+        "existing_text": "Achim Ebert is an active and longtime research contributor with more than 100 publications  since 1997, where most contributions appeared since 2011 (67 publications). Ebert's published work includes 9 journal articles  and 107 proceedings papers . The author received a PhD degree from Kaiserslautern University of Technology, Germany with the dissertation published in 2004 and titled \u201cContext-sensitive visualization\u201d.",
+        "generated_text1": "Achim Ebert is a scientist with over 100 publications, including 9 journal articles since 1997 and 107 proceedings papers. He is a highly productive scientist who has made significant contributions to the scientific community.",
+        "generated_text2": "Achim Ebert is a prolific scientific author with over 100 publications since 1997, including 9 journal articles and 107 proceedings papers.",
+        "generated_text3": "Anna Smith is a prolific scientist who has been publishing since 1997. She has written over 100 publications, including 9 journal articles and 107 proceedings papers. Her research spans a range of topics, and her work has been highly cited.",
+        "generated_text4": "Anna Smith: prolific researcher (100 pubs, 9 journal articles, 107 proceedings papers since 1997)."
+    },
+    {
+        "name": "Mary C. Whitton",
+        "existing_text": "Mary C. Whitton is a longtime research contributor since 1984 and has published 59 research papers , where most contributions appeared between 1995 and 2007 (32 publications). The publications include 18 journal articles  and 41 proceedings papers . Out of the total 59 publications, the author published 6 articles as first author",
+        "generated_text1": "Mary C. Whitton is an accomplished scientist with a career spanning more than 35 years. She has published a total of 59 papers since 1984, including 18 journal articles and 41 proceedings papers. Her research has focused on areas such as computer vision, robotics, and artificial intelligence. She has also contributed to the development of advanced applications in medical imaging, autonomous vehicles, and virtual reality. Mary C. Whitton has been an important figure in the field of scientific research and her work has been widely recognized",
+        "generated_text2": "Mary C. Whitton: prolific scientist (59 publications, 18 journal articles, 41 proceedings papers since 1984).",
+        "generated_text3": "Anna Smith is a scientific author with 59 publications since 1984. She has published 18 journal articles and 41 proceedings papers.",
+        "generated_text4": "Anna Smith: Accomplished Scholar (59 publications, 18 journal articles, 41 proceedings papers since 1984)."
+    },
+    {
+        "name": "Henry Fuchs",
+        "existing_text": "Henry Fuchs is an active and longtime research contributor with more than 100 publications  since 1977. Fuchs's published work includes 30 journal articles  and 105 proceedings papers ",
+        "generated_text1": "Henry Fuchs is a renowned scientist who has published over 100 papers since 1977. His work spans a variety of topics, including 30 peer-reviewed journal articles and 105 proceedings papers. He is considered an expert in the field of computer graphics and visualization.",
+        "generated_text2": "Henry Fuchs is a prolific scientist, having published over 100 works since 1977, including 30 journal articles and 105 proceedings papers.",
+        "generated_text3": "Anna Smith is a highly accomplished scientist with a long career in her field. She has published a total of 100 works, including 30 journal articles since 1977 and 105 proceedings papers. She is a respected scholar whose research has been widely cited.",
+        "generated_text4": "Anna Smith is a prolific scientist, having published a total of 205 papers since 1977, including 100 journal articles."
+    },
+    {
+        "name": "Dieter Schmalstieg",
+        "existing_text": "Dieter Schmalstieg is an active and longtime research contributor with more than 300 publications  since 1994. Schmalstieg's published work includes 99 journal articles  and 203 proceedings papers",
+        "generated_text1": "Dieter Schmalstieg is a highly prolific scientist with over 300 publications since 1994. He has published 99 journal articles and 203 proceedings papers during his career. His research focuses primarily on computer graphics and augmented reality.",
+        "generated_text2": "Dieter Schmalstieg is a prolific researcher, having published over 300 articles since 1994, including 99 journal articles and 203 proceedings papers.",
+        "generated_text3": "Anna Smith is a prolific scientist with 300 publications since 1994, including 99 journal articles and 203 proceedings papers. Her work spans a wide range of topics and she is an established expert in her field.",
+        "generated_text4": "Anna Smith is a prolific scientist with 300 publications, including 99 journal articles since 1994 and 203 proceedings papers."
+    },
+    {
+        "name": "Anna Celler",
+        "existing_text": "Anna Celler is an active researcher since 1999 and has published 14 research papers , including 6 journal articles  and 8 proceedings papers . Out of the total 14 publications, the author published 0 articles as first author",
+        "generated_text1": "Anna Celler is a scientist who has been publishing research since 1999. She has authored 14 publications in total, of which 6 are journal articles and 8 are proceedings papers.",
+        "generated_text2": "Anna Celler is a scientific author with 14 publications since 1999, including 6 journal articles and 8 proceedings papers.",
+        "generated_text3": "Anna Smith is a scientific author who has published 14 works since 1999, including 6 journal articles and 8 proceedings papers. She has been active in the scientific community for over 20 years. Her research focuses on a wide range of topics including biology, chemistry, and physics. She is highly respected in the scientific community for her excellent work and dedication to furthering the knowledge and understanding of these fields.",
+        "generated_text4": "Anna Smith: Experienced (14 publications since 1999, 6 journal articles, 8 proceedings papers)"
+    },
+    {
+        "name": "Ghassan Hamarneh",
+        "existing_text": "Ghassan Hamarneh is an active researcher with more than 150 publications  since 2000. Hamarneh's published work includes 60 journal articles  and 115 proceedings papers . The author received a PhD degree from Chalmers University of Technology, Gothenburg, Sweden with the dissertation published in 2001 and titled \u201cTowards Intelligent Deformable Models for Medical Image Analysis\u201d.",
+        "generated_text1": "Ghassan Hamarneh is a scientist who has published 150 scientific papers since 2000, including 60 journal articles and 115 proceedings papers. He has been a prolific contributor to the scientific literature and his research interests span a range of fields including computer vision, machine learning, medical imaging, and image processing.",
+        "generated_text2": "Ghassan Hamarneh: prolific researcher (150 publications, 60 journal articles since 2000, 115 proceedings papers).",
+        "generated_text3": "Anna Smith is a prolific scientist with a long-standing career in the field of science. She has published a total of 150 works since 2000, including 60 journal articles and 115 proceedings papers. She is highly respected and her work has had an impact in the field.",
+        "generated_text4": "Anna Smith: prolific researcher (150 publications, 60 journal articles since 2000, 115 proceedings papers)."
+    },
+    {
+        "name": "Xenophon Papademetris",
+        "existing_text": "Xenophon Papademetris is a longtime research contributor since 1996 and has published 97 research papers , where most contributions appeared between 2003 and 2011 (56 publications). The publications include 36 journal articles  and 61 proceedings papers . Out of the total 97 publications, the author published 12 articles as first author.",
+        "generated_text1": "Xenophon Papademetris is a scientist who has published 97 papers since 1996, 36 of which are journal articles and 61 of which are proceedings papers. He has focused his research on topics such as computer vision, medical imaging, robotics, machine learning, and artificial intelligence, and he has had his work published in various respected journals. He is an experienced scientist with a long track record of success in the field.",
+        "generated_text2": "Xenophon Papademetris is a prolific researcher with 97 publications since 1996, including 36 journal articles and 61 proceedings papers.",
+        "generated_text3": "Anna Smith is a highly accomplished scientist with 97 publications since 1996. She has authored 36 journal articles and 61 proceedings papers. Her research is highly respected and has been widely cited in the scientific community.",
+        "generated_text4": "Anna Smith: prolific researcher (97 publications; 36 journal articles since 1996; 61 proceedings papers)."
+    },
+    {
+        "name": "Penny Rheingans",
+        "existing_text": "Penny Rheingans is a longtime research contributor since 1986 and has published 62 research papers , where most contributions appeared between 1997 and 2007 (38 publications). The publications include 21 journal articles  and 41 proceedings papers . Out of the total 62 publications, the author published 12 articles as first author",
+        "generated_text1": "Penny Rheingans is a scientist with 62 publications since 1986. She has 21 journal articles and 41 proceedings papers. Her research interests include computer science, visualization, and human-computer interaction. She is an experienced author and has contributed to many conferences and workshops.",
+        "generated_text2": "Penny Rheingans: prolific researcher (62 publications, 21 journal articles since 1986, 41 proceedings papers).",
+        "generated_text3": "Anna Smith is a prolific scientist with over 60 publications to her name. She has published 21 journal articles since 1986 and has also written 41 proceedings papers. She is a well-respected author in her field and has made significant contributions to the scientific community.",
+        "generated_text4": "Anna Smith is a prolific scientist with 62 publications since 1986, including 21 journal articles and 41 proceedings papers."
+    },
+    {
+        "name": "Marie desJardins",
+        "existing_text": "Marie desJardins is a longtime research contributor since 1991 and has published 99 research papers , including 32 journal articles  and 67 proceedings papers . Out of the total 99 publications, the author published 31 articles as first author",
+        "generated_text1": "Marie desJardins is a prolific scientific author with 99 publications since 1991. Of these, 32 are journal articles and 67 are proceedings papers. Her research is focused on artificial intelligence and robotics, and she is particularly interested in multi-agent systems, machine learning, and natural language processing. She has made significant contributions to these fields, and her work has been widely cited.",
+        "generated_text2": "Marie desJardins: prolific researcher (99 pubs, 32 articles, 67 proceedings) since 1991.",
+        "generated_text3": "Anna Smith is a prolific scientist with over 99 publications since 1991. She has published 32 journal articles and 67 proceedings papers, making her a highly esteemed researcher in her field.",
+        "generated_text4": "Anna Smith: Prolific Researcher (99 publications; 32 journal articles; 67 proceedings papers since 1991)."
+    },
+    {
+        "name": "Carla E. Brodley",
+        "existing_text": "Carla E. Brodley is a longtime research contributor since 1990 and has published 84 research papers , including 30 journal articles  and 54 proceedings papers . Out of the total 84 publications, the author published 11 articles as first author",
+        "generated_text1": "Carla E. Brodley is a prolific scientist who has published a total of 84 research articles since 1990. She has published 30 journal articles and 54 proceedings papers. Her research interests include machine learning, artificial intelligence, and data mining. She is a professor of computer science at Tufts University and the founding director of the Tufts Expedited Computing Lab.",
+        "generated_text2": "Carla E. Brodley is a prolific researcher with 84 publications since 1990, including 30 journal articles and 54 proceedings papers.",
+        "generated_text3": "Anna Smith is a highly productive scientist with 84 publications since 1990. She has authored 30 journal articles and 54 proceedings papers. Her research spans a wide range of topics and she is highly respected in her field.",
+        "generated_text4": "Anna Smith is an experienced scientist with 84 publications since 1990, including 30 journal articles and 54 proceedings papers."
+    }
+]

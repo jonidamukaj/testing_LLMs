@@ -1,0 +1,122 @@
+[
+    {
+        "name": "Ben Shneiderman",
+        "existing_text2": "Shneiderman was a core member of the visualization community. Shneiderman's expertise mainly covers the subfields of information visualization and visual analytics. A focus area of the author was the visualization of hierarchy data.Currently, the author is contributing to the area of human-computer interaction. Researchers with similar areas of expertise\u24d8 are Stuart K. Card, George G. Robertson, Raimund Dachselt, and Pourang Irani.",
+        "generated_text1": "Ben Shneiderman: Renowned visualization expert, human-computer interaction researcher, and respected member of the visualization community.",
+        "generated_text2": "Ben Shneiderman: Visualization expert, Human-Computer Interaction, Information Visualization/Analytics, collaborated with Card, Robertson, Dachselt, Irani."
+    },
+    {
+        "name": "Fabian Beck",
+        "existing_text2": "Beck was a core member of the visualization community. Beck's expertise mainly covers the subfields of information visualization and visual analytics. The author also worked in the field of software engineering. Researchers with similar areas of expertise\u24d8 are Stephen G. Eick, Alexandru Telea, and James A. Jones.",
+        "generated_text1": "Fabian Beck: Visualization/Analytics Expert, Software Engineer, Collaborator with Stephen G. Eick, Alexandru Telea, and James A. Jones.",
+        "generated_text2": "Fabian Beck: Visualization expert focusing on information visualization and visual analytics, with experience in software engineering. Comparable to Stephen G. Eick, Alexandru Telea, and James A. Jones."
+    },
+    {
+        "name": "Mary Jean Harrold",
+        "existing_text2": "Harrold made contributions to the visualization research community with publications mainly within the subfield of information visualization. The author also worked in the field of software engineering. Researchers with similar areas of expertise\u24d8 are Kenny Wong, Hausi A. M\u00fcller, Shing-Chi Cheung, Ian Gorton, and Steven P. Reiss.",
+        "generated_text1": "Mary Jean Harrold: Visualization Expert, Software Engineer, Colleague of Wong, M\u00fcller, Cheung, Gorton, and Reiss.",
+        "generated_text2": "Mary Jean Harrold: Visualization/Information Visualization Expert, Software Engineer, Colleague of Kenny Wong, Hausi A. M\u00fcller, Shing-Chi Cheung, Ian Gorton, and Steven P. Reiss."
+    },
+    {
+        "name": "Stephan Diehl",
+        "existing_text2": "Diehl was a core member of the visualization community with publications mainly within the subfield of information visualization. The author also worked in the field of software engineering. Researchers with similar areas of expertise\u24d8 are James A. Jones, Steven P. Reiss, and Hausi A. M\u00fcller.",
+        "generated_text1": "Stephan Diehl: Visualization expert, software engineer, collaborator of Jones, Reiss and M\u00fcller.",
+        "generated_text2": "Stephan Diehl: Visualization Expert, Info Viz & Software Engineer, Influenced by Jones, Reiss & M\u00fcller."
+    },
+    {
+        "name": "Daniel Weiskopf",
+        "existing_text2": "Weiskopf is a current core member of the visualization community. Weiskopf has contributed to all information visualization, visual analytics, and scientific visualization. Focus areas of the author are flow visualization, volume visualization, graph visualization, the evaluation of visualization, and multimedia visualization. The author also worked in the fields of computer graphics, bioinformatics, and software engineering. Researchers with similar areas of expertise\u24d8 are Quang Vinh Nguyen, Jarke J. van Wijk, Jonathan C. Roberts, Heidrun Schumann, and Mikael Jern.",
+        "generated_text1": "Daniel Weiskopf: Visualization expert, computer graphics, bioinformatics, software engineer, studied by Quang Vinh Nguyen, Jarke J. van Wijk, Jonathan C. Roberts, Heidrun Schumann, and Mikael Jern.",
+        "generated_text2": "Daniel Weiskopf: Visualization researcher, expert in information visualization, visual analytics, and scientific visualization; experienced in computer graphics, bioinformatics, and software engineering; aligned with Quang Vinh Nguyen, Jarke J. van Wijk, Jonathan C. Roberts, Heidrun Schumann, and Mikael Jern."
+    },
+    {
+        "name": "Michael Burch",
+        "existing_text2": "Burch was a core member of the visualization community. Burch's expertise mainly covers the subfields of information visualization and visual analytics. Focus areas of the author were graph visualization and the evaluation of visualization. The author also worked in the field of software engineering. Researchers with similar areas of expertise\u24d8 are Andreas Kerren, David Auber, Jimmy Johansson, and Mikael Jern.",
+        "generated_text1": "Michael Burch: Visualization expert, software engineer, works on information visualization and visual analytics, similar to Andreas Kerren, David Auber, Jimmy Johansson, and Mikael Jern.",
+        "generated_text2": "Michael Burch: Visualization/Analytics Expert, Software Engineer, Co-researcher with Kerren, Auber, Johansson, and Jern."
+    },
+    {
+        "name": "James A. Jones",
+        "existing_text2": "Jones was a member of the visualization community with publications mainly within the subfield of information visualization. The author also worked in the field of software engineering. Researchers with similar areas of expertise are Steven P. Reiss, Hausi A. M\u00fcller, and Kenny Wong.",
+        "generated_text1": "James A. Jones is a renowned researcher in the visualization community, specializing in information visualization, software engineering, and collaborating with similar researchers such as Steven P. Reiss, Hausi A. M\u00fcller, and Kenny Wong.",
+        "generated_text2": "James A. Jones: Visualization Expert, Software Engineering, Collaborator with Reiss, M\u00fcller, and Wong."
+    },
+    {
+        "name": "Catherine Plaisant",
+        "existing_text2": "Plaisant is a current core member of the visualization community. Plaisant's expertise mainly covers the subfields of information visualization and visual analytics. The author is also contributing to the area of human-computer interaction. Researchers with similar areas of expertise\u24d8 are George G. Robertson, Stuart K. Card, and Pierre Dragicevic.",
+        "generated_text1": "Catherine Plaisant: Visualization expert, HCI researcher, worked with Robertson, Card and Dragicevic.",
+        "generated_text2": "Catherine Plaisant: Visualization Expert, HCI, Information Visualization and Visual Analytics, Collaborated with Robertson, Card and Dragicevic."
+    },
+    {
+        "name": "Benjamin B. Bederson",
+        "existing_text2": "Bederson was a member of the visualization community. Bederson's expertise mainly covers the subfields of information visualization and visual analytics. The author also worked in the fields of human-computer interaction, digital libraries, robotics, vision, and software engineering. Researchers with similar areas of expertise\u24d8 are Harald Reiterer, Kasper Hornb\u00e6k, and Andreas Butz.",
+        "generated_text1": "Benjamin B. Bederson: Visualization pioneer, HCI leader, digital libraries innovator, robotics mentor, vision expert, software engineer, colleague of Reiterer, Hornb\u00e6k, and Butz.",
+        "generated_text2": "Benjamin B. Bederson: Visualization Expert, HCI, DL, Robotics, Vision, SE. Colleagues: Reiterer, Hornb\u00e6k, Butz."
+    },
+    {
+        "name": "Stuart K. Card",
+        "existing_text2": "Card was a member of the visualization community. Card's expertise mainly covers the subfields of information visualization and visual analytics. The author also worked in the fields of human-computer interaction and computer graphics. Researchers with similar areas of expertise\u24d8 are Pierre Dragicevic, Ben Shneiderman, Achim Ebert, Pourang Irani, and St\u00e9phane Conversy.",
+        "generated_text1": "Stuart K. Card: Visualization expert, Human-Computer Interaction, Computer Graphics, similar to Dragicevic, Shneiderman, Ebert, Irani, Conversy.",
+        "generated_text2": "Stuart K. Card: Visualization expert, HCI/graphics researcher, prominent in community, similar to Dragicevic, Shneiderman, Ebert, Irani, Conversy."
+    },
+    {
+        "name": "Achim Ebert",
+        "existing_text2": "Ebert is a current core member of the visualization community. Ebert's expertise mainly covers the subfields of information visualization and visual analytics. The author is also contributing to the area of human-computer interaction. Researchers with similar areas of expertise\u24d8 are George G. Robertson, Stuart K. Card, and Raimund Dachselt.",
+        "generated_text1": "Achim Ebert is a prominent researcher in the visualization community, specializing in information visualization and visual analytics, with a background in human-computer interaction. He is similar to researchers such as George G. Robertson, Stuart K. Card, and Raimund Dachselt.",
+        "generated_text2": "Achim Ebert: Visualization expert specializing in Information Visualization and Visual Analytics, with expertise in Human-Computer Interaction. Colleagues include George G. Robertson, Stuart K. Card, and Raimund Dachselt."
+    },
+    {
+        "name": "Mary C. Whitton",
+        "existing_text2": "Whitton made contributions to the visualization research community. A focus area of the author was the visualization of medical data. The author also worked in the fields of virtual/mixed reality, computer graphics, and human-computer interaction. Researchers with similar areas of expertise\u24d8 are Anatole L\u00e9cuyer, Evan A. Suma, Denis Kalkofen, Dieter Schmalstieg, and Larry F. Hodges.",
+        "generated_text1": "Mary C. Whitton: Visualization expert in medical data, VR/CG/HCI, colleague of L\u00e9cuyer et al.",
+        "generated_text2": "Mary C. Whitton: Visualization expert, medical data, virtual/mixed reality, computer graphics, human-computer interaction, similar to Anatole L\u00e9cuyer, Evan A. Suma, Denis Kalkofen, Dieter Schmalstieg, Larry F. Hodges."
+    },
+    {
+        "name": "Henry Fuchs",
+        "existing_text2": "Fuchs was a member of the visualization community. A focus area of the author was immersive visualization. The author also worked in the fields of virtual/mixed reality, computer graphics, and bioinformatics. Researchers with similar areas of expertise\u24d8 are Frederick P. Brooks Jr., Anatole L\u00e9cuyer, and Zachary Wartell.",
+        "generated_text1": "Henry Fuchs: Immersive Visualization Pioneer, renowned for contributions to Virtual/Mixed Reality, Computer Graphics, and Bioinformatics, alongside peers such as Frederick P. Brooks Jr., Anatole L\u00e9cuyer, and Zachary Wartell.",
+        "generated_text2": "Henry Fuchs: Visualization expert in immersive visualization, virtual/mixed reality, computer graphics, and bioinformatics; colleague of Brooks, L\u00e9cuyer, and Wartell."
+    },
+    {
+        "name": "Dieter Schmalstieg",
+        "existing_text2": "Schmalstieg was a member of the visualization community. Schmalstieg contributed to all information visualization, visual analytics, and scientific visualization.Currently, the author is contributing to the area of vision. In the past, the author also worked in the fields of virtual/mixed reality, computer graphics, and human-computer interaction. Researchers with similar areas of expertise\u24d8 are Larry F. Hodges, Anatole L\u00e9cuyer, Evan A. Suma, Doug A. Bowman, and Mary C. Whitton.",
+        "generated_text1": "Dieter Schmalstieg: Visualization pioneer, expertise in information visualization, visual analytics, scientific visualization, virtual/mixed reality, computer graphics, and human-computer interaction, similar to Larry F. Hodges, Anatole L\u00e9cuyer, Evan A. Suma, Doug A. Bowman, and Mary C. Whitton.",
+        "generated_text2": "Dieter Schmalstieg: Visualization Expert, VR/CG/HCI, Colleague of Hodges et al."
+    },
+    {
+        "name": "Anna Celler",
+        "existing_text2": "Celler made contributions to the visualization research community. A focus area of the author was the visualization of medical data. Current research areas of the author are bioinformatics and biomedical imaging.",
+        "generated_text1": "Anna Celler: Visualization expert specializing in medical data, with experience in bioinformatics and biomedical imaging.",
+        "generated_text2": "Anna Celler: Medical Visualization Expert, Bioinformatics, Biomedical Imaging."
+    },
+    {
+        "name": "Ghassan Hamarneh",
+        "existing_text2": "Hamarneh made contributions to the visualization research community. Current research areas of the author are bioinformatics and biomedical imaging. Researchers with similar areas of expertise are William M. Wells III, Albert J. Sinusas, Lawrence H. Staib, and Xenophon Papademetris.",
+        "generated_text1": "Ghassan Hamarneh: Visualization expert in bioinformatics and biomedical imaging, connected with researchers Wells III, Sinusas, Staib, and Papademetris.",
+        "generated_text2": "Ghassan Hamarneh: Visualization expert in bioinformatics and biomedical imaging, similar to William M. Wells III, Albert J. Sinusas, Lawrence H. Staib, and Xenophon Papademetris."
+    },
+    {
+        "name": "Xenophon Papademetris",
+        "existing_text2": "Papademetris made contributions to the visualization research community. A focus area of the author was the visualization of medical data. Current research areas of the author are bioinformatics and biomedical imaging. Researchers with similar areas of expertise are William M. Wells III, Ronald M. Summers, and Ghassan Hamarneh.",
+        "generated_text1": "Xenophon Papademetris: Visualization expert in bioinformatics and biomedical imaging, part of the visualization community alongside William M. Wells III, Ronald M. Summers, and Ghassan Hamarneh.",
+        "generated_text2": "Xenophon Papademetris: Visualization expert in bioinformatics/biomedical imaging, similar to Wells III, Summers, and Hamarneh."
+    },
+    {
+        "name": "Penny Rheingans",
+        "existing_text2": "Rheingans was a core member of the visualization community with publications mainly within the subfield of information visualization. Focus areas of the author were time-oriented, uncertainty, illustrative, and multivariate data visualization. The author also worked in the field of computer graphics. Researchers with similar areas of expertise\u24d8 are Oliver Deussen, Pat Hanrahan, Kwan-Liu Ma, and Patric Ljung.",
+        "generated_text1": "Penny Rheingans: Visualization expert specializing in time-oriented, uncertainty, illustrative, and multivariate data visualization, with experience in computer graphics. Influential member of the visualization community alongside Oliver Deussen, Pat Hanrahan, Kwan-Liu Ma, and Patric Ljung.",
+        "generated_text2": "Penny Rheingans: Visualization expert, time-oriented, uncertainty, illustrative, multivariate data visualization, computer graphics, similar to Deussen, Hanrahan, Ma, and Ljung."
+    },
+    {
+        "name": "Marie desJardins",
+        "existing_text2": "desJardins was a member of the visualization community with publications mainly within the subfield of information visualization. A focus area of the author was the visualization of time-oriented data. The author also worked in the fields of machine learning, education, and bioinformatics. Researchers with similar areas of expertise\u24d8 are Gregory Piatetsky-Shapiro, Guy Lebanon, Yangqiu Song, Stefan Wrobel, and Carla E. Brodley.",
+        "generated_text1": "Marie desJardins: Visualization expert in time-oriented data, connected to machine learning, education, and bioinformatics; similar to Piatetsky-Shapiro, Lebanon, Song, Wrobel and Brodley.",
+        "generated_text2": "Marie desJardins: Visualization expert specializing in time-oriented data, with background in machine learning, education, and bioinformatics. Simmilar researchers include Gregory Piatetsky-Shapiro, Guy Lebanon, Yangqiu Song, Stefan Wrobel, and Carla E. Brodley."
+    },
+    {
+        "name": "Carla E. Brodley",
+        "existing_text2": "Brodley made contributions to the visualization research community. The author also worked in the fields of machine learning, vision, and bioinformatics. Researchers with similar areas of expertise are Gregory Piatetsky-Shapiro, Guy Lebanon, Guido Tack, Stefan Wrobel, and Lise Getoor.",
+        "generated_text1": "Carla E. Brodley: Visualization expert, machine learning, vision, bioinformatics, connected to Piatetsky-Shapiro et al.",
+        "generated_text2": "Carla E. Brodley: Visualization expert, machine learning, vision, bioinformatics, co-researcher with Piatetsky-Shapiro, Lebanon, Tack, Wrobel, Getoor."
+    }
+]
