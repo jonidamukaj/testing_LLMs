@@ -1,0 +1,203 @@
+{
+    "adjectives_per_author": {
+        "Ben Shneiderman": {
+            "active": 1,
+            "longtime": 1,
+            "scientific": 1,
+            "experienced": 1,
+            "long": 1,
+            "likely": 1,
+            "strong": 1,
+            "Prominent": 1
+        },
+        "Fabian Beck": {
+            "active": 1,
+            "total": 1,
+            "first": 1,
+            "Multi-Dimensional": 1,
+            "scientific": 1,
+            "productive": 1,
+            "proceedings": 1,
+            "well-versed": 1,
+            "likely": 1,
+            "experienced": 1,
+            "Productive": 1
+        },
+        "Mary Jean Harrold": {
+            "active": 2,
+            "longtime": 1,
+            "more": 1,
+            "scientific": 1,
+            "productive": 1,
+            "journal": 2,
+            "proceedings": 1,
+            "least": 1
+        },
+        "Stephan Diehl": {
+            "active": 1,
+            "longtime": 1,
+            "more": 1,
+            "Semantics-directed": 1,
+            "abstract": 1,
+            "scientific": 1,
+            "prolific": 1,
+            "proceedings": 1
+        },
+        "Daniel Weiskopf": {
+            "active": 1,
+            "more": 1,
+            "scientific": 1,
+            "productive": 1,
+            "wide": 1,
+            "peer-reviewed": 1,
+            "non-peer-reviewed": 1
+        },
+        "Michael Burch": {
+            "active": 1,
+            "more": 1,
+            "most": 1,
+            "scientific": 1,
+            "prolific": 1,
+            "wide": 1,
+            "extensive": 1
+        },
+        "James A. Jones": {
+            "longtime": 1,
+            "total": 1,
+            "first": 1,
+            "Semi-automatic": 1,
+            "scientific": 1,
+            "productive": 1
+        },
+        "Catherine Plaisant": {
+            "active": 1,
+            "longtime": 1,
+            "more": 1,
+            "scientific": 2,
+            "prolific": 1,
+            "extensive": 1,
+            "long": 1,
+            "distinguished": 1
+        },
+        "Benjamin B. Bederson": {
+            "active": 1,
+            "longtime": 1,
+            "scientific": 2,
+            "impressive": 1,
+            "long": 1,
+            "prolific": 1,
+            "total": 1
+        },
+        "Stuart K. Card": {
+            "total": 1,
+            "first": 1,
+            "scientific": 2,
+            "productive": 1,
+            "active": 1,
+            "past": 1,
+            "significant": 1,
+            "Productive": 1
+        },
+        "Achim Ebert": {
+            "active": 1,
+            "longtime": 1,
+            "more": 1,
+            "most": 1,
+            "Context-sensitive": 1,
+            "scientific": 1,
+            "productive": 1
+        },
+        "Mary C. Whitton": {
+            "longtime": 1,
+            "most": 1,
+            "total": 1,
+            "first": 1,
+            "scientific": 1,
+            "well-established": 1,
+            "long": 1
+        },
+        "Henry Fuchs": {
+            "active": 1,
+            "longtime": 1,
+            "more": 1,
+            "scientific": 1,
+            "prolific": 1,
+            "major": 1,
+            "wide": 1
+        },
+        "Dieter Schmalstieg": {
+            "active": 1,
+            "longtime": 1,
+            "more": 1,
+            "scientific": 1,
+            "prolific": 1,
+            "long": 1,
+            "multiple": 1
+        },
+        "Anna Celler": {
+            "active": 1,
+            "total": 1,
+            "first": 1,
+            "scientific": 1,
+            "productive": 1,
+            "likely": 1,
+            "wide-ranging": 1
+        },
+        "Ghassan Hamarneh": {
+            "active": 1,
+            "more": 1,
+            "scientific": 1,
+            "accomplished": 1,
+            "reliable": 1,
+            "authoritative": 1,
+            "Productive": 1
+        },
+        "Xenophon Papademetris": {
+            "longtime": 1,
+            "most": 1,
+            "total": 1,
+            "first": 1,
+            "scientific": 1,
+            "productive": 1,
+            "strong": 1,
+            "traditional": 1,
+            "innovative": 1,
+            "Highly-published": 1
+        },
+        "Penny Rheingans": {
+            "longtime": 1,
+            "most": 1,
+            "total": 1,
+            "first": 1,
+            "scientific": 1,
+            "productive": 1,
+            "likely": 1,
+            "experienced": 1,
+            "prolific": 1,
+            "long": 1
+        },
+        "Marie desJardins": {
+            "longtime": 1,
+            "total": 1,
+            "first": 1,
+            "scientific": 1,
+            "prolific": 1,
+            "proceedings": 1,
+            "productive": 1,
+            "least": 1
+        },
+        "Carla E. Brodley": {
+            "longtime": 1,
+            "total": 1,
+            "first": 1,
+            "scientific": 1,
+            "productive": 1,
+            "long": 1,
+            "proceedings": 1,
+            "likely": 1,
+            "significant": 1,
+            "available": 1,
+            "Productive": 1
+        }
+    }
+}

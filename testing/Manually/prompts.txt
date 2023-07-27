@@ -1,0 +1,27 @@
+
+CHATGPT GPT-3 by default
+# Prompt templates
+
+prompt_template1 = "Please describe briefly the following scientific author and consider the following information:
+Name: Ben Shneiderman, 400 publications since 1972,  208 journal articles,197 proceedings papers.
+
+prompt_template2 = "Please describe with a few words the following scientific author and consider the following information:
+Name: Ben Shneiderman, 400 publications since 1972,  208 journal articles,197 proceedings papers.
+
+prompt_template3 = "Please describe shortly the following scientific author and consider only the following information:
+Name: Ben Shneiderman, 400 publications since 1972,  208 journal articles,197 proceedings papers.
+
+prompt_template4 = "Please describe concisely the following scientific author and consider only the following information:
+Name: Ben Shneiderman, 400 publications since 1972,  208 journal articles,197 proceedings papers.
+
+prompt_template5 = "Please describe in short concise sentences:Name: 
+Ben Shneiderman, 400 publications since 1972,  208 journal articles,197 proceedings papers.
+
+prompt_template6 = "Use the provided context when describing the following scientific author:
+Name: Ben Shneiderman, 400 publications since 1972,  208 journal articles,197 proceedings papers.
+
+prompt_template7 = "Imagine a renowned inventor named {name} who has contributed significantly to various fields. 
+Please describe this inventor and their creations based on the following information:
+Name: Ben Shneiderman, 400 publications since 1972,  208 journal articles,197 proceedings papers.
+
+
