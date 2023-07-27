@@ -1,0 +1,165 @@
+{
+    "adjectives_per_author": {
+        "Ben Shneiderman": {
+            "active": 1,
+            "longtime": 1,
+            "productive": 1,
+            "human-computer": 1,
+            "numerous": 1,
+            "prolific": 1
+        },
+        "Fabian Beck": {
+            "active": 2,
+            "Multi-Dimensional": 1,
+            "scientific": 1,
+            "wide": 1,
+            "deep": 1,
+            "Frequent": 1,
+            "proceedings": 1
+        },
+        "Mary Jean Harrold": {
+            "active": 1,
+            "longtime": 1,
+            "prolific": 2,
+            "scientific": 2,
+            "important": 1
+        },
+        "Stephan Diehl": {
+            "active": 1,
+            "longtime": 1,
+            "Semantics-directed": 1,
+            "abstract": 1,
+            "prolific": 3,
+            "scientific": 1,
+            "journal": 3,
+            "influential": 1,
+            "Prominent": 1
+        },
+        "Daniel Weiskopf": {
+            "active": 1,
+            "prolific": 1,
+            "scientific": 2,
+            "established": 1,
+            "proceedings": 1
+        },
+        "Michael Burch": {
+            "active": 1,
+            "scientific": 1,
+            "wide": 1
+        },
+        "James A. Jones": {
+            "longtime": 1,
+            "Semi-automatic": 1,
+            "prolific": 2,
+            "wide": 1,
+            "broad": 1,
+            "established": 1,
+            "long": 1,
+            "Prominent": 1,
+            "scientific": 1,
+            "proceedings": 1
+        },
+        "Catherine Plaisant": {
+            "active": 1,
+            "longtime": 1,
+            "renowned": 1,
+            "scientific": 1,
+            "such": 1,
+            "Ubiquitous": 1,
+            "academic": 1
+        },
+        "Benjamin B. Bederson": {
+            "active": 1,
+            "longtime": 1,
+            "impressive": 1,
+            "journal": 3,
+            "prolific": 1,
+            "likely": 2,
+            "significant": 1,
+            "Prominent": 1,
+            "established": 1
+        },
+        "Stuart K. Card": {
+            "total": 2,
+            "American": 1,
+            "human-computer": 1,
+            "Prominent": 1
+        },
+        "Achim Ebert": {
+            "active": 1,
+            "longtime": 1,
+            "Context-sensitive": 1,
+            "long": 1,
+            "prolific": 1,
+            "scientific": 1
+        },
+        "Mary C. Whitton": {
+            "longtime": 1,
+            "total": 1,
+            "prolific": 1,
+            "scientific": 1
+        },
+        "Henry Fuchs": {
+            "active": 1,
+            "longtime": 1,
+            "esteemed": 1,
+            "significant": 1,
+            "scientific": 1
+        },
+        "Dieter Schmalstieg": {
+            "active": 1,
+            "longtime": 1,
+            "well-known": 1,
+            "virtual": 1,
+            "augmented": 1
+        },
+        "Anna Celler": {
+            "active": 1,
+            "journal": 4,
+            "scientific": 1,
+            "established": 1,
+            "extensive": 1,
+            "Experienced": 1,
+            "proceedings": 1
+        },
+        "Ghassan Hamarneh": {
+            "active": 1,
+            "prolific": 2,
+            "scientific": 1,
+            "medical": 2,
+            "artificial": 1,
+            "innovative": 1,
+            "computer-aided": 1
+        },
+        "Xenophon Papademetris": {
+            "longtime": 1,
+            "prolific": 1,
+            "scientific": 2,
+            "wide-ranging": 1,
+            "various": 1,
+            "proceedings": 1
+        },
+        "Penny Rheingans": {
+            "longtime": 1,
+            "prolific": 1,
+            "numerous": 1,
+            "academic": 1,
+            "scientific": 1
+        },
+        "Marie desJardins": {
+            "longtime": 1,
+            "prolific": 2,
+            "accomplished": 1,
+            "scientific": 1,
+            "artificial": 1,
+            "multi-agent": 1,
+            "educational": 1,
+            "proceedings": 1
+        },
+        "Carla E. Brodley": {
+            "longtime": 1,
+            "prominent": 1,
+            "artificial": 1
+        }
+    }
+}
