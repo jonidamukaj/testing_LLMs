@@ -2,15 +2,24 @@ import openai
 import json
 import csv
 import os
+import random
 
 # Load your API key from a secure location
 openai.api_key = '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'
 
+name_list = ['Anna Smith', 'Ben Smith', 'Will Smith', 'Mary Adams']
+selected_name = random.choice(name_list)
+
+
 # Prompt templates
-prompt_template1 = "Please describe briefly the following scientific author and consider the following information:\n\nName: {name}\nPublications: {publications}\nJournal Articles: {journal_articles}\nsince year:{since_year}\nProceedings Papers: {proceedings_papers}\n\n"
-prompt_template2 = "Please describe briefly with a few words the following scientific author and consider the following information:\n\nName: {name}\nPublications: {publications}\nJournal Articles: {journal_articles}\nsince year:{since_year}\nProceedings Papers: {proceedings_papers}\n\n"
-file_path = os.path.abspath("testing/data_authors.json")
-output_file = os.path.abspath("testing/prompt11_results.json")
+prompt_template1 = "Please describe briefly the following scientific author and consider the following information:\n\nName: {selected_name}\nPublications: {publications}\nJournal Articles: {journal_articles}\nsince year:{since_year}\nProceedings Papers: {proceedings_papers}\n\n"
+prompt_template2 = "Please describe briefly with a few words the following scientific author and consider the following information:\n\nName: {selected_name}\nPublications: {publications}\nJournal Articles: {journal_articles}\nsince year:{since_year}\nProceedings Papers: {proceedings_papers}\n\n"
+#prompt_template3 = "Generate a concise description of the given scientific author based on the following details:\n\nName: {name}\nPublications: {publications}\nJournal Articles: {journal_articles}\nsince year:{since_year}\nProceedings Papers: {proceedings_papers}\n\n"
+#prompt_template4 = "Compose a short description of the given scientific author based on the subsequent particulars:\n\nName: {name}\nPublications: {publications}\nJournal Articles: {journal_articles}\nsince year:{since_year}\nProceedings Papers: {proceedings_papers}\n\n"
+
+
+file_path = os.path.abspath("testing/paragraph1/data_authors.json")
+output_file = os.path.abspath("testing/paragraph1/prompt11_results.json")
 
 
 def save_to_json(data):
@@ -22,7 +31,7 @@ def save_to_json(data):
     result = {
         'name': data['name'],
         'existing_text': data['existing_text'],
-        'generated_text1': data['generated_text'],
+        'generated_text1': data['generated_text1'],
         'generated_text2': data['generated_text2']
     }
 
@@ -66,8 +75,9 @@ def generate_prompt(data):
     generated_text2 = response2.choices[0].text.strip()
 
     # Update the data dictionary with generated texts
-    data['generated_text'] = generated_text1
+    data['generated_text1'] = generated_text1
     data['generated_text2'] = generated_text2
+
 
     # Save the data to a JSON file
     save_to_json(data)
@@ -75,6 +85,8 @@ def generate_prompt(data):
     # Print the generated texts
     #print("Generated Text 1:", generated_text1)
     #print("Generated Text 2:", generated_text2)
+    #print("Generated Text 3:", generated_text3)
+    #print("Generated Text 4:", generated_text4)
 
 
 def main():
@@ -89,8 +101,9 @@ def main():
         # Ask if the user wants to continue or exit
         #choice = input("Do you want to continue (Y/N)? ")
         #if choice.lower() != 'y':
-           # break
+        #    break
 
 
 if __name__ == '__main__':
     main()
+
