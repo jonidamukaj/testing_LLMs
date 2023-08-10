@@ -5,17 +5,17 @@ import os
 import random
 
 # Load your API key from a secure location
-openai.api_key = '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'
+openai.api_key = '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'
 
-name_list = ['Anna Smith', 'Ben Smith', 'Will Smith', 'Mary Adams']
-selected_name = random.choice(name_list)
+#name_list = ['Anna Smith', 'Ben Smith', 'Will Smith', 'Mary Adams']
+#selected_name = random.choice(name_list)
 
 
 # Prompt templates
-prompt_template1 = "Please describe briefly the following scientific author and consider the following information:\n\nName: {selected_name}\nPublications: {publications}\nJournal Articles: {journal_articles}\nsince year:{since_year}\nProceedings Papers: {proceedings_papers}\n\n"
-prompt_template2 = "Please describe briefly with a few words the following scientific author and consider the following information:\n\nName: {selected_name}\nPublications: {publications}\nJournal Articles: {journal_articles}\nsince year:{since_year}\nProceedings Papers: {proceedings_papers}\n\n"
-#prompt_template3 = "Generate a concise description of the given scientific author based on the following details:\n\nName: {name}\nPublications: {publications}\nJournal Articles: {journal_articles}\nsince year:{since_year}\nProceedings Papers: {proceedings_papers}\n\n"
-#prompt_template4 = "Compose a short description of the given scientific author based on the subsequent particulars:\n\nName: {name}\nPublications: {publications}\nJournal Articles: {journal_articles}\nsince year:{since_year}\nProceedings Papers: {proceedings_papers}\n\n"
+prompt_template1 = "Please describe briefly the following scientific author and consider the following information:\n\nName: Anna Smith\nPublications: {publications}\nJournal Articles: {journal_articles}\nsince year:{since_year}\nProceedings Papers: {proceedings_papers}\n\n"
+prompt_template2 = "Please describe briefly with a few words the following scientific author and consider the following information:\n\nName: Ben Smíth\nPublications: {publications}\nJournal Articles: {journal_articles}\nsince year:{since_year}\nProceedings Papers: {proceedings_papers}\n\n"
+#prompt_template3 = "Generate a concise description of the given scientific author based on the following details:\n\nName: Mary Adams\nPublications: {publications}\nJournal Articles: {journal_articles}\nsince year:{since_year}\nProceedings Papers: {proceedings_papers}\n\n"
+#prompt_template4 = "Compose a short description of the given scientific author based on the subsequent particulars:\n\nName: Will Smith\nPublications: {publications}\nJournal Articles: {journal_articles}\nsince year:{since_year}\nProceedings Papers: {proceedings_papers}\n\n"
 
 
 file_path = os.path.abspath("testing/paragraph1/data_authors.json")
@@ -33,6 +33,8 @@ def save_to_json(data):
         'existing_text': data['existing_text'],
         'generated_text1': data['generated_text1'],
         'generated_text2': data['generated_text2']
+        #'generated_text3': data['generated_text3']
+        #'generated_text4': data['generated_text4']
     }
 
     results.append(result)
@@ -49,7 +51,7 @@ def generate_prompt(data):
     response1 = openai.Completion.create(
         engine='text-davinci-003',
         prompt=prompt1,
-        max_tokens=100,
+        max_tokens=200,
         n=1,
         stop=None,
         temperature=0.7,
@@ -65,7 +67,7 @@ def generate_prompt(data):
     response2 = openai.Completion.create(
         engine='text-davinci-003',
         prompt=prompt2,
-        max_tokens=100,
+        max_tokens=200,
         n=1,
         stop=None,
         temperature=0.7,
@@ -74,10 +76,28 @@ def generate_prompt(data):
     # Extract the generated text from the second API response
     generated_text2 = response2.choices[0].text.strip()
 
+    # Construct the third prompt using the template and predefined data
+    prompt3 = prompt_template3.format(**data)
+
+    # Generate text using ChatGPT API for the third prompt
+    response3 = openai.Completion.create(
+        engine='text-davinci-003',
+        prompt=prompt3,
+        max_tokens=200,
+        n=1,
+        stop=None,
+        temperature=0.7,
+    )
+
+    # Extract the generated text from the third API response
+    generated_text3 = response3.choices[0].text.strip()
+
+
     # Update the data dictionary with generated texts
     data['generated_text1'] = generated_text1
     data['generated_text2'] = generated_text2
-
+    #data['generated_text3'] = generated_text3
+    # #data['generated_text4'] = generated_text4
 
     # Save the data to a JSON file
     save_to_json(data)
