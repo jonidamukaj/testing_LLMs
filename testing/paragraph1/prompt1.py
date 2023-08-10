@@ -3,6 +3,8 @@ import json
 import csv
 import os
 import random
+import time
+
 
 # Load your API key from a secure location
 openai.api_key = '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'
@@ -13,8 +15,8 @@ openai.api_key = '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'
 
 # Prompt templates
 prompt_template1 = "Please describe briefly the following scientific author and consider the following information:\n\nName: Anna Smith\nPublications: {publications}\nJournal Articles: {journal_articles}\nsince year:{since_year}\nProceedings Papers: {proceedings_papers}\n\n"
-prompt_template2 = "Please describe briefly with a few words the following scientific author and consider the following information:\n\nName: Ben Smíth\nPublications: {publications}\nJournal Articles: {journal_articles}\nsince year:{since_year}\nProceedings Papers: {proceedings_papers}\n\n"
-#prompt_template3 = "Generate a concise description of the given scientific author based on the following details:\n\nName: Mary Adams\nPublications: {publications}\nJournal Articles: {journal_articles}\nsince year:{since_year}\nProceedings Papers: {proceedings_papers}\n\n"
+prompt_template2 = "Please describe briefly with a few words the following scientific author and consider the following information:\n\nName: Ben Smith\nPublications: {publications}\nJournal Articles: {journal_articles}\nsince year:{since_year}\nProceedings Papers: {proceedings_papers}\n\n"
+prompt_template3 = "Generate a concise description of the given scientific author based on the following details:\n\nName: Mary Adams\nPublications: {publications}\nJournal Articles: {journal_articles}\nsince year:{since_year}\nProceedings Papers: {proceedings_papers}\n\n"
 #prompt_template4 = "Compose a short description of the given scientific author based on the subsequent particulars:\n\nName: Will Smith\nPublications: {publications}\nJournal Articles: {journal_articles}\nsince year:{since_year}\nProceedings Papers: {proceedings_papers}\n\n"
 
 
@@ -32,8 +34,8 @@ def save_to_json(data):
         'name': data['name'],
         'existing_text': data['existing_text'],
         'generated_text1': data['generated_text1'],
-        'generated_text2': data['generated_text2']
-        #'generated_text3': data['generated_text3']
+        'generated_text2': data['generated_text2'],
+        'generated_text3': data['generated_text3']
         #'generated_text4': data['generated_text4']
     }
 
@@ -51,7 +53,7 @@ def generate_prompt(data):
     response1 = openai.Completion.create(
         engine='text-davinci-003',
         prompt=prompt1,
-        max_tokens=200,
+        max_tokens=100,
         n=1,
         stop=None,
         temperature=0.7,
@@ -67,7 +69,7 @@ def generate_prompt(data):
     response2 = openai.Completion.create(
         engine='text-davinci-003',
         prompt=prompt2,
-        max_tokens=200,
+        max_tokens=100,
         n=1,
         stop=None,
         temperature=0.7,
@@ -83,7 +85,7 @@ def generate_prompt(data):
     response3 = openai.Completion.create(
         engine='text-davinci-003',
         prompt=prompt3,
-        max_tokens=200,
+        max_tokens=100,
         n=1,
         stop=None,
         temperature=0.7,
@@ -93,11 +95,12 @@ def generate_prompt(data):
     generated_text3 = response3.choices[0].text.strip()
 
 
+
     # Update the data dictionary with generated texts
     data['generated_text1'] = generated_text1
     data['generated_text2'] = generated_text2
-    #data['generated_text3'] = generated_text3
-    # #data['generated_text4'] = generated_text4
+    data['generated_text3'] = generated_text3
+    #data['generated_text4'] = generated_text4
 
     # Save the data to a JSON file
     save_to_json(data)
@@ -118,6 +121,16 @@ def main():
         # Generate prompts based on user data
         generate_prompt(user_data)
 
+        # Delay for 1 minute before processing the next author
+        time.sleep(60)  # Sleep for 60 seconds (1 minute)    
+
+    # Find the data for the author with name "Fabian Beck"
+    #for user_data in user_data_list:
+        #if user_data['name'] == "Stephan Diehl":
+            # Generate prompts based on the specified author data
+            #generate_prompt(user_data)
+            #break  # Exit the loop after processing the specified author
+
         # Ask if the user wants to continue or exit
         #choice = input("Do you want to continue (Y/N)? ")
         #if choice.lower() != 'y':
@@ -126,4 +139,5 @@ def main():
 
 if __name__ == '__main__':
     main()
+
 

@@ -2,19 +2,26 @@ import openai
 import json
 import csv
 import os
+import random
 import time
 
+
 # Load your API key from a secure location
-openai.api_key = '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 '
+openai.api_key = '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'
+
+#name_list = ['Anna Smith', 'Ben Smith', 'Will Smith', 'Mary Adams']
+#selected_name = random.choice(name_list)
+
 
 # Prompt templates
-prompt_template1 = "Please describe briefly the following scientific author and consider the following information:\n\nName: Anna Smith\nPublications: {publications}\nJournal Articles: {journal_articles}\nsince year:{since_year}\nProceedings Papers: {proceedings_papers}\n\n"
-prompt_template2 = "Please describe with a few words the following scientific author and consider the following information:\n\nName: Ben Smith\nPublications: {publications}\nJournal Articles: {journal_articles}\nsince year:{since_year}\nProceedings Papers: {proceedings_papers}\n\n"
-prompt_template3 = "Please describe shortly the following scientific author and consider only the following information:\n\nName: Mary Adams\nPublications: {publications}\nJournal Articles: {journal_articles}\nsince year:{since_year}\nProceedings Papers: {proceedings_papers}\n\n"
-#prompt_template4 = "Please describe concisely the following scientific author and consider only the following information:\n\nName: {name}\nPublications: {publications}\nJournal Articles: {journal_articles}\nsince year:{since_year}\nProceedings Papers: {proceedings_papers}\n\n"
+prompt_template1 = "Provide a brief overview of the scientific researcher below, considering the following data:\n\nName: Anna Smith\nPublications: {publications}\nJournal Articles: {journal_articles}\nsince year:{since_year}\nProceedings Papers: {proceedings_papers}\n\n"
+prompt_template2 = "Summarize the following scientific expert using the provided information:\n\nName: Ben Smith\nPublications: {publications}\nJournal Articles: {journal_articles}\nsince year:{since_year}\nProceedings Papers: {proceedings_papers}\n\n"
+prompt_template3 = "Compose a short description of the given scientific author based on the subsequent particulars:\n\nName: Mary Adams\nPublications: {publications}\nJournal Articles: {journal_articles}\nsince year:{since_year}\nProceedings Papers: {proceedings_papers}\n\n"
+#prompt_template4 = "Compose a short description of the given scientific author based on the subsequent particulars:\n\nName: Will Smith\nPublications: {publications}\nJournal Articles: {journal_articles}\nsince year:{since_year}\nProceedings Papers: {proceedings_papers}\n\n"
 
-file_path = os.path.abspath("testing/data_authors.json")
-output_file = os.path.abspath("testing/FewWords/prompt1_FEWcopy.json")
+
+file_path = os.path.abspath("testing/paragraph1/data_authors.json")
+output_file = os.path.abspath("testing/paragraph1/prompt11_resultscopy.json")
 
 
 def save_to_json(data):
@@ -110,18 +117,19 @@ def main():
     with open(file_path, 'r', encoding='utf-8') as file:
         user_data_list = json.load(file)
 
-    #for user_data in user_data_list:
-    #if user_data['name'] == "Henry Fuchs":  # Replace with the desired author's name
-        # Generate prompts based on the specified author data
-        #generate_prompt(user_data)
-        #break  # Exit the loop after processing the specified author   
+    for user_data in user_data_list:
+        # Generate prompts based on user data
+        generate_prompt(user_data)
+
+        # Delay for 1 minute before processing the next author
+        time.sleep(60)  # Sleep for 60 seconds (1 minute)    
 
     # Find the data for the author with name "Fabian Beck"
-    for user_data in user_data_list:
-        if user_data['name'] == "Carla E. Brodley":
+    #for user_data in user_data_list:
+        #if user_data['name'] == "Stephan Diehl":
             # Generate prompts based on the specified author data
-            generate_prompt(user_data)
-            break  # Exit the loop after processing the specified author
+            #generate_prompt(user_data)
+            #break  # Exit the loop after processing the specified author
 
         # Ask if the user wants to continue or exit
         #choice = input("Do you want to continue (Y/N)? ")
@@ -131,6 +139,5 @@ def main():
 
 if __name__ == '__main__':
     main()
-
 
 

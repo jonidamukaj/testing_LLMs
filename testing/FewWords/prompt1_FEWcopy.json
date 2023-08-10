@@ -1,0 +1,142 @@
+[
+    {
+        "name": "Ben Shneiderman",
+        "existing_text": "Ben Shneiderman is an active and longtime research contributor with more than 400 publications  since 1972. Shneiderman's published work includes 208 journal articles  and 197 proceedings papers ",
+        "generated_text1": "Anna Smith is an accomplished scientific author with over 400 publications since 1972. She has authored 208 journal articles and 197 proceedings papers, making her a prolific contributor to the scientific literature.",
+        "generated_text2": "Accomplished Scholar (1972-present), 400 Publications, 208 Journal Articles, 197 Proceedings Papers.",
+        "generated_text3": "Mary Adams is a prolific scientist who has published over 400 papers since 1972. She has authored 208 journal articles and 197 proceedings papers."
+    },
+    {
+        "name": "Fabian Beck",
+        "existing_text": "Fabian Beck is an active researcher since 2008 and has published 61 research papers , including 17 journal articles  and 44 proceedings papers . Out of the total 61 publications, the author published 26 articles as first author . The author received a PhD degree from University of Trier, Germany with the dissertation published in 2013 and titled \u201cUnderstanding Multi-Dimensional Code Couplings\u201d.",
+        "generated_text1": "Anna Smith is an experienced scientific author with 61 publications since 2008. She has authored 17 journal articles and 44 proceedings papers.",
+        "generated_text2": "Prolific Scholar (2008-present)",
+        "generated_text3": "Mary Adams is a prolific author, having published 61 articles since 2008. She has published 17 journal articles and 44 proceedings papers."
+    },
+    {
+        "name": "Mary Jean Harrold",
+        "existing_text": "Mary Jean Harrold is an active and longtime research contributor with more than 100 publications  since 1989. Harrold's published work includes 41 journal articles  and 105 proceedings papers",
+        "generated_text1": "Anna Smith is a prolific scientist who has been publishing her work since 1989. Over the past 30 years, she has published a total of 100 works, including 41 journal articles and 105 proceedings papers. She has an extensive publication record and is a highly respected researcher.",
+        "generated_text2": "Experienced Researcher (1989-present), 100 Publications, 141 Journal Articles.",
+        "generated_text3": "Mary Adams is a scientist who has published a total of 100 works since 1989, including 41 journal articles and 105 proceedings papers."
+    },
+    {
+        "name": "Stephan Diehl",
+        "existing_text": "Stephan Diehl is an active and longtime research contributor with more than 100 publications  since 1994. Diehl's published work includes 38 journal articles  and 89 proceedings papers . The author received a PhD degree from Saarland University, Saarbr\u00fccken, Germany with the dissertation published in 1996 and titled \u201cSemantics-directed generation of compilers and abstract machines\u201d.",
+        "generated_text1": "Anna Smith is a highly prolific scientific author with over 100 publications since 1994. She has published 38 journal articles and 89 proceedings papers in a variety of fields. Her impressive body of work makes her a respected figure in the scientific community.",
+        "generated_text2": "Experienced Scholar (1994-present), 100 Publications, 38 Journal Articles, 89 Proceedings Papers.",
+        "generated_text3": "Mary Adams is a scientist who has published 100 papers since 1994. She has authored 38 journal articles and 89 proceedings papers."
+    },
+    {
+        "name": "Daniel Weiskopf",
+        "existing_text": "Daniel Weiskopf is an active researcher with more than 250 publications  since 1999. Weiskopf's published work includes 122 journal articles  and 147 proceedings papers",
+        "generated_text1": "Anna Smith is a highly productive scientist with 250 publications since 1999, including 122 journal articles and 147 proceedings papers. She is an established expert in her field and has made significant contributions to research in the past two decades.",
+        "generated_text2": "Accomplished Scholar (1999-present), 250 Publications, 122 Journal Articles, 147 Proceedings Papers.",
+        "generated_text3": "Mary Adams is an experienced scientific author, having published 250 works since 1999. She has published 122 journal articles and 147 proceedings papers in the same time period."
+    },
+    {
+        "name": "Michael Burch",
+        "existing_text": "Michael Burch is an active researcher with more than 100 publications  since 2004, where most contributions appeared since 2013 (71 publications). Burch's published work includes 23 journal articles  and 89 proceedings papers",
+        "generated_text1": "Anna Smith is a highly productive and experienced scientific author, having published over 100 papers since 2004. She has published 23 journal articles and 89 proceedings papers.",
+        "generated_text2": "Experienced Scientist (2004-present), 100 Publications, 23 Journal Articles, 89 Proceedings Papers.",
+        "generated_text3": "Mary Adams is a scientific author who has published 100 papers since 2004, including 23 journal articles and 89 proceedings papers."
+    },
+    {
+        "name": "James A. Jones",
+        "existing_text": "James A. Jones is a longtime research contributor since 1998 and has published 45 research papers , including 5 journal articles  and 40 proceedings papers . Out of the total 45 publications, the author published 8 articles as first author . The author received a PhD degree from Georgia Institute of Technology, Atlanta, GA, USA with the dissertation published in 2008 and titled \u201cSemi-automatic fault localization\u201d.",
+        "generated_text1": "Anna Smith is an experienced author with a long history of publication. She has authored 45 publications since 1998, including 5 journal articles and 40 proceeding papers. Smith is a prolific and respected researcher, with a wealth of knowledge in her field.",
+        "generated_text2": "Ben Smith: Experienced Researcher (1998-present), 45 Publications, 5 Journals, 40 Proceedings.",
+        "generated_text3": "Mary Adams is a scientific author with 45 publications since 1998. She has published 5 journal articles and 40 proceedings papers."
+    },
+    {
+        "name": "Catherine Plaisant",
+        "existing_text": "Catherine Plaisant is an active and longtime research contributor with more than 150 publications  since 1988. Plaisant's published work includes 60 journal articles  and 94 proceedings papers",
+        "generated_text1": "Anna Smith is a prolific scientist with over 150 publications since 1988. She has written 60 journal articles and 94 proceedings papers over the course of her career, demonstrating her long-standing dedication to the field. Her research has made significant contributions to the field, and she is well-respected in the scientific community.",
+        "generated_text2": "Experienced Researcher (1988-present), 150 Publications, 60 Journal Articles, 94 Proceedings Papers.",
+        "generated_text3": "Mary Adams is a scientific author with 150 publications to her name. She has published 60 journal articles since 1988 and 94 proceedings papers."
+    },
+    {
+        "name": "Benjamin B. Bederson",
+        "existing_text": "Benjamin B. Bederson is an active and longtime research contributor with more than 100 publications  since 1992, where most contributions appeared between 2000 and 2009 (68 publications). Bederson's published work includes 43 journal articles  and 76 proceedings papers",
+        "generated_text1": "Anna Smith is an experienced scientist who has published a total of 100 pieces since 1992, including 43 journal articles and 76 proceedings papers. She has been an active researcher for over 28 years and has made significant contributions to her field of study.",
+        "generated_text2": "Renowned researcher (1992-present), 100 publications, 43 journal articles, 76 proceedings papers.",
+        "generated_text3": "Mary Adams is an author with 100 publications, including 43 journal articles and 76 proceedings papers since 1992."
+    },
+    {
+        "name": "Stuart K. Card",
+        "existing_text": "Card published 83 research papers  between 1980 and 2010, including 14 journal articles  and 69 proceedings papers . Out of the total 83 publications, the author published 23 articles as first author ",
+        "generated_text1": "Anna Smith is a prolific scientific author with 83 publications to her name. She has published 14 journal articles since 1980, and 69 proceedings papers, demonstrating her expertise in her field.",
+        "generated_text2": "Experienced Scholar (1980-2010), 83 Publications, 14 Journal Articles, 69 Proceedings Papers.",
+        "generated_text3": "Mary Adams is a prolific scientist who has authored 83 papers since 1980. She has written 14 journal articles and 69 proceedings papers."
+    },
+    {
+        "name": "Achim Ebert",
+        "existing_text": "Achim Ebert is an active and longtime research contributor with more than 100 publications  since 1997, where most contributions appeared since 2011 (67 publications). Ebert's published work includes 9 journal articles  and 107 proceedings papers . The author received a PhD degree from Kaiserslautern University of Technology, Germany with the dissertation published in 2004 and titled \u201cContext-sensitive visualization\u201d.",
+        "generated_text1": "Anna Smith is an established scientist with over 100 publications since 1997. She has published 9 journal articles and 107 proceedings papers, demonstrating her prolific output and expertise in her field.",
+        "generated_text2": "Ben Smith: Prolific Author (1997-present), 100 Publications, 9 Journal Articles, 107 Proceedings Papers.",
+        "generated_text3": "Mary Adams is a prolific researcher who has published a total of 100 scientific publications since 1997, including 9 journal articles and 107 proceedings papers."
+    },
+    {
+        "name": "Mary C. Whitton",
+        "existing_text": "Mary C. Whitton is a longtime research contributor since 1984 and has published 59 research papers , where most contributions appeared between 1995 and 2007 (32 publications). The publications include 18 journal articles  and 41 proceedings papers . Out of the total 59 publications, the author published 6 articles as first author",
+        "generated_text1": "Anna Smith is a prolific scientist with a long and distinguished career. She has published 59 papers since 1984, including 18 journal articles and 41 proceedings papers. Her work has made significant contributions to her field and she is highly respected in the scientific community.",
+        "generated_text2": "Experienced Scientist (1984-present), Publishes Frequently (59 total).",
+        "generated_text3": "Mary Adams is a scientist with 59 publications since 1984, including 18 journal articles and 41 proceedings papers."
+    },
+    {
+        "name": "Henry Fuchs",
+        "existing_text": "Henry Fuchs is an active and longtime research contributor with more than 100 publications  since 1977. Fuchs's published work includes 30 journal articles  and 105 proceedings papers ",
+        "generated_text1": "Anna Smith is a prolific scientist with over 100 publications since 1977. She has published 30 journal articles and 105 proceedings papers, demonstrating her extensive research output.",
+        "generated_text2": "Renowned Scholar (1977-present), 100 Publications, 130 Papers.",
+        "generated_text3": "Mary Adams is a scientific author who has published a total of 205 scientific works since 1977. Of these, 100 are journal articles and 105 are proceeding papers."
+    },
+    {
+        "name": "Dieter Schmalstieg",
+        "existing_text": "Dieter Schmalstieg is an active and longtime research contributor with more than 300 publications  since 1994. Schmalstieg's published work includes 99 journal articles  and 203 proceedings papers",
+        "generated_text1": "Anna Smith is a prolific scientific author with 300 scholarly publications to her name. She has published 99 journal articles since 1994 and 203 proceedings papers. Her works span a wide range of topics in the sciences and she is an authority in her field.",
+        "generated_text2": "Accomplished Scientist (1994-present): 300 publications, 99 journal articles, 203 proceedings papers.",
+        "generated_text3": "Mary Adams is a scientific author with 300 publications since 1994, of which 99 are journal articles and 203 are proceedings papers."
+    },
+    {
+        "name": "Anna Celler",
+        "existing_text": "Anna Celler is an active researcher since 1999 and has published 14 research papers , including 6 journal articles  and 8 proceedings papers . Out of the total 14 publications, the author published 0 articles as first author",
+        "generated_text1": "Anna Smith is a scientific author with 14 publications since 1999. She has written 6 journal articles and 8 proceedings papers. Her research mainly focuses on the fields of science and technology.",
+        "generated_text2": "Accomplished researcher (14 publications, 6 journal articles since 1999, 8 proceedings papers).",
+        "generated_text3": "Mary Adams is a scientist with 14 publications since 1999, including 6 journal articles and 8 proceedings papers."
+    },
+    {
+        "name": "Ghassan Hamarneh",
+        "existing_text": "Ghassan Hamarneh is an active researcher with more than 150 publications  since 2000. Hamarneh's published work includes 60 journal articles  and 115 proceedings papers . The author received a PhD degree from Chalmers University of Technology, Gothenburg, Sweden with the dissertation published in 2001 and titled \u201cTowards Intelligent Deformable Models for Medical Image Analysis\u201d.",
+        "generated_text1": "Anna Smith is an experienced scientific author, having written over 150 papers since 2000. She has published 60 journal articles, as well as 115 proceedings papers, demonstrating her breadth of knowledge and ability to communicate scientific concepts. She is a respected member of the scientific community and her work has had a great impact on the field.",
+        "generated_text2": "Renowned Researcher (2000-present), 150 Publications, 60 Journal Articles, 115 Proceedings Papers.",
+        "generated_text3": "Mary Adams is a scientific author who has published 150 works since 2000, of which 60 are journal articles and 115 are proceedings papers."
+    },
+    {
+        "name": "Xenophon Papademetris",
+        "existing_text": "Xenophon Papademetris is a longtime research contributor since 1996 and has published 97 research papers , where most contributions appeared between 2003 and 2011 (56 publications). The publications include 36 journal articles  and 61 proceedings papers . Out of the total 97 publications, the author published 12 articles as first author.",
+        "generated_text1": "Anna Smith is a prolific scientist with 97 total publications, including 36 journal articles and 61 proceedings papers, since 1996. She has been a productive researcher for over two decades and her work has been widely cited and recognized in the scientific community.",
+        "generated_text2": "Prolific Researcher (1996-present), 97 Publications, 36 Journals Articles, 61 Proceedings Papers.",
+        "generated_text3": "Mary Adams is a scientist who has published 97 papers since 1996, including 36 journal articles and 61 proceedings papers."
+    },
+    {
+        "name": "Penny Rheingans",
+        "existing_text": "Penny Rheingans is a longtime research contributor since 1986 and has published 62 research papers , where most contributions appeared between 1997 and 2007 (38 publications). The publications include 21 journal articles  and 41 proceedings papers . Out of the total 62 publications, the author published 12 articles as first author",
+        "generated_text1": "Anna Smith is an experienced scientific author who has published 62 papers since 1986. She has written 21 journal articles and 41 proceedings papers. She is an established researcher in her field and has contributed significantly to the scientific community.",
+        "generated_text2": "Experienced Researcher (1986-present), 62 Publications (21 Journals, 41 Proceedings).",
+        "generated_text3": "Mary Adams is a scientific author with 62 publications since 1986, of which 21 are journal articles and 41 are proceedings papers."
+    },
+    {
+        "name": "Marie desJardins",
+        "existing_text": "Marie desJardins is a longtime research contributor since 1991 and has published 99 research papers , including 32 journal articles  and 67 proceedings papers . Out of the total 99 publications, the author published 31 articles as first author",
+        "generated_text1": "Anna Smith is an established scientist with a prolific publication record. She has authored a total of 99 papers, including 32 journal articles and 67 proceedings papers since 1991. She has made significant contributions to her field of research during her career.",
+        "generated_text2": "Ben Smith: Prolific Researcher (99 Publications, 32 Journal Articles, 67 Proceedings Papers since 1991).",
+        "generated_text3": "Mary Adams is an experienced scientist with 99 published scientific works since 1991. She has published 32 journal articles and 67 proceedings papers."
+    },
+    {
+        "name": "Carla E. Brodley",
+        "existing_text": "Carla E. Brodley is a longtime research contributor since 1990 and has published 84 research papers , including 30 journal articles  and 54 proceedings papers . Out of the total 84 publications, the author published 11 articles as first author",
+        "generated_text1": "Anna Smith is a prolific scientist who has published 84 papers since 1990, of which 30 are journal articles and 54 are proceedings papers. She is an established author in the scientific community and has made significant contributions to her field of research.",
+        "generated_text2": "Accomplished Researcher (90s) - 84 Publications",
+        "generated_text3": "Mary Adams is a scientist with 84 publications since 1990, including 30 journal articles and 54 proceedings papers."
+    }
+]
