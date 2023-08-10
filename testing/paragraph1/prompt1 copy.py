@@ -7,7 +7,7 @@ import time
 
 
 # Load your API key from a secure location
-openai.api_key = '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'
+openai.api_key = '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'
 
 #name_list = ['Anna Smith', 'Ben Smith', 'Will Smith', 'Mary Adams']
 #selected_name = random.choice(name_list)
@@ -21,7 +21,7 @@ prompt_template3 = "Compose a short description of the given scientific author b
 
 
 file_path = os.path.abspath("testing/paragraph1/data_authors.json")
-output_file = os.path.abspath("testing/paragraph1/prompt11_resultscopy.json")
+output_file = os.path.abspath("testing/paragraph1/AdaResults.json")
 
 
 def save_to_json(data):
@@ -51,7 +51,7 @@ def generate_prompt(data):
 
     # Generate text using ChatGPT API for the first prompt
     response1 = openai.Completion.create(
-        engine='text-davinci-003',
+        engine='text-ada-001',
         prompt=prompt1,
         max_tokens=100,
         n=1,
@@ -67,7 +67,7 @@ def generate_prompt(data):
 
     # Generate text using ChatGPT API for the second prompt
     response2 = openai.Completion.create(
-        engine='text-davinci-003',
+        engine='text-ada-001',
         prompt=prompt2,
         max_tokens=100,
         n=1,
@@ -83,7 +83,7 @@ def generate_prompt(data):
 
     # Generate text using ChatGPT API for the third prompt
     response3 = openai.Completion.create(
-        engine='text-davinci-003',
+        engine='text-ada-001',
         prompt=prompt3,
         max_tokens=100,
         n=1,
