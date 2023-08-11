@@ -14,14 +14,17 @@ openai.api_key = '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'
 
 
 # Prompt templates
-prompt_template1 = "Provide a brief overview of the scientific researcher below, considering the following data:\n\nName: Anna Smith\nPublications: {publications}\nJournal Articles: {journal_articles}\nsince year:{since_year}\nProceedings Papers: {proceedings_papers}\n\n"
-prompt_template2 = "Summarize the following scientific expert using the provided information:\n\nName: Ben Smith\nPublications: {publications}\nJournal Articles: {journal_articles}\nsince year:{since_year}\nProceedings Papers: {proceedings_papers}\n\n"
-prompt_template3 = "Compose a short description of the given scientific author based on the subsequent particulars:\n\nName: Mary Adams\nPublications: {publications}\nJournal Articles: {journal_articles}\nsince year:{since_year}\nProceedings Papers: {proceedings_papers}\n\n"
+#prompt_template1 = "Provide a brief overview of the research contributor below, considering the following data:\n\nName: Anna Smith\nPublications: {publications}\nJournal Articles: {journal_articles}\nsince year:{since_year}\nProceedings Papers: {proceedings_papers}\n\n"
+#prompt_template2 = "Summarize the following research contributor using the provided information:\n\nName: Ben Smith\nPublications: {publications}\nJournal Articles: {journal_articles}\nsince year:{since_year}\nProceedings Papers: {proceedings_papers}\n\n"
+#prompt_template3 = "Compose a short description of the given research contributor based on the subsequent particulars:\n\nName: Mary Adams\nPublications: {publications}\nJournal Articles: {journal_articles}\nsince year:{since_year}\nProceedings Papers: {proceedings_papers}\n\n"
 #prompt_template4 = "Compose a short description of the given scientific author based on the subsequent particulars:\n\nName: Will Smith\nPublications: {publications}\nJournal Articles: {journal_articles}\nsince year:{since_year}\nProceedings Papers: {proceedings_papers}\n\n"
-
+prompt_template1 = "Please describe briefly the following research contributor and consider the following information:\n\nName: Anna Smith\nPublications: {publications}\nJournal Articles: {journal_articles}\nsince year:{since_year}\nProceedings Papers: {proceedings_papers}\n\n"
+prompt_template2 = "Please describe briefly with a few words the following research contributor and consider the following information:\n\nName: Ben Smith\nPublications: {publications}\nJournal Articles: {journal_articles}\nsince year:{since_year}\nProceedings Papers: {proceedings_papers}\n\n"
+prompt_template3 = "Generate a concise description of the given research contributor based on the following details:\n\nName: Mary Adams\nPublications: {publications}\nJournal Articles: {journal_articles}\nsince year:{since_year}\nProceedings Papers: {proceedings_papers}\n\n"
+#prompt_templa
 
 file_path = os.path.abspath("testing/paragraph1/data_authors.json")
-output_file = os.path.abspath("testing/paragraph1/AdaResults.json")
+output_file = os.path.abspath("testing/paragraph1/AdaNew.json")
 
 
 def save_to_json(data):
@@ -117,19 +120,19 @@ def main():
     with open(file_path, 'r', encoding='utf-8') as file:
         user_data_list = json.load(file)
 
-    for user_data in user_data_list:
+    #for user_data in user_data_list:
         # Generate prompts based on user data
-        generate_prompt(user_data)
+        #generate_prompt(user_data)
 
         # Delay for 1 minute before processing the next author
-        time.sleep(60)  # Sleep for 60 seconds (1 minute)    
+        #time.sleep(60)  # Sleep for 60 seconds (1 minute)    
 
     # Find the data for the author with name "Fabian Beck"
-    #for user_data in user_data_list:
-        #if user_data['name'] == "Stephan Diehl":
+    for user_data in user_data_list:
+        if user_data['name'] == "Carla E. Brodley":
             # Generate prompts based on the specified author data
-            #generate_prompt(user_data)
-            #break  # Exit the loop after processing the specified author
+            generate_prompt(user_data)
+            break  # Exit the loop after processing the specified author
 
         # Ask if the user wants to continue or exit
         #choice = input("Do you want to continue (Y/N)? ")

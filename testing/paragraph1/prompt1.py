@@ -14,14 +14,14 @@ openai.api_key = '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'
 
 
 # Prompt templates
-prompt_template1 = "Please describe briefly the following scientific author and consider the following information:\n\nName: Anna Smith\nPublications: {publications}\nJournal Articles: {journal_articles}\nsince year:{since_year}\nProceedings Papers: {proceedings_papers}\n\n"
-prompt_template2 = "Please describe briefly with a few words the following scientific author and consider the following information:\n\nName: Ben Smith\nPublications: {publications}\nJournal Articles: {journal_articles}\nsince year:{since_year}\nProceedings Papers: {proceedings_papers}\n\n"
-prompt_template3 = "Generate a concise description of the given scientific author based on the following details:\n\nName: Mary Adams\nPublications: {publications}\nJournal Articles: {journal_articles}\nsince year:{since_year}\nProceedings Papers: {proceedings_papers}\n\n"
+prompt_template1 = "Please describe briefly the following research contributor and consider the following information:\n\nName: Anna Smith\nPublications: {publications}\nJournal Articles: {journal_articles}\nsince year:{since_year}\nProceedings Papers: {proceedings_papers}\n\n"
+prompt_template2 = "Please describe briefly with a few words the following research contributor and consider the following information:\n\nName: Ben Smith\nPublications: {publications}\nJournal Articles: {journal_articles}\nsince year:{since_year}\nProceedings Papers: {proceedings_papers}\n\n"
+prompt_template3 = "Generate a concise description of the given research contributor based on the following details:\n\nName: Mary Adams\nPublications: {publications}\nJournal Articles: {journal_articles}\nsince year:{since_year}\nProceedings Papers: {proceedings_papers}\n\n"
 #prompt_template4 = "Compose a short description of the given scientific author based on the subsequent particulars:\n\nName: Will Smith\nPublications: {publications}\nJournal Articles: {journal_articles}\nsince year:{since_year}\nProceedings Papers: {proceedings_papers}\n\n"
 
 
 file_path = os.path.abspath("testing/paragraph1/data_authors.json")
-output_file = os.path.abspath("testing/paragraph1/prompt11_results.json")
+output_file = os.path.abspath("testing/paragraph1/CurieNEW.json")
 
 
 def save_to_json(data):
@@ -51,7 +51,7 @@ def generate_prompt(data):
 
     # Generate text using ChatGPT API for the first prompt
     response1 = openai.Completion.create(
-        engine='text-davinci-003',
+        engine='text-curie-001',
         prompt=prompt1,
         max_tokens=100,
         n=1,
@@ -67,7 +67,7 @@ def generate_prompt(data):
 
     # Generate text using ChatGPT API for the second prompt
     response2 = openai.Completion.create(
-        engine='text-davinci-003',
+        engine='text-curie-001',
         prompt=prompt2,
         max_tokens=100,
         n=1,
@@ -83,7 +83,7 @@ def generate_prompt(data):
 
     # Generate text using ChatGPT API for the third prompt
     response3 = openai.Completion.create(
-        engine='text-davinci-003',
+        engine='text-curie-001',
         prompt=prompt3,
         max_tokens=100,
         n=1,
