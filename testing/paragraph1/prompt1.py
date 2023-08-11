@@ -4,7 +4,7 @@ import os
 import time
 
 # Load your API key from a secure location
-openai.api_key = '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'
+openai.api_key = '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'
 
 
 # Prompt templates
@@ -79,11 +79,11 @@ def main():
     with open(file_path, 'r', encoding='utf-8') as file:
         user_data_list = json.load(file)
 
-    for user_data in user_data_list:
+    #for user_data in user_data_list:
         # Generate prompts based on user data
-        generate_prompt(user_data)
+        #generate_prompt(user_data)
     for user_data in user_data_list:
-        if user_data['name'] == "Benjamin B. Bederson":
+        if user_data['name'] == "Carla E. Brodley":
             # Generate prompts based on the specified author data
             generate_prompt(user_data)
             break  # Exit the loop after processing the specified author    
