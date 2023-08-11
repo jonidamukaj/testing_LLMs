@@ -1,0 +1,506 @@
+{
+    "Ben Shneiderman": [
+        {
+            "pronouns": [
+                "He",
+                "His",
+                "He"
+            ],
+            "adjectives": [
+                "journal",
+                "well-known",
+                "ethical",
+                "responsible"
+            ]
+        },
+        {
+            "pronouns": [],
+            "adjectives": []
+        },
+        {
+            "pronouns": [],
+            "adjectives": [
+                "prolific",
+                "journal"
+            ]
+        }
+    ],
+    "Fabian Beck": [
+        {
+            "pronouns": [
+                "He"
+            ],
+            "adjectives": [
+                "Fabian",
+                "journal",
+                "significant",
+                "short"
+            ]
+        },
+        {
+            "pronouns": [],
+            "adjectives": [
+                "Fabian"
+            ]
+        },
+        {
+            "pronouns": [
+                "who"
+            ],
+            "adjectives": [
+                "Fabian",
+                "journal"
+            ]
+        }
+    ],
+    "Mary Jean Harrold": [
+        {
+            "pronouns": [
+                "She"
+            ],
+            "adjectives": [
+                "Mary",
+                "experienced",
+                "journal"
+            ]
+        },
+        {
+            "pronouns": [],
+            "adjectives": [
+                "Mary",
+                "journal"
+            ]
+        },
+        {
+            "pronouns": [],
+            "adjectives": [
+                "Mary",
+                "prolific",
+                "journal"
+            ]
+        }
+    ],
+    "Stephan Diehl": [
+        {
+            "pronouns": [],
+            "adjectives": [
+                "journal"
+            ]
+        },
+        {
+            "pronouns": [],
+            "adjectives": [
+                "prolific"
+            ]
+        },
+        {
+            "pronouns": [],
+            "adjectives": []
+        }
+    ],
+    "Daniel Weiskopf": [
+        {
+            "pronouns": [
+                "his",
+                "His",
+                "him"
+            ],
+            "adjectives": [
+                "prolific",
+                "journal",
+                "proceedings",
+                "valuable",
+                "academic"
+            ]
+        },
+        {
+            "pronouns": [],
+            "adjectives": []
+        },
+        {
+            "pronouns": [],
+            "adjectives": [
+                "journal"
+            ]
+        }
+    ],
+    "Michael Burch": [
+        {
+            "pronouns": [
+                "He"
+            ],
+            "adjectives": [
+                "journal",
+                "proceedings",
+                "established",
+                "strong"
+            ]
+        },
+        {
+            "pronouns": [],
+            "adjectives": [
+                "2004-present"
+            ]
+        },
+        {
+            "pronouns": [],
+            "adjectives": [
+                "journal"
+            ]
+        }
+    ],
+    "James A. Jones": [
+        {
+            "pronouns": [
+                "He",
+                "them"
+            ],
+            "adjectives": [
+                "prolific",
+                "journal"
+            ]
+        },
+        {
+            "pronouns": [],
+            "adjectives": []
+        },
+        {
+            "pronouns": [],
+            "adjectives": [
+                "experienced"
+            ]
+        }
+    ],
+    "Catherine Plaisant": [
+        {
+            "pronouns": [
+                "who",
+                "Her"
+            ],
+            "adjectives": [
+                "experienced",
+                "journal"
+            ]
+        },
+        {
+            "pronouns": [],
+            "adjectives": []
+        },
+        {
+            "pronouns": [],
+            "adjectives": [
+                "journal"
+            ]
+        }
+    ],
+    "Benjamin B. Bederson": [
+        {
+            "pronouns": [
+                "He",
+                "He"
+            ],
+            "adjectives": [
+                "academic",
+                "journal",
+                "proceedings",
+                "experienced",
+                "long"
+            ]
+        },
+        {
+            "pronouns": [],
+            "adjectives": []
+        },
+        {
+            "pronouns": [],
+            "adjectives": [
+                "journal"
+            ]
+        }
+    ],
+    "Stuart K. Card": [
+        {
+            "pronouns": [
+                "He",
+                "his"
+            ],
+            "adjectives": [
+                "American",
+                "total",
+                "journal",
+                "human-computer"
+            ]
+        },
+        {
+            "pronouns": [],
+            "adjectives": [
+                "journal",
+                "1980-2010"
+            ]
+        },
+        {
+            "pronouns": [],
+            "adjectives": [
+                "journal"
+            ]
+        }
+    ],
+    "Achim Ebert": [
+        {
+            "pronouns": [
+                "He"
+            ],
+            "adjectives": [
+                "journal",
+                "established",
+                "long"
+            ]
+        },
+        {
+            "pronouns": [],
+            "adjectives": [
+                "experienced",
+                "journal"
+            ]
+        },
+        {
+            "pronouns": [],
+            "adjectives": [
+                "prolific",
+                "journal"
+            ]
+        }
+    ],
+    "Mary C. Whitton": [
+        {
+            "pronouns": [
+                "She",
+                "Her"
+            ],
+            "adjectives": [
+                "productive",
+                "journal",
+                "subject",
+                "artificial",
+                "human-computer",
+                "virtual"
+            ]
+        },
+        {
+            "pronouns": [],
+            "adjectives": []
+        },
+        {
+            "pronouns": [],
+            "adjectives": [
+                "total"
+            ]
+        }
+    ],
+    "Henry Fuchs": [
+        {
+            "pronouns": [
+                "He",
+                "His"
+            ],
+            "adjectives": [
+                "prolific",
+                "journal",
+                "significant"
+            ]
+        },
+        {
+            "pronouns": [],
+            "adjectives": [
+                "prolific",
+                "journal"
+            ]
+        },
+        {
+            "pronouns": [],
+            "adjectives": []
+        }
+    ],
+    "Dieter Schmalstieg": [
+        {
+            "pronouns": [
+                "He",
+                "His",
+                "He"
+            ],
+            "adjectives": [
+                "journal",
+                "various",
+                "human-computer",
+                "virtual"
+            ]
+        },
+        {
+            "pronouns": [],
+            "adjectives": []
+        },
+        {
+            "pronouns": [],
+            "adjectives": [
+                "prolific",
+                "journal"
+            ]
+        }
+    ],
+    "Anna Celler": [
+        {
+            "pronouns": [
+                "She"
+            ],
+            "adjectives": [
+                "journal"
+            ]
+        },
+        {
+            "pronouns": [],
+            "adjectives": []
+        },
+        {
+            "pronouns": [],
+            "adjectives": [
+                "journal"
+            ]
+        }
+    ],
+    "Ghassan Hamarneh": [
+        {
+            "pronouns": [
+                "He",
+                "He",
+                "his"
+            ],
+            "adjectives": [
+                "well-established",
+                "journal",
+                "medical",
+                "diagnostic",
+                "therapeutic"
+            ]
+        },
+        {
+            "pronouns": [],
+            "adjectives": []
+        },
+        {
+            "pronouns": [],
+            "adjectives": [
+                "journal"
+            ]
+        }
+    ],
+    "Xenophon Papademetris": [
+        {
+            "pronouns": [
+                "He",
+                "He",
+                "his"
+            ],
+            "adjectives": [
+                "journal",
+                "active",
+                "numerous",
+                "extensive"
+            ]
+        },
+        {
+            "pronouns": [],
+            "adjectives": [
+                "prolific",
+                "journal"
+            ]
+        },
+        {
+            "pronouns": [],
+            "adjectives": [
+                "experienced",
+                "journal"
+            ]
+        }
+    ],
+    "Penny Rheingans": [
+        {
+            "pronouns": [
+                "Her",
+                "her"
+            ],
+            "adjectives": [
+                "prolific",
+                "journal",
+                "wide"
+            ]
+        },
+        {
+            "pronouns": [],
+            "adjectives": [
+                "Penny"
+            ]
+        },
+        {
+            "pronouns": [],
+            "adjectives": [
+                "experienced",
+                "journal"
+            ]
+        }
+    ],
+    "Marie desJardins": [
+        {
+            "pronouns": [
+                "Her",
+                "she",
+                "She"
+            ],
+            "adjectives": [
+                "experienced",
+                "journal",
+                "proceedings",
+                "impressive",
+                "strong",
+                "academic"
+            ]
+        },
+        {
+            "pronouns": [],
+            "adjectives": []
+        },
+        {
+            "pronouns": [],
+            "adjectives": [
+                "journal"
+            ]
+        }
+    ],
+    "Carla E. Brodley": [
+        {
+            "pronouns": [
+                "She",
+                "Her",
+                "Her"
+            ],
+            "adjectives": [
+                "accomplished",
+                "journal",
+                "artificial",
+                "significant"
+            ]
+        },
+        {
+            "pronouns": [],
+            "adjectives": [
+                "prolific",
+                "journal"
+            ]
+        },
+        {
+            "pronouns": [],
+            "adjectives": [
+                "journal"
+            ]
+        }
+    ]
+}
