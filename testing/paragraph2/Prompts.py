@@ -8,12 +8,12 @@ import time
 openai.api_key = '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'
 
 # Prompt templates
-prompt_template1 ="Please describe briefly with a few words the following scientific author and consider the following information: Name: Anna Smith\nCommunity member:{community}\nExpertise fields: {expertise}\nworked on: {worked}\nResearchers with similar areas of expertise:{researchers}"
-prompt_template2 ="Please describe briefly with a few words the following scientific author and consider ONLY the following information: Name: Ben Adams\nCommunity member:{community}\nExpertise fields: {expertise}\nworked on: {worked}\nResearchers with similar areas of expertise:{researchers}"
-prompt_template3 ="Generate a concise description of the given scientific author based on the following details: Name: Marie Mueller\nCommunity member:{community}\nExpertise fields: {expertise}\nworked on: {worked}\nResearchers with similar areas of expertise:{researchers}"
+prompt_template1 ="Please describe briefly with a few words the following scientific author and consider the following information:\n\nName: {name}\nCommunity member:{community}\nExpertise fields: {expertise}\nworked on: {worked}\nResearchers with similar areas of expertise:{researchers}"
+prompt_template2 ="Please describe briefly with a few words the following scientific author and consider ONLY the following information:\n\nName: {name}\nCommunity member:{community}\nExpertise fields: {expertise}\nworked on: {worked}\nResearchers with similar areas of expertise:{researchers}"
+prompt_template3 ="Generate a concise description of the given scientific author based on the following details:\n\nName: {name}\nCommunity member:{community}\nExpertise fields: {expertise}\nworked on: {worked}\nResearchers with similar areas of expertise:{researchers}"
 
 file_path = os.path.abspath("testing/data_authors.json")
-output_file = os.path.abspath("testing/paragraph2/curie/curieResults.json")
+output_file = os.path.abspath("testing/paragraph2/davinci/withNames.json")
 
 
 def save_to_json(data):
@@ -43,7 +43,7 @@ def generate_prompt(data):
 
     # Generate text using ChatGPT API for the first prompt
     response1 = openai.Completion.create(
-        engine='text-curie-001',
+        engine='text-davinci-003',
         prompt=prompt1,
         max_tokens=100,
         n=1,
@@ -59,7 +59,7 @@ def generate_prompt(data):
 
     # Generate text using ChatGPT API for the second prompt
     response2 = openai.Completion.create(
-        engine='text-curie-001',
+        engine='text-davinci-003',
         prompt=prompt2,
         max_tokens=100,
         n=1,
@@ -75,7 +75,7 @@ def generate_prompt(data):
 
     # Generate text using ChatGPT API for the third prompt
     response3 = openai.Completion.create(
-        engine='text-curie-001',
+        engine='text-davinci-003',
         prompt=prompt3,
         max_tokens=100,
         n=1,
@@ -109,19 +109,19 @@ def main():
     with open(file_path, 'r', encoding='utf-8') as file:
         user_data_list = json.load(file)
 
-    for user_data in user_data_list:
+    #for user_data in user_data_list:
         # Generate prompts based on user data
-        generate_prompt(user_data)
+        #generate_prompt(user_data)
 
         # Delay for 1 minute before processing the next author
-        time.sleep(60)  # Sleep for 60 seconds (1 minute)    
+        #time.sleep(60)  # Sleep for 60 seconds (1 minute)    
 
     # Find the data for the author with name "Fabian Beck"
-    #for user_data in user_data_list:
-        #if user_data['name'] == "Stephan Diehl":
+    for user_data in user_data_list:
+        if user_data['name'] == "Xenophon Papademetris":
             # Generate prompts based on the specified author data
-            #generate_prompt(user_data)
-            #break  # Exit the loop after processing the specified author
+            generate_prompt(user_data)
+            break  # Exit the loop after processing the specified author
 
         # Ask if the user wants to continue or exit
         #choice = input("Do you want to continue (Y/N)? ")
