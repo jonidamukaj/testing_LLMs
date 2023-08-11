@@ -110,5 +110,33 @@
         "generated_text1": "Ghassan Hamarneh is a visualization community member with expertise in bioinformatics and biomedical imaging. He has worked on similar research topics to William M. Wells III, Albert J. Sinusas, Lawrence H. Staib, and Xenophon Papademetris.",
         "generated_text2": "Ghassan Hamarneh: Visualization bioinformatics/biomedical imaging expert, similar to Wells III, Sinusas, Staib, and Papademetris.",
         "generated_text3": "Ghassan Hamarneh is a member of the visualization community with expertise in bioinformatics and biomedical imaging. He has similar research areas as William M. Wells III, Albert J. Sinusas, Lawrence H. Staib, and Xenophon Papademetris."
+    },
+    {
+        "name": "Xenophon Papademetris",
+        "existing_text2": "Papademetris made contributions to the visualization research community. A focus area of the author was the visualization of medical data. Current research areas of the author are bioinformatics and biomedical imaging. Researchers with similar areas of expertise are William M. Wells III, Ronald M. Summers, and Ghassan Hamarneh.",
+        "generated_text1": "Xenophon Papademetris is a visualization community member who specializes in visualization of medical data, bioinformatics, and biomedical imaging. His peers include William M. Wells III, Ronald M. Summers, and Ghassan Hamarneh.",
+        "generated_text2": "Xenophon Papademetris: Visualization expert in medical data, bioinformatics and biomedical imaging. Collaborates with Wells, Summers and Hamarneh.",
+        "generated_text3": "Xenophon Papademetris is a prominent member of the visualization community, specializing in the visualization of medical data. He has conducted research in bioinformatics and biomedical imaging, similar to William M. Wells III, Ronald M. Summers, and Ghassan Hamarneh."
+    },
+    {
+        "name": "Penny Rheingans",
+        "existing_text2": "Rheingans was a core member of the visualization community with publications mainly within the subfield of information visualization. Focus areas of the author were time-oriented, uncertainty, illustrative, and multivariate data visualization. The author also worked in the field of computer graphics. Researchers with similar areas of expertise\u24d8 are Oliver Deussen, Pat Hanrahan, Kwan-Liu Ma, and Patric Ljung.",
+        "generated_text1": "Penny Rheingans is a visualization community member specializing in time-oriented, uncertainty, illustrative, and multivariate data visualization. She has worked on computer graphics, and is similar to researchers Oliver Deussen, Pat Hanrahan, Kwan-Liu Ma, and Patric Ljung.",
+        "generated_text2": "Penny Rheingans: Time-oriented, uncertainty, illustrative, and multivariate data visualization expert; computer graphics; similar to Oliver Deussen, Pat Hanrahan, Kwan-Liu Ma, and Patric Ljung.",
+        "generated_text3": "Penny Rheingans is a member of the visualization community who specializes in time-oriented, uncertainty, illustrative, and multivariate data visualization. She has worked on computer graphics and is well-known among researchers such as Oliver Deussen, Pat Hanrahan, Kwan-Liu Ma, and Patric Ljung who have similar areas of expertise."
+    },
+    {
+        "name": "Marie desJardins",
+        "existing_text2": "desJardins was a member of the visualization community with publications mainly within the subfield of information visualization. A focus area of the author was the visualization of time-oriented data. The author also worked in the fields of machine learning, education, and bioinformatics. Researchers with similar areas of expertise\u24d8 are Gregory Piatetsky-Shapiro, Guy Lebanon, Yangqiu Song, Stefan Wrobel, and Carla E. Brodley.",
+        "generated_text1": "Marie desJardins: Time-Oriented Visualization Expert, ML, Education and Bioinformatics, Similar Researchers: Piatetsky-Shapiro, Lebanon, Song, Wrobel, Brodley.",
+        "generated_text2": "Time-oriented visualization expert, collaborated with Piatetsky-Shapiro, Lebanon, Song, Wrobel, and Brodley on machine learning, education, and bioinformatics.",
+        "generated_text3": "Marie desJardins is a member of the visualization community who specializes in the visualization of time-oriented data. She has also worked on machine learning, education, and bioinformatics. She is similar to other researchers such as Gregory Piatetsky-Shapiro, Guy Lebanon, Yangqiu Song, Stefan Wrobel, and Carla E. Brodley."
+    },
+    {
+        "name": "Carla E. Brodley",
+        "existing_text2": "Brodley made contributions to the visualization research community. The author also worked in the fields of machine learning, vision, and bioinformatics. Researchers with similar areas of expertise are Gregory Piatetsky-Shapiro, Guy Lebanon, Guido Tack, Stefan Wrobel, and Lise Getoor.",
+        "generated_text1": "Expert Machine Learning/Vision/Bioinformatics Researcher; part of Visualization Community; peers include Gregory Piatetsky-Shapiro, Guy Lebanon, Guido Tack, Stefan Wrobel, and Lise Getoor.",
+        "generated_text2": "Visualization expert, Machine Learning, Vision, Bioinformatics, collaborated with Piatetsky-Shapiro, Lebanon, Tack, Wrobel, Getoor.",
+        "generated_text3": "Carla E. Brodley is a member of the visualization community, specializing in machine learning, vision, and bioinformatics. Her research is similar to that of Gregory Piatetsky-Shapiro, Guy Lebanon, Guido Tack, Stefan Wrobel, and Lise Getoor."
     }
 ]

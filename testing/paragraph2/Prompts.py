@@ -118,7 +118,7 @@ def main():
 
     # Find the data for the author with name "Fabian Beck"
     for user_data in user_data_list:
-        if user_data['name'] == "Xenophon Papademetris":
+        if user_data['name'] == "Carla E. Brodley":
             # Generate prompts based on the specified author data
             generate_prompt(user_data)
             break  # Exit the loop after processing the specified author
