@@ -4,15 +4,16 @@ import os
 import time
 
 # Load your API key from a secure location
-openai.api_key = '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'
+openai.api_key = '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'
+
 
 # Prompt templates
-prompt_template1 = "Please describe briefly the following research contributor and consider the following information:\n\nName: Anna Smith\nPublications: {publications}\nJournal Articles: {journal_articles}\nsince year:{since_year}\nProceedings Papers: {proceedings_papers}\n\n"
-prompt_template2 = "Please describe briefly with a few words the following research contributor and consider the following information:\n\nName: Ben Smith\nPublications: {publications}\nJournal Articles: {journal_articles}\nsince year:{since_year}\nProceedings Papers: {proceedings_papers}\n\n"
-prompt_template3 = "Generate a concise description of the given research contributor based on the following details:\n\nName: Mary Adams\nPublications: {publications}\nJournal Articles: {journal_articles}\nsince year:{since_year}\nProceedings Papers: {proceedings_papers}\n\n"
+prompt_template1 = "Please describe briefly the following research contributor and consider the following information:\n\nName: {name}\nPublications: {publications}\nJournal Articles: {journal_articles}\nsince year:{since_year}\nProceedings Papers: {proceedings_papers}\n\n"
+prompt_template2 = "Please describe briefly with a few words the following research contributor and consider the following information:\n\nName: {name}\nPublications: {publications}\nJournal Articles: {journal_articles}\nsince year:{since_year}\nProceedings Papers: {proceedings_papers}\n\n"
+prompt_template3 = "Generate a concise description of the given research contributor based on the following details:\n\nName: {name}\nPublications: {publications}\nJournal Articles: {journal_articles}\nsince year:{since_year}\nProceedings Papers: {proceedings_papers}\n\n"
 
 file_path = os.path.abspath("testing/paragraph1/data_authors.json")
-output_file = os.path.abspath("testing/paragraph1/Turbo.json")
+output_file = os.path.abspath("testing/paragraph1/TurboNames.json")
 
 def save_to_json(data):
     results = []
@@ -46,14 +47,20 @@ def generate_prompt(data):
     for prompt in prompts:
         # Construct messages for gpt-3.5-turbo-0613
         messages = [
-            {"role": "system", "content": "You are a helpful assistant that provides information about research contributors."},
-            {"role": "user", "content": prompt}
+            {"role": "user",
+            "content":  prompt
+            }
         ]
 
         # Generate text using ChatGPT API
         response = openai.ChatCompletion.create(
-            engine='gpt-3.5-turbo',
+            model="gpt-3.5-turbo",
             messages=messages,
+            temperature=1,
+            max_tokens=256,
+            top_p=1,
+            frequency_penalty=0,
+            presence_penalty=0
         )
         
         generated_text = response.choices[0].message['content'].strip()
@@ -75,9 +82,14 @@ def main():
     for user_data in user_data_list:
         # Generate prompts based on user data
         generate_prompt(user_data)
+    for user_data in user_data_list:
+        if user_data['name'] == "Benjamin B. Bederson":
+            # Generate prompts based on the specified author data
+            generate_prompt(user_data)
+            break  # Exit the loop after processing the specified author    
 
         # Delay for 1 minute before processing the next author
-        time.sleep(60)
+        #time.sleep(60)
 
 if __name__ == '__main__':
     main()
