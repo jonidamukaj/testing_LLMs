@@ -24,7 +24,7 @@ prompt_template3 = "Generate a concise description of the given research contrib
 #prompt_templa
 
 file_path = os.path.abspath("testing/paragraph1/data_authors.json")
-output_file = os.path.abspath("testing/paragraph1/AdaNew.json")
+output_file = os.path.abspath("testing/paragraph1/DavinciNew.json")
 
 
 def save_to_json(data):
@@ -54,7 +54,7 @@ def generate_prompt(data):
 
     # Generate text using ChatGPT API for the first prompt
     response1 = openai.Completion.create(
-        engine='text-ada-001',
+        engine='text-davinci-003',
         prompt=prompt1,
         max_tokens=100,
         n=1,
@@ -70,7 +70,7 @@ def generate_prompt(data):
 
     # Generate text using ChatGPT API for the second prompt
     response2 = openai.Completion.create(
-        engine='text-ada-001',
+        engine='text-davinci-003',
         prompt=prompt2,
         max_tokens=100,
         n=1,
@@ -86,7 +86,7 @@ def generate_prompt(data):
 
     # Generate text using ChatGPT API for the third prompt
     response3 = openai.Completion.create(
-        engine='text-ada-001',
+        engine='text-davinci-003',
         prompt=prompt3,
         max_tokens=100,
         n=1,
@@ -120,19 +120,19 @@ def main():
     with open(file_path, 'r', encoding='utf-8') as file:
         user_data_list = json.load(file)
 
-    #for user_data in user_data_list:
+    for user_data in user_data_list:
         # Generate prompts based on user data
-        #generate_prompt(user_data)
+        generate_prompt(user_data)
 
         # Delay for 1 minute before processing the next author
-        #time.sleep(60)  # Sleep for 60 seconds (1 minute)    
+        time.sleep(60)  # Sleep for 60 seconds (1 minute)    
 
     # Find the data for the author with name "Fabian Beck"
-    for user_data in user_data_list:
-        if user_data['name'] == "Carla E. Brodley":
+    #for user_data in user_data_list:
+        #if user_data['name'] == "Carla E. Brodley":
             # Generate prompts based on the specified author data
-            generate_prompt(user_data)
-            break  # Exit the loop after processing the specified author
+            #generate_prompt(user_data)
+            #break  # Exit the loop after processing the specified author
 
         # Ask if the user wants to continue or exit
         #choice = input("Do you want to continue (Y/N)? ")
