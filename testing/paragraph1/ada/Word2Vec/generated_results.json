@@ -1,0 +1,686 @@
+{
+    "Ben Shneiderman": [
+        {
+            "pronouns": [
+                "She",
+                "She"
+            ],
+            "adjectives": [
+                "past",
+                "new"
+            ]
+        },
+        {
+            "pronouns": [
+                "His",
+                "He"
+            ],
+            "adjectives": [
+                "past",
+                "past",
+                "past"
+            ]
+        },
+        {
+            "pronouns": [
+                "They",
+                "They"
+            ],
+            "adjectives": [
+                "scientific",
+                "many",
+                "important"
+            ]
+        }
+    ],
+    "Fabian Beck": [
+        {
+            "pronouns": [
+                "She",
+                "Her",
+                "She"
+            ],
+            "adjectives": []
+        },
+        {
+            "pronouns": [
+                "He",
+                "He",
+                "He",
+                "He"
+            ],
+            "adjectives": [
+                "little",
+                "different"
+            ]
+        },
+        {
+            "pronouns": [
+                "She",
+                "She",
+                "She"
+            ],
+            "adjectives": [
+                "aesi"
+            ]
+        }
+    ],
+    "Mary Jean Harrold": [
+        {
+            "pronouns": [
+                "She",
+                "She",
+                "She",
+                "She"
+            ],
+            "adjectives": [
+                "undergraduate",
+                "American"
+            ]
+        },
+        {
+            "pronouns": [
+                "He",
+                "His",
+                "He"
+            ],
+            "adjectives": [
+                "past",
+                "major",
+                "numerous",
+                "regular",
+                "annual",
+                "American"
+            ]
+        },
+        {
+            "pronouns": [
+                "She",
+                "she",
+                "her",
+                "her"
+            ],
+            "adjectives": [
+                "following",
+                "able"
+            ]
+        }
+    ],
+    "Stephan Diehl": [
+        {
+            "pronouns": [
+                "She",
+                "She",
+                "her"
+            ],
+            "adjectives": [
+                "journal",
+                "hard"
+            ]
+        },
+        {
+            "pronouns": [
+                "He",
+                "His"
+            ],
+            "adjectives": [
+                "cardiovascular"
+            ]
+        },
+        {
+            "pronouns": [
+                "She"
+            ],
+            "adjectives": [
+                "journal"
+            ]
+        }
+    ],
+    "Daniel Weiskopf": [
+        {
+            "pronouns": [
+                "She",
+                "Her",
+                "She"
+            ],
+            "adjectives": [
+                "molecular",
+                "genetic",
+                "past",
+                "chronic"
+            ]
+        },
+        {
+            "pronouns": [
+                "He"
+            ],
+            "adjectives": [
+                "full-time",
+                "other"
+            ]
+        },
+        {
+            "pronouns": [
+                "She",
+                "She",
+                "She"
+            ],
+            "adjectives": [
+                "noted",
+                "professional",
+                "past",
+                "natural",
+                "human",
+                "professional"
+            ]
+        }
+    ],
+    "Michael Burch": [
+        {
+            "pronouns": [
+                "her",
+                "she",
+                "she",
+                "She"
+            ],
+            "adjectives": [
+                "journal",
+                "regular"
+            ]
+        },
+        {
+            "pronouns": [
+                "He"
+            ],
+            "adjectives": [
+                "several"
+            ]
+        },
+        {
+            "pronouns": [
+                "She",
+                "She",
+                "she",
+                "Her",
+                "she",
+                "her"
+            ],
+            "adjectives": [
+                "English",
+                "main"
+            ]
+        }
+    ],
+    "James A. Jones": [
+        {
+            "pronouns": [
+                "She",
+                "She"
+            ],
+            "adjectives": [
+                "Cross-Cultural",
+                "journal",
+                "author/inferior"
+            ]
+        },
+        {
+            "pronouns": [
+                "He"
+            ],
+            "adjectives": [
+                "past"
+            ]
+        },
+        {
+            "pronouns": [
+                "her",
+                "it",
+                "her",
+                "her"
+            ],
+            "adjectives": [
+                "Bible"
+            ]
+        }
+    ],
+    "Catherine Plaisant": [
+        {
+            "pronouns": [
+                "She",
+                "their",
+                "Their"
+            ],
+            "adjectives": [
+                "entire",
+                "includingbourne",
+                "strategic"
+            ]
+        },
+        {
+            "pronouns": [
+                "our",
+                "He"
+            ],
+            "adjectives": [
+                "journal",
+                "several",
+                "retired",
+                "high"
+            ]
+        },
+        {
+            "pronouns": [
+                "She",
+                "Her",
+                "She",
+                "She"
+            ],
+            "adjectives": [
+                "first",
+                "doctoral"
+            ]
+        }
+    ],
+    "Benjamin B. Bederson": [
+        {
+            "pronouns": [
+                "She",
+                "She"
+            ],
+            "adjectives": [
+                "professional"
+            ]
+        },
+        {
+            "pronouns": [
+                "He",
+                "He",
+                "his"
+            ],
+            "adjectives": [
+                "journal"
+            ]
+        },
+        {
+            "pronouns": [
+                "who",
+                "She"
+            ],
+            "adjectives": [
+                "American"
+            ]
+        }
+    ],
+    "Stuart K. Card": [
+        {
+            "pronouns": [
+                "She",
+                "She"
+            ],
+            "adjectives": [
+                "most",
+                "deputy"
+            ]
+        },
+        {
+            "pronouns": [
+                "He",
+                "he"
+            ],
+            "adjectives": [
+                "journal"
+            ]
+        },
+        {
+            "pronouns": [
+                "She",
+                "Her",
+                "She",
+                "Her"
+            ],
+            "adjectives": [
+                "mantle",
+                "early",
+                "current"
+            ]
+        }
+    ],
+    "Achim Ebert": [
+        {
+            "pronouns": [
+                "She"
+            ],
+            "adjectives": [
+                "w3-comic"
+            ]
+        },
+        {
+            "pronouns": [
+                "He",
+                "He"
+            ],
+            "adjectives": [
+                "online"
+            ]
+        },
+        {
+            "pronouns": [
+                "her",
+                "she"
+            ],
+            "adjectives": [
+                "The-FOLD-effect",
+                "The-FOLD-",
+                "current",
+                "in-season",
+                "agricultural"
+            ]
+        }
+    ],
+    "Mary C. Whitton": [
+        {
+            "pronouns": [
+                "She",
+                "She"
+            ],
+            "adjectives": []
+        },
+        {
+            "pronouns": [
+                "He",
+                "He"
+            ],
+            "adjectives": [
+                "senior"
+            ]
+        },
+        {
+            "pronouns": [
+                "She",
+                "She",
+                "Her",
+                "her"
+            ],
+            "adjectives": [
+                "above",
+                "scientific",
+                "many",
+                "professional",
+                "many",
+                "journal",
+                "professional"
+            ]
+        }
+    ],
+    "Henry Fuchs": [
+        {
+            "pronouns": [
+                "She",
+                "my"
+            ],
+            "adjectives": [
+                "other",
+                "such",
+                "nose",
+                "mouth"
+            ]
+        },
+        {
+            "pronouns": [
+                "He"
+            ],
+            "adjectives": [
+                "journal",
+                "in30"
+            ]
+        },
+        {
+            "pronouns": [
+                "She",
+                "Her",
+                "She"
+            ],
+            "adjectives": [
+                "environmental",
+                "environmental"
+            ]
+        }
+    ],
+    "Dieter Schmalstieg": [
+        {
+            "pronouns": [
+                "She"
+            ],
+            "adjectives": []
+        },
+        {
+            "pronouns": [
+                "He"
+            ],
+            "adjectives": []
+        },
+        {
+            "pronouns": [
+                "her",
+                "She",
+                "She",
+                "She"
+            ],
+            "adjectives": [
+                "first",
+                "other",
+                "social"
+            ]
+        }
+    ],
+    "Anna Celler": [
+        {
+            "pronouns": [
+                "She",
+                "She"
+            ],
+            "adjectives": [
+                "past",
+                "past"
+            ]
+        },
+        {
+            "pronouns": [
+                "He"
+            ],
+            "adjectives": [
+                "post-doctoral",
+                "associate",
+                "atronational",
+                "2000-2002"
+            ]
+        },
+        {
+            "pronouns": [
+                "She",
+                "Her",
+                "She"
+            ],
+            "adjectives": [
+                "American",
+                "American",
+                "French",
+                "Indian",
+                "American",
+                "American"
+            ]
+        }
+    ],
+    "Ghassan Hamarneh": [
+        {
+            "pronouns": [
+                "her",
+                "she"
+            ],
+            "adjectives": [
+                "self-esteem",
+                "mental",
+                "mental",
+                "social"
+            ]
+        },
+        {
+            "pronouns": [
+                "His"
+            ],
+            "adjectives": [
+                "environmental",
+                "human",
+                "Environmental",
+                "Environmentexternal",
+                "prestigious",
+                "prestigious",
+                "American"
+            ]
+        },
+        {
+            "pronouns": [
+                "She",
+                "her",
+                "its",
+                "She",
+                "her",
+                "it",
+                "her"
+            ],
+            "adjectives": [
+                "senior",
+                "American",
+                "American",
+                "various",
+                "early",
+                "present",
+                "key",
+                "American"
+            ]
+        }
+    ],
+    "Xenophon Papademetris": [
+        {
+            "pronouns": [
+                "She"
+            ],
+            "adjectives": [
+                "journal",
+                "social"
+            ]
+        },
+        {
+            "pronouns": [
+                "He"
+            ],
+            "adjectives": [
+                "various"
+            ]
+        },
+        {
+            "pronouns": [
+                "She"
+            ],
+            "adjectives": [
+                "following",
+                "professional",
+                "various"
+            ]
+        }
+    ],
+    "Penny Rheingans": [
+        {
+            "pronouns": [
+                "She"
+            ],
+            "adjectives": [
+                "following"
+            ]
+        },
+        {
+            "pronouns": [
+                "He",
+                "He"
+            ],
+            "adjectives": []
+        },
+        {
+            "pronouns": [
+                "She"
+            ],
+            "adjectives": [
+                "foreign",
+                "present"
+            ]
+        }
+    ],
+    "Marie desJardins": [
+        {
+            "pronouns": [
+                "She"
+            ],
+            "adjectives": []
+        },
+        {
+            "pronouns": [
+                "He"
+            ],
+            "adjectives": [
+                "past"
+            ]
+        },
+        {
+            "pronouns": [
+                "She"
+            ],
+            "adjectives": [
+                "artificial",
+                "artificial",
+                "more"
+            ]
+        }
+    ],
+    "Carla E. Brodley": [
+        {
+            "pronouns": [
+                "She",
+                "She"
+            ],
+            "adjectives": [
+                "in284"
+            ]
+        },
+        {
+            "pronouns": [
+                "He",
+                "He",
+                "his",
+                "He",
+                "his",
+                "He",
+                "he"
+            ],
+            "adjectives": [
+                "website",
+                "past",
+                "many",
+                "different",
+                "website",
+                "many",
+                "different",
+                "website",
+                "website",
+                "past"
+            ]
+        },
+        {
+            "pronouns": [
+                "They"
+            ],
+            "adjectives": [
+                "American"
+            ]
+        }
+    ]
+}
