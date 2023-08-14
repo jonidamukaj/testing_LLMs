@@ -1,0 +1,721 @@
+{
+    "Ben Shneiderman": [
+        {
+            "pronouns": [
+                "who",
+                "Her",
+                "Her",
+                "she",
+                "her"
+            ],
+            "adjectives": [
+                "prominent",
+                "scientific",
+                "journal",
+                "molecular",
+                "important",
+                "new",
+                "respected",
+                "significant"
+            ]
+        },
+        {
+            "pronouns": [
+                "who",
+                "He",
+                "His"
+            ],
+            "adjectives": [
+                "eminent",
+                "journal",
+                "peer-reviewed"
+            ]
+        },
+        {
+            "pronouns": [
+                "who",
+                "She",
+                "Her"
+            ],
+            "adjectives": [
+                "scientific",
+                "journal",
+                "peer-reviewed"
+            ]
+        }
+    ],
+    "Fabian Beck": [
+        {
+            "pronouns": [
+                "who",
+                "She",
+                "Her"
+            ],
+            "adjectives": [
+                "scientific",
+                "journal"
+            ]
+        },
+        {
+            "pronouns": [
+                "He"
+            ],
+            "adjectives": [
+                "journal",
+                "other",
+                "various"
+            ]
+        },
+        {
+            "pronouns": [
+                "who",
+                "She"
+            ],
+            "adjectives": [
+                "scientific",
+                "journal",
+                "interested"
+            ]
+        }
+    ],
+    "Mary Jean Harrold": [
+        {
+            "pronouns": [
+                "who",
+                "Her"
+            ],
+            "adjectives": [
+                "scientific",
+                "journal",
+                "recent"
+            ]
+        },
+        {
+            "pronouns": [
+                "He",
+                "their"
+            ],
+            "adjectives": [
+                "scientific",
+                "human"
+            ]
+        },
+        {
+            "pronouns": [
+                "who",
+                "Her"
+            ],
+            "adjectives": [
+                "journal"
+            ]
+        }
+    ],
+    "Stephan Diehl": [
+        {
+            "pronouns": [
+                "who",
+                "She",
+                "Her"
+            ],
+            "adjectives": [
+                "scientific",
+                "journal",
+                "other",
+                "non-peer-reviewed"
+            ]
+        },
+        {
+            "pronouns": [
+                "He",
+                "He"
+            ],
+            "adjectives": [
+                "journal"
+            ]
+        },
+        {
+            "pronouns": [
+                "who"
+            ],
+            "adjectives": [
+                "published",
+                "journal"
+            ]
+        }
+    ],
+    "Daniel Weiskopf": [
+        {
+            "pronouns": [
+                "She",
+                "her",
+                "Her"
+            ],
+            "adjectives": [
+                "scientific",
+                "journal"
+            ]
+        },
+        {
+            "pronouns": [
+                "He",
+                "He"
+            ],
+            "adjectives": [
+                "journal",
+                "other",
+                "more",
+                "other",
+                "more",
+                "other"
+            ]
+        },
+        {
+            "pronouns": [
+                "who"
+            ],
+            "adjectives": [
+                "scientific"
+            ]
+        }
+    ],
+    "Michael Burch": [
+        {
+            "pronouns": [
+                "who",
+                "She",
+                "Her"
+            ],
+            "adjectives": [
+                "journal",
+                "peer-reviewed",
+                "molecular",
+                "cellular",
+                "developmental"
+            ]
+        },
+        {
+            "pronouns": [
+                "He",
+                "He"
+            ],
+            "adjectives": [
+                "journal",
+                "peer-reviewed"
+            ]
+        },
+        {
+            "pronouns": [
+                "who",
+                "She",
+                "her"
+            ],
+            "adjectives": [
+                "scientific",
+                "journal"
+            ]
+        }
+    ],
+    "James A. Jones": [
+        {
+            "pronouns": [
+                "who",
+                "Her",
+                "She"
+            ],
+            "adjectives": [
+                "journal"
+            ]
+        },
+        {
+            "pronouns": [
+                "He"
+            ],
+            "adjectives": [
+                "scientific",
+                "journal",
+                "high",
+                "environmental"
+            ]
+        },
+        {
+            "pronouns": [
+                "who",
+                "Her"
+            ],
+            "adjectives": [
+                "biomedical",
+                "such",
+                "reproductive",
+                "prestigious",
+                "such",
+                "various",
+                "biomedical"
+            ]
+        }
+    ],
+    "Catherine Plaisant": [
+        {
+            "pronouns": [
+                "She",
+                "Her",
+                "her",
+                "our"
+            ],
+            "adjectives": [
+                "journal",
+                "journal",
+                "last",
+                "evolutionary",
+                "such",
+                "significant",
+                "evolutionary",
+                "scientific"
+            ]
+        },
+        {
+            "pronouns": [
+                "His",
+                "he"
+            ],
+            "adjectives": [
+                "journal",
+                "atmospheric"
+            ]
+        },
+        {
+            "pronouns": [
+                "She",
+                "She"
+            ],
+            "adjectives": []
+        }
+    ],
+    "Benjamin B. Bederson": [
+        {
+            "pronouns": [
+                "She",
+                "Her",
+                "she",
+                "our"
+            ],
+            "adjectives": [
+                "journal",
+                "significant"
+            ]
+        },
+        {
+            "pronouns": [
+                "He",
+                "He"
+            ],
+            "adjectives": [
+                "environmental",
+                "journal",
+                "public"
+            ]
+        },
+        {
+            "pronouns": [
+                "who",
+                "She"
+            ],
+            "adjectives": [
+                "scientific",
+                "journal",
+                "particular",
+                "such"
+            ]
+        }
+    ],
+    "Stuart K. Card": [
+        {
+            "pronouns": [
+                "who",
+                "She",
+                "Her"
+            ],
+            "adjectives": [
+                "scientific",
+                "journal"
+            ]
+        },
+        {
+            "pronouns": [
+                "He"
+            ],
+            "adjectives": [
+                "journal",
+                "other",
+                "scientific"
+            ]
+        },
+        {
+            "pronouns": [
+                "who",
+                "its",
+                "She"
+            ],
+            "adjectives": [
+                "atmospheric",
+                "journal",
+                "atmospheric"
+            ]
+        }
+    ],
+    "Achim Ebert": [
+        {
+            "pronouns": [
+                "who",
+                "She",
+                "Her"
+            ],
+            "adjectives": [
+                "scientific",
+                "journal"
+            ]
+        },
+        {
+            "pronouns": [
+                "He",
+                "His",
+                "its"
+            ],
+            "adjectives": [
+                "journal",
+                "total",
+                "human"
+            ]
+        },
+        {
+            "pronouns": [
+                "who",
+                "She"
+            ],
+            "adjectives": []
+        }
+    ],
+    "Mary C. Whitton": [
+        {
+            "pronouns": [
+                "who",
+                "she",
+                "Her",
+                "her"
+            ],
+            "adjectives": [
+                "scientific",
+                "journal",
+                "animal",
+                "significant",
+                "animal",
+                "numerous"
+            ]
+        },
+        {
+            "pronouns": [
+                "He",
+                "He"
+            ],
+            "adjectives": [
+                "journal"
+            ]
+        },
+        {
+            "pronouns": [
+                "who",
+                "She"
+            ],
+            "adjectives": [
+                "few"
+            ]
+        }
+    ],
+    "Henry Fuchs": [
+        {
+            "pronouns": [
+                "She",
+                "She"
+            ],
+            "adjectives": [
+                "journal"
+            ]
+        },
+        {
+            "pronouns": [
+                "He",
+                "He"
+            ],
+            "adjectives": [
+                "journal"
+            ]
+        },
+        {
+            "pronouns": [
+                "She"
+            ],
+            "adjectives": [
+                "American",
+                "scientific",
+                "journal"
+            ]
+        }
+    ],
+    "Dieter Schmalstieg": [
+        {
+            "pronouns": [
+                "Her"
+            ],
+            "adjectives": [
+                "scientific",
+                "journal"
+            ]
+        },
+        {
+            "pronouns": [
+                "He",
+                "he"
+            ],
+            "adjectives": [
+                "scientific",
+                "journal",
+                "peer-reviewed"
+            ]
+        },
+        {
+            "pronouns": [
+                "She",
+                "Her"
+            ],
+            "adjectives": [
+                "journal",
+                "environmental"
+            ]
+        }
+    ],
+    "Anna Celler": [
+        {
+            "pronouns": [
+                "who",
+                "She",
+                "Her",
+                "its"
+            ],
+            "adjectives": [
+                "journal",
+                "journal"
+            ]
+        },
+        {
+            "pronouns": [
+                "He"
+            ],
+            "adjectives": [
+                "environmental",
+                "scientific"
+            ]
+        },
+        {
+            "pronouns": [
+                "who"
+            ],
+            "adjectives": [
+                "American"
+            ]
+        }
+    ],
+    "Ghassan Hamarneh": [
+        {
+            "pronouns": [
+                "who",
+                "Her"
+            ],
+            "adjectives": [
+                "scientific",
+                "journal",
+                "recent",
+                "scientific",
+                "biomedical",
+                "particular"
+            ]
+        },
+        {
+            "pronouns": [
+                "He",
+                "He"
+            ],
+            "adjectives": [
+                "molecular",
+                "journal",
+                "total",
+                "active"
+            ]
+        },
+        {
+            "pronouns": [
+                "She",
+                "Her"
+            ],
+            "adjectives": [
+                "scientific",
+                "journal",
+                "molecular"
+            ]
+        }
+    ],
+    "Xenophon Papademetris": [
+        {
+            "pronouns": [
+                "who",
+                "She",
+                "Her"
+            ],
+            "adjectives": [
+                "scientific",
+                "journal",
+                "peer-reviewed"
+            ]
+        },
+        {
+            "pronouns": [
+                "He",
+                "His"
+            ],
+            "adjectives": [
+                "journal",
+                "other",
+                "major",
+                "scientific",
+                "environmental"
+            ]
+        },
+        {
+            "pronouns": [
+                "who",
+                "She"
+            ],
+            "adjectives": [
+                "scientific",
+                "journal"
+            ]
+        }
+    ],
+    "Penny Rheingans": [
+        {
+            "pronouns": [
+                "who",
+                "Her",
+                "her",
+                "She"
+            ],
+            "adjectives": [
+                "scientific",
+                "journal",
+                "frequent",
+                "journal",
+                "total"
+            ]
+        },
+        {
+            "pronouns": [
+                "He"
+            ],
+            "adjectives": [
+                "journal",
+                "other",
+                "physical"
+            ]
+        },
+        {
+            "pronouns": [
+                "who",
+                "She",
+                "her",
+                "Her"
+            ],
+            "adjectives": [
+                "American",
+                "journal",
+                "recent",
+                "environmental"
+            ]
+        }
+    ],
+    "Marie desJardins": [
+        {
+            "pronouns": [
+                "who",
+                "She",
+                "Her"
+            ],
+            "adjectives": [
+                "scientific",
+                "journal",
+                "open-access"
+            ]
+        },
+        {
+            "pronouns": [
+                "He"
+            ],
+            "adjectives": [
+                "environmental",
+                "journal",
+                "peer-reviewed"
+            ]
+        },
+        {
+            "pronouns": [
+                "who",
+                "Her",
+                "she"
+            ],
+            "adjectives": [
+                "scientific",
+                "journal",
+                "molecular",
+                "interested",
+                "transcriptional"
+            ]
+        }
+    ],
+    "Carla E. Brodley": [
+        {
+            "pronouns": [
+                "who",
+                "She",
+                "Her"
+            ],
+            "adjectives": [
+                "scientific",
+                "journal",
+                "journal",
+                "molecular",
+                "cellular"
+            ]
+        },
+        {
+            "pronouns": [
+                "He",
+                "He"
+            ],
+            "adjectives": [
+                "journal",
+                "other",
+                "scientific"
+            ]
+        },
+        {
+            "pronouns": [
+                "who",
+                "She",
+                "Her"
+            ],
+            "adjectives": [
+                "scientific",
+                "journal",
+                "atmospheric",
+                "ozone"
+            ]
+        }
+    ]
+}
