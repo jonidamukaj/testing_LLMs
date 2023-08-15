@@ -1,4 +1,4 @@
-Name,Generated Text,F1 Score,ROUGE,Length,Vec2
+Name,Generated Text,F1 Score,Rouge,Length,Vec2
 Ben Shneiderman,Text 1,0.233766234,0.475468374,298,0.7642196
 Ben Shneiderman,Text 2,0.5,0.570758665,149,0.8263335
 Ben Shneiderman,Text 3,0.489795918,0.537762825,138,0.8033675
