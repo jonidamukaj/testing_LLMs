@@ -11,7 +11,7 @@ openai.api_key = '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 '
 prompt_template1 = "Please describe briefly the following scientific author and consider the following information:\n\nName: Anna Smith\nPublications: {publications}\nJournal Articles: {journal_articles}\nsince year:{since_year}\nProceedings Papers: {proceedings_papers}\n\n"
 prompt_template2 = "Please describe with a few words the following scientific author and consider the following information:\n\nName: Ben Smith\nPublications: {publications}\nJournal Articles: {journal_articles}\nsince year:{since_year}\nProceedings Papers: {proceedings_papers}\n\n"
 prompt_template3 = "Please describe shortly the following scientific author and consider only the following information:\n\nName: Mary Adams\nPublications: {publications}\nJournal Articles: {journal_articles}\nsince year:{since_year}\nProceedings Papers: {proceedings_papers}\n\n"
-#prompt_template4 = "Please describe concisely the following scientific author and consider only the following information:\n\nName: {name}\nPublications: {publications}\nJournal Articles: {journal_articles}\nsince year:{since_year}\nProceedings Papers: {proceedings_papers}\n\n"
+prompt_template4 = "Please describe concisely the following scientific author and consider only the following information:\n\nName: {name}\nPublications: {publications}\nJournal Articles: {journal_articles}\nsince year:{since_year}\nProceedings Papers: {proceedings_papers}\n\n"
 
 file_path = os.path.abspath("testing/data_authors.json")
 output_file = os.path.abspath("testing/FewWords/prompt1_FEWcopy.json")
