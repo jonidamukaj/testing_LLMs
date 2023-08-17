@@ -9,8 +9,8 @@ openai.api_key = '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'
 # Prompt templates
 prompt_template1 = "Please describe briefly the following scientific author and consider the following information:\n\nName: {name}\nPublications: {publications}\nJournal Articles: {journal_articles}\nsince year:{since_year}\nProceedings Papers: {proceedings_papers}\n\n"
 prompt_template2 = "Imagine a renowned inventor named {name} who has contributed significantly to various fields. Please describe this inventor and their creations based on the following information:\n\nPublications: {publications}\nJournal Articles: {journal_articles}\nsince year:{since_year}\nProceedings Papers: {proceedings_papers}\n\n"
-prompt_template3 = "Please describe in short concise sentences:\n\nName: {name}\nPublications: {publications}\nJournal Articles: {journal_articles}\nsince year:{since_year}\nProceedings Papers: {proceedings_papers}\n\n"
-prompt_template4 = "Use the provided context when describing the following scientific author:\n\nName: {name}\nPublications: {publications}\nJournal Articles: {journal_articles}\nsince year:{since_year}\nProceedings Papers: {proceedings_papers}\n\n"
+prompt_template3 = "Please describe in short concise sentences:\n\nName: Anna Smith \nPublications: {publications}\nJournal Articles: {journal_articles}\nsince year:{since_year}\nProceedings Papers: {proceedings_papers}\n\n"
+prompt_template4 = "Use the provided context when describing the following scientific author:\n\nName: Anna Smith\nPublications: {publications}\nJournal Articles: {journal_articles}\nsince year:{since_year}\nProceedings Papers: {proceedings_papers}\n\n"
 file_path = os.path.abspath("testing\data_authors.json")
 output_file = os.path.abspath("hallucination.json")
 
