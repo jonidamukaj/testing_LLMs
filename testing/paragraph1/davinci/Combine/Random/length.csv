@@ -1,21 +1,21 @@
-Name,ExLength,Generated Text 1 Length,Generated Text 2 Length,Generated Text 3 Length
-Ben Shneiderman,195,438,102,138
-Fabian Beck,397,232,106,126
-Mary Jean Harrold,191,195,140,139
-Stephan Diehl,385,204,120,125
-Daniel Weiskopf,168,286,113,134
-Michael Burch,225,258,112,107
-James A. Jones,417,178,108,132
-Catherine Plaisant,192,174,117,135
-Benjamin B. Bederson,269,285,116,137
-Stuart K. Card,200,251,101,120
-Achim Ebert,421,249,115,132
-Mary C. Whitton,331,289,113,137
-Henry Fuchs,184,212,133,134
-Dieter Schmalstieg,196,376,115,145
-Anna Celler,224,132,107,125
-Ghassan Hamarneh,381,325,113,134
-Xenophon Papademetris,339,305,136,156
-Penny Rheingans,332,223,110,150
-Marie desJardins,243,336,111,132
-Carla E. Brodley,243,311,142,132
+Name,Generated Text 1 Length,Generated Text 2 Length,Generated Text 3 Length
+Ben Shneiderman,438,102,138
+Fabian Beck,232,106,126
+Mary Jean Harrold,195,140,139
+Stephan Diehl,204,120,125
+Daniel Weiskopf,286,113,134
+Michael Burch,258,112,107
+James A. Jones,178,108,132
+Catherine Plaisant,174,117,135
+Benjamin B. Bederson,285,116,137
+Stuart K. Card,251,101,120
+Achim Ebert,249,115,132
+Mary C. Whitton,289,113,137
+Henry Fuchs,212,133,134
+Dieter Schmalstieg,376,115,145
+Anna Celler,132,107,125
+Ghassan Hamarneh,325,113,134
+Xenophon Papademetris,305,136,156
+Penny Rheingans,223,110,150
+Marie desJardins,336,111,132
+Carla E. Brodley,311,142,132
