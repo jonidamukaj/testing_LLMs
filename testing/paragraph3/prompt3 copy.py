@@ -8,12 +8,13 @@ import time
 openai.api_key = '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'
 
 # Prompt templates
-prompt_template1 = "Please describe briefly the following scientific author and consider the following information:\n\nName: Anna Smith\nFirst joint author: {first_co_author}\nYear of first joint author: {first_co_author_year}\nFirst joint author's Publication:{first_co_author_publications}\second joint author: {second_co_author}\second joint author's Year: {second_co_author_year}\nsecond joint author's Publication:{second_co_author_publications}\Another joint author: {another_co_author}\another joint Author's Year: {another_co_author_year}\another joint author's Publication:{another_co_author_publications}\nFirst Collaboration: {first_collaboration}\n\nFirst Collaboration Field: {first_collaboration_field}\nFirst Collaboration's Paper number: {first_collaboration_papers}\n\nSecond Collaboration: {second_collaboration}\nSecond Collaboration's Paper number: {second_collaboration_papers}\n\n"
-prompt_template2 = "Please describe briefly with a few words the following scientific author and consider ONLY the following information:\n\nName: Ben Adams\nFirst joint author: {first_co_author}\nYear of first joint author: {first_co_author_year}\nFirst joint author's Publication:{first_co_author_publications}\second joint author: {second_co_author}\second joint author's Year: {second_co_author_year}\nsecond joint author's Publication:{second_co_author_publications}\Another joint author: {another_co_author}\another joint Author's Year: {another_co_author_year}\another joint author's Publication:{another_co_author_publications}\nFirst Collaboration: {first_collaboration}\n\nFirst Collaboration Field: {first_collaboration_field}\nFirst Collaboration's Paper number: {first_collaboration_papers}\n\nSecond Collaboration: {second_collaboration}\nSecond Collaboration's Paper number: {second_collaboration_papers}\n\n"
-prompt_template3 ="Generate a concise description of the given scientific author based on the following details: Name: Marie Mueller\nFirst joint author: {first_co_author}\nYear of first joint author: {first_co_author_year}\nFirst joint author's Publication:{first_co_author_publications}\second joint author: {second_co_author}\second joint author's Year: {second_co_author_year}\nsecond joint author's Publication:{second_co_author_publications}\Another joint author: {another_co_author}\another joint Author's Year: {another_co_author_year}\another joint author's Publication:{another_co_author_publications}\nFirst Collaboration: {first_collaboration}\n\nFirst Collaboration Field: {first_collaboration_field}\nFirst Collaboration's Paper number: {first_collaboration_papers}\n\nSecond Collaboration: {second_collaboration}\nSecond Collaboration's Paper number: {second_collaboration_papers}\n\n"
+prompt_template1 = "Please describe briefly the following scientific author and consider the following information:\nName: Anna Smith\n Most frequent co-author and past supervisee: {first_co_author}\nCollaboration since: {first_co_author_year}\nNumber of publication with the most frequent co-author:{first_co_author_publications}\nSecond most frequent co-author: {second_co_author}\nCollaboration since: {second_co_author_year}\nNumber of publication with Second most frequent co-author:{second_co_author_publications}\Another co-author: {another_co_author}\a Year of collaboration with another co-author:  {another_co_author_year}\a Number of publications with another co-author: {another_co_author_publications}\n First Collaboration: {first_collaboration}\n\nFirst Collaboration Field: {first_collaboration_field}\n Number of papers in the first collaboration: {first_collaboration_papers}\n Second Collaboration: {second_collaboration}\n Number of papers in the second collaboration: {second_collaboration_papers}"
+prompt_template2 = "Please describe briefly with a few words the following scientific author and consider the following information:\nName: Ben Adams\n Most frequent co-author and past supervisee: {first_co_author}\nCollaboration since: {first_co_author_year}\nNumber of publication with the most frequent co-author:{first_co_author_publications}\nSecond most frequent co-author: {second_co_author}\nCollaboration since: {second_co_author_year}\nNumber of publication with Second most frequent co-author:{second_co_author_publications}\Another co-author: {another_co_author}\a Year of collaboration with another co-author:  {another_co_author_year}\a Number of publications with another co-author: {another_co_author_publications}\n First Collaboration: {first_collaboration}\n\nFirst Collaboration Field: {first_collaboration_field}\n Number of papers in the first collaboration: {first_collaboration_papers}\n Second Collaboration: {second_collaboration}\n Number of papers in the second collaboration: {second_collaboration_papers}"
+prompt_template3 ="Generate a concise description of the given scientific author based on the following details:\nName: Marie Mueller\n Most frequent co-author and past supervisee: {first_co_author}\nCollaboration since: {first_co_author_year}\nNumber of publication with the most frequent co-author:{first_co_author_publications}\nSecond most frequent co-author: {second_co_author}\nCollaboration since: {second_co_author_year}\nNumber of publication with Second most frequent co-author:{second_co_author_publications}\Another co-author: {another_co_author}\a Year of collaboration with another co-author:  {another_co_author_year}\a Number of publications with another co-author: {another_co_author_publications}\n First Collaboration: {first_collaboration}\n\nFirst Collaboration Field: {first_collaboration_field}\n Number of papers in the first collaboration: {first_collaboration_papers}\n Second Collaboration: {second_collaboration}\n Number of papers in the second collaboration: {second_collaboration_papers}"
+
 
 file_path = os.path.abspath("testing/data_authors.json")
-output_file = os.path.abspath("testing/paragraph3/prompt3_resultscopy.json")
+output_file = os.path.abspath("testing/paragraph3/Results.json")
 
 
 def save_to_json(data):
@@ -45,7 +46,7 @@ def generate_prompt(data):
     response1 = openai.Completion.create(
         engine='text-davinci-003',
         prompt=prompt1,
-        max_tokens=100,
+        max_tokens=500,
         n=1,
         stop=None,
         temperature=0.7,
@@ -61,7 +62,7 @@ def generate_prompt(data):
     response2 = openai.Completion.create(
         engine='text-davinci-003',
         prompt=prompt2,
-        max_tokens=100,
+        max_tokens=500,
         n=1,
         stop=None,
         temperature=0.7,
@@ -77,7 +78,7 @@ def generate_prompt(data):
     response3 = openai.Completion.create(
         engine='text-davinci-003',
         prompt=prompt3,
-        max_tokens=100,
+        max_tokens=500,
         n=1,
         stop=None,
         temperature=0.7,

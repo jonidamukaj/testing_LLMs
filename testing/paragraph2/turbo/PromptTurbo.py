@@ -8,9 +8,9 @@ openai.api_key = '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'
 
 
 # Prompt templates
-prompt_template1 ="Please describe briefly with a few words the following scientific author and consider the following information:\n\nName: Anna Smith\nCommunity member:{community}\nExpertise fields: {expertise}\nworked on: {worked}\nResearchers with similar areas of expertise:{researchers}"
-prompt_template2 ="Please describe briefly with a few words the following scientific author and consider ONLY the following information:\n\nName: Ben Smith\nCommunity member:{community}\nExpertise fields: {expertise}\nworked on: {worked}\nResearchers with similar areas of expertise:{researchers}"
-prompt_template3 ="Generate a concise description of the given scientific author based on the following details:\n\nName: Marie Mueller\nCommunity member:{community}\nExpertise fields: {expertise}\nworked on: {worked}\nResearchers with similar areas of expertise:{researchers}"
+prompt_template1 ="Please describe briefly with a few words the following scientific author and consider the following information:\nName: Anna Smith\nCommunity member:{community}\nExpertise fields: {expertise}\nworked on: {worked}\nResearchers with similar areas of expertise:{researchers}"
+prompt_template2 ="Please describe briefly with a few words the following scientific author and consider ONLY the following information:\nName: Ben Smith\nCommunity member:{community}\nExpertise fields: {expertise}\nworked on: {worked}\nResearchers with similar areas of expertise:{researchers}"
+prompt_template3 ="Generate a concise description of the given scientific author based on the following details:\nName: Marie Mueller\nCommunity member:{community}\nExpertise fields: {expertise}\nworked on: {worked}\nResearchers with similar areas of expertise:{researchers}"
 
 file_path = os.path.abspath("testing/data_authors.json")
 output_file = os.path.abspath("testing/paragraph2/TurboRandom.json")
@@ -23,7 +23,7 @@ def save_to_json(data):
 
     result = {
         'name': data['name'],
-        'existing_text': data['existing_text'],
+        'existing_text': data['existing_text2'],
         'generated_text1': data['generated_text1'],
         'generated_text2': data['generated_text2'],
         'generated_text3': data['generated_text3']
