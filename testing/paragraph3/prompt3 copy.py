@@ -5,12 +5,12 @@ import os
 import time
 
 # Load your API key from a secure location
-openai.api_key = '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'
+openai.api_key = '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'
 
 # Prompt templates
-prompt_template1 = "Please describe briefly the following scientific author and consider the following information:\nName: Anna Smith\n Most frequent co-author and past supervisee: {first_co_author}\nCollaboration since: {first_co_author_year}\nNumber of publication with the most frequent co-author:{first_co_author_publications}\nSecond most frequent co-author: {second_co_author}\nCollaboration since: {second_co_author_year}\nNumber of publication with Second most frequent co-author:{second_co_author_publications}\Another co-author: {another_co_author}\a Year of collaboration with another co-author:  {another_co_author_year}\a Number of publications with another co-author: {another_co_author_publications}\n First Collaboration: {first_collaboration}\n\nFirst Collaboration Field: {first_collaboration_field}\n Number of papers in the first collaboration: {first_collaboration_papers}\n Second Collaboration: {second_collaboration}\n Number of papers in the second collaboration: {second_collaboration_papers}"
-prompt_template2 = "Please describe briefly with a few words the following scientific author and consider the following information:\nName: Ben Adams\n Most frequent co-author and past supervisee: {first_co_author}\nCollaboration since: {first_co_author_year}\nNumber of publication with the most frequent co-author:{first_co_author_publications}\nSecond most frequent co-author: {second_co_author}\nCollaboration since: {second_co_author_year}\nNumber of publication with Second most frequent co-author:{second_co_author_publications}\Another co-author: {another_co_author}\a Year of collaboration with another co-author:  {another_co_author_year}\a Number of publications with another co-author: {another_co_author_publications}\n First Collaboration: {first_collaboration}\n\nFirst Collaboration Field: {first_collaboration_field}\n Number of papers in the first collaboration: {first_collaboration_papers}\n Second Collaboration: {second_collaboration}\n Number of papers in the second collaboration: {second_collaboration_papers}"
-prompt_template3 ="Generate a concise description of the given scientific author based on the following details:\nName: Marie Mueller\n Most frequent co-author and past supervisee: {first_co_author}\nCollaboration since: {first_co_author_year}\nNumber of publication with the most frequent co-author:{first_co_author_publications}\nSecond most frequent co-author: {second_co_author}\nCollaboration since: {second_co_author_year}\nNumber of publication with Second most frequent co-author:{second_co_author_publications}\Another co-author: {another_co_author}\a Year of collaboration with another co-author:  {another_co_author_year}\a Number of publications with another co-author: {another_co_author_publications}\n First Collaboration: {first_collaboration}\n\nFirst Collaboration Field: {first_collaboration_field}\n Number of papers in the first collaboration: {first_collaboration_papers}\n Second Collaboration: {second_collaboration}\n Number of papers in the second collaboration: {second_collaboration_papers}"
+prompt_template1 = "Please describe briefly the following scientific author and consider the following information:Name: Anna Smith, \nMost frequent co-author and past supervisee: {first_co_author}\nCollaboration since: {first_co_author_year}\nNumber of publication with the most frequent co-author:{first_co_author_publications}\nSecond most frequent co-author: {second_co_author}\nCollaboration since: {second_co_author_year}\nNumber of publication with Second most frequent co-author:{second_co_author_publications}\nAnother co-author: {another_co_author}\n Year of collaboration with another co-author:  {another_co_author_year}\n Number of publications with another co-author: {another_co_author_publications}"
+prompt_template2 = "Please describe briefly with a few words the following scientific author and consider the following information: Name: Ben Adams, \nMost frequent co-author and past supervisee: {first_co_author}\nCollaboration since: {first_co_author_year}\nNumber of publication with the most frequent co-author:{first_co_author_publications}\nSecond most frequent co-author: {second_co_author}\nCollaboration since: {second_co_author_year}\nNumber of publication with Second most frequent co-author:{second_co_author_publications}\nAnother co-author: {another_co_author}\n Year of collaboration with another co-author:  {another_co_author_year}\n Number of publications with another co-author: {another_co_author_publications}"
+prompt_template3 ="Generate a concise description of the given scientific author based on the following details:Name: Marie Mueller,  \nMost frequent co-author and past supervisee: {first_co_author}\nCollaboration since: {first_co_author_year}\nNumber of publication with the most frequent co-author:{first_co_author_publications}\nSecond most frequent co-author: {second_co_author}\nCollaboration since: {second_co_author_year}\nNumber of publication with Second most frequent co-author:{second_co_author_publications}\nAnother co-author: {another_co_author}\n Year of collaboration with another co-author:  {another_co_author_year}\n Number of publications with another co-author: {another_co_author_publications}"
 
 
 file_path = os.path.abspath("testing/data_authors.json")
@@ -25,10 +25,11 @@ def save_to_json(data):
 
     result = {
         'name': data['name'],
-        'existing_text': data['existing_text3'],
+        'existing_text2': data['existing_text3'],
         'generated_text1': data['generated_text1'],
         'generated_text2': data['generated_text2'],
         'generated_text3': data['generated_text3']
+        #'generated_text4': data['generated_text4']
     }
 
     results.append(result)
@@ -36,45 +37,73 @@ def save_to_json(data):
     with open(output_file, 'w') as json_file:
         json.dump(results, json_file, indent=4)
 
+
 def generate_prompt(data):
-    # Construct the prompts using the templates and user data
-    prompts = [
-        prompt_template1.format(**data),
-        prompt_template2.format(**data),
-        prompt_template3.format(**data)
-    ]
+    # Construct the first prompt using the template and user data
+    prompt1 = prompt_template1.format(**data)
 
-    generated_texts = []
+    # Generate text using ChatGPT API for the first prompt
+    response1 = openai.Completion.create(
+        engine='text-ada-001',
+        prompt=prompt1,
+        temperature=1,
+        max_tokens=600,
+        frequency_penalty=0,
+        presence_penalty=0
+    )
 
-    for prompt in prompts:
-        # Construct messages for gpt-3.5-turbo-0613
-        messages = [
-            {"role": "user",
-            "content":  prompt
-            }
-        ]
+    # Extract the generated text from the API response
+    generated_text1 = response1.choices[0].text.strip()
 
-        # Generate text using ChatGPT API
-        response = openai.Completion.create(
-            model="text-ada-001",
-            messages=messages,
-            temperature=1,
-            max_tokens=300,
-            top_p=1,
-            frequency_penalty=0,
-            presence_penalty=0
-        )
-    
-        generated_text = response.choices[0].message['content'].strip()
-        generated_texts.append(generated_text)
+    # Construct the second prompt using the template and user data
+    prompt2 = prompt_template2.format(**data)
+
+    #Generate text using ChatGPT API for the second prompt
+    response2 = openai.Completion.create(
+        engine='text-ada-001',
+        prompt=prompt2,
+        temperature=1,
+        max_tokens=600,
+        frequency_penalty=0,
+        presence_penalty=0
+    )
+
+    # Extract the generated text from the second API response
+    generated_text2 = response2.choices[0].text.strip()
+
+    # Construct the third prompt using the template and predefined data
+    prompt3 = prompt_template3.format(**data)
+
+    # Generate text using ChatGPT API for the third prompt
+    response3 = openai.Completion.create(
+        engine='text-ada-001',
+        prompt=prompt3,
+        temperature=1,
+        max_tokens=600,
+        frequency_penalty=0,
+        presence_penalty=0
+    )
+
+    # Extract the generated text from the third API response
+    generated_text3 = response3.choices[0].text.strip()
+
+
 
     # Update the data dictionary with generated texts
-    data['generated_text1'] = generated_texts[0]
-    data['generated_text2'] = generated_texts[1]
-    data['generated_text3'] = generated_texts[2]
+    data['generated_text1'] = generated_text1
+    data['generated_text2'] = generated_text2
+    data['generated_text3'] = generated_text3
+    #data['generated_text4'] = generated_text4
 
     # Save the data to a JSON file
     save_to_json(data)
+
+    # Print the generated texts
+    #print("Generated Text 1:", generated_text1)
+    #print("Generated Text 2:", generated_text2)
+    #print("Generated Text 3:", generated_text3)
+    #print("Generated Text 4:", generated_text4)
+
 
 def main():
     # Load data from JSON file
@@ -84,14 +113,22 @@ def main():
     for user_data in user_data_list:
         # Generate prompts based on user data
         generate_prompt(user_data)
-    #for user_data in user_data_list:
-        #if user_data['name'] == "Carla E. Brodley":
-            # Generate prompts based on the specified author data
-            #generate_prompt(user_data)
-            #break  # Exit the loop after processing the specified author    
 
         # Delay for 1 minute before processing the next author
-        time.sleep(60)
+        time.sleep(60)  # Sleep for 60 seconds (1 minute)    
+
+    # Find the data for the author with name "Fabian Beck"
+    #for user_data in user_data_list:
+       #if user_data['name'] == "Carla E. Brodley":
+            # Generate prompts based on the specified author data
+           # generate_prompt(user_data)
+            #break  # Exit the loop after processing the specified author
+
+        # Ask if the user wants to continue or exit
+        #choice = input("Do you want to continue (Y/N)? ")
+        #if choice.lower() != 'y':
+        #    break
+
 
 if __name__ == '__main__':
     main()
