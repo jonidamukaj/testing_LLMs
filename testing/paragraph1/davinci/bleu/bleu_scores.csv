@@ -1,0 +1,21 @@
+Author Name,BLEU_1,BLEU_2,BLEU_3
+Ben Shneiderman,0.2528,0.0080,0.0632
+Fabian Beck,0.0650,0.0003,0.0374
+Mary Jean Harrold,0.0598,0.0058,0.2653
+Stephan Diehl,0.1915,0.0053,0.0499
+Daniel Weiskopf,0.1962,0.0158,0.2731
+Michael Burch,0.1835,0.0267,0.2199
+James A. Jones,0.0350,0.0024,0.0332
+Catherine Plaisant,0.1954,0.0368,0.1193
+Benjamin B. Bederson,0.0409,0.0187,0.1525
+Stuart K. Card,0.0350,0.0235,0.2014
+Achim Ebert,0.1366,0.0483,0.0652
+Mary C. Whitton,0.0161,0.0064,0.0511
+Henry Fuchs,0.1416,0.0167,0.2225
+Dieter Schmalstieg,0.3151,0.0368,0.2250
+Anna Celler,0.1664,0.0174,0.1270
+Ghassan Hamarneh,0.1146,0.0004,0.0696
+Xenophon Papademetris,0.1113,0.0013,0.0610
+Penny Rheingans,0.0324,0.0014,0.0610
+Marie desJardins,0.1474,0.0025,0.1252
+Carla E. Brodley,0.1311,0.0145,0.1319
