@@ -1,87 +1,39 @@
-import openai
 import json
-import csv
-import os
-import time
 
-# Load your API key from a secure location
-openai.api_key = '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'
+# Load data from the first JSON file
+with open("testing/paragraph3/curie_Results.json", 'r') as file1:
+    data1 = json.load(file1)
 
-# Prompt templates
-prompt_template1 = "Please describe briefly the following scientific author and consider the following information:Name: Anna Smith, \nMost frequent co-author and past supervisee: {first_co_author}\nCollaboration since: {first_co_author_year}\nNumber of publication with the most frequent co-author:{first_co_author_publications}\nSecond most frequent co-author: {second_co_author}\nCollaboration since: {second_co_author_year}\nNumber of publication with Second most frequent co-author:{second_co_author_publications}"
+# Load data from the second JSON file
+with open("testing/paragraph3/curie2_Results.json", 'r') as file2:
+    data2 = json.load(file2)
 
-file_path = os.path.abspath("testing/data_authors.json")
-output_file = os.path.abspath("testing/paragraph3/curie2_Results.json")
+# Create a list to store the combined data
+combined_data = []
 
+# Check if both files have the same number of records
+if len(data1) == len(data2):
+    for i in range(len(data1)):
+        # Combine the generated texts from both files
+        combined_entry = {
+            "name": data1[i]["name"],
+            "existing_text": data1[i]["existing_text"],
+            "generated_text1": data1[i]["generated_text1"] + data2[i]["generated_text1"],
+            "generated_text2": data1[i]["generated_text2"] + data2[i]["generated_text2"],
+            "generated_text3": data1[i]["generated_text3"] + data2[i]["generated_text3"]
+        }
+        combined_data.append(combined_entry)
+else:
+    print("The number of records in the two files does not match.")
 
-def save_to_json(data):
-    results = []
-    if os.path.exists(output_file):
-        with open(output_file, 'r') as json_file:
-            results = json.load(json_file)
+# Save the combined data to a new JSON file
+with open('combined_data.json', 'w') as combined_file:
+    json.dump(combined_data, combined_file, indent=4)
 
-    result = {
-        'name': data['name'],
-        'existing_text2': data['existing_text3'],
-        'generated_text1': data['generated_text1'],
-    }
-
-    results.append(result)
-
-    with open(output_file, 'w') as json_file:
-        json.dump(results, json_file, indent=4)
-
-
-def generate_prompt(data):
-    # Construct the first prompt using the template and user data
-    prompt1 = prompt_template1.format(**data)
-
-    # Generate text using ChatGPT API for the first prompt
-    response1 = openai.Completion.create(
-        engine='text-ada-001',
-        prompt=prompt1,
-        temperature=1,
-        max_tokens=600,
-        frequency_penalty=0,
-        presence_penalty=0
-    )
-
-    # Extract the generated text from the API response
-    generated_text1 = response1.choices[0].text.strip()
-
-   
-    # Update the data dictionary with generated texts
-    data['generated_text1'] = generated_text1
-   
-    # Save the data to a JSON file
-    save_to_json(data)
-
-   
-
-def main():
-    # Load data from JSON file
-    with open(file_path, 'r', encoding='utf-8') as file:
-        user_data_list = json.load(file)
-
-    for user_data in user_data_list:
-        # Generate prompts based on user data
-        generate_prompt(user_data)
-
-        # Delay for 1 minute before processing the next author
-        time.sleep(60)  # Sleep for 60 seconds (1 minute)    
-
-    # Find the data for the author with name "Fabian Beck"
-    #for user_data in user_data_list:
-       #if user_data['name'] == "Carla E. Brodley":
-            # Generate prompts based on the specified author data
-           # generate_prompt(user_data)
-            #break  # Exit the loop after processing the specified author
-
-        # Ask if the user wants to continue or exit
-        #choice = input("Do you want to continue (Y/N)? ")
-        #if choice.lower() != 'y':
-        #    break
+print("Data combined and saved to combined_data.json")
 
 
-if __name__ == '__main__':
-    main()
+prompt_template1 = "Please describe briefly the following scientific author and consider the following information:Name: Anna Smith, \nAnother co-author: {another_co_author}\n Year of collaboration with another co-author:  {another_co_author_year}\n Number of publications with another co-author: {another_co_author_publications}\n First Collaboration: {first_collaboration}\nFirst Collaboration Field: {first_collaboration_field}\n Number of papers in the first collaboration: {first_collaboration_papers}\n Second Collaboration: {second_collaboration}\n Number of papers in the second collaboration: {second_collaboration_papers}"
+prompt_template2 = "Please describe briefly with a few words the following scientific author and consider the following information: Name: Ben Adams, \nAnother co-author: {another_co_author}\n Year of collaboration with another co-author:  {another_co_author_year}\n Number of publications with another co-author: {another_co_author_publications}\n First Collaboration: {first_collaboration}\nFirst Collaboration Field: {first_collaboration_field}\n Number of papers in the first collaboration: {first_collaboration_papers}\n Second Collaboration: {second_collaboration}\n Number of papers in the second collaboration: {second_collaboration_papers}"
+prompt_template3 ="Generate a concise description of the given scientific author based on the following details:Name: Marie Mueller, \nAnother co-author: {another_co_author}\n Year of collaboration with another co-author:  {another_co_author_year}\n Number of publications with another co-author: {another_co_author_publications}\n First Collaboration: {first_collaboration}\nFirst Collaboration Field: {first_collaboration_field}\n Number of papers in the first collaboration: {first_collaboration_papers}\n Second Collaboration: {second_collaboration}\n Number of papers in the second collaboration: {second_collaboration_papers}"
+

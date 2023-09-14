@@ -1,0 +1,1313 @@
+{
+    "Ben Shneiderman": [
+        {
+            "pronouns": [
+                "who",
+                "Their",
+                "whom",
+                "they",
+                "they"
+            ],
+            "adjectives": [
+                "scientific",
+                "most",
+                "frequent",
+                "past",
+                "significant",
+                "first",
+                "human-computer",
+                "second"
+            ]
+        },
+        {
+            "pronouns": [
+                "who",
+                "They",
+                "whom",
+                "he",
+                "His",
+                "they"
+            ],
+            "adjectives": [
+                "scientific",
+                "frequent",
+                "first",
+                "human-computer",
+                "second"
+            ]
+        },
+        {
+            "pronouns": [
+                "She",
+                "Her",
+                "whom",
+                "she",
+                "she",
+                "Her",
+                "Her"
+            ],
+            "adjectives": [
+                "prolific",
+                "scientific",
+                "human-computer",
+                "second",
+                "frequent",
+                "first",
+                "second"
+            ]
+        }
+    ],
+    "Fabian Beck": [
+        {
+            "pronouns": [
+                "who",
+                "their",
+                "They",
+                "their",
+                "They",
+                "they"
+            ],
+            "adjectives": [
+                "scientific",
+                "co-authored",
+                "strong",
+                "long-lasting",
+                "frequent",
+                "co-authored",
+                "co-authored",
+                "first",
+                "different",
+                "Overall",
+                "most",
+                "frequent",
+                "past",
+                "significant"
+            ]
+        },
+        {
+            "pronouns": [
+                "who",
+                "He",
+                "His",
+                "whom",
+                "he",
+                "He",
+                "His"
+            ],
+            "adjectives": [
+                "scientific",
+                "second",
+                "frequent",
+                "first",
+                "second"
+            ]
+        },
+        {
+            "pronouns": [
+                "who",
+                "She",
+                "Her",
+                "they",
+                "him",
+                "her",
+                "her",
+                "she"
+            ],
+            "adjectives": [
+                "scientific",
+                "first",
+                "second"
+            ]
+        }
+    ],
+    "Mary Jean Harrold": [
+        {
+            "pronouns": [
+                "who",
+                "her",
+                "Her",
+                "whom",
+                "she",
+                "They",
+                "Her",
+                "whom",
+                "she",
+                "they",
+                "She",
+                "they",
+                "They",
+                "Her",
+                "they"
+            ],
+            "adjectives": [
+                "scientific",
+                "several",
+                "frequent",
+                "past",
+                "second",
+                "frequent",
+                "first",
+                "second"
+            ]
+        },
+        {
+            "pronouns": [
+                "who",
+                "They"
+            ],
+            "adjectives": [
+                "scientific",
+                "first",
+                "second"
+            ]
+        },
+        {
+            "pronouns": [
+                "Her",
+                "whom",
+                "she",
+                "Her",
+                "whom",
+                "she",
+                "She",
+                "Her",
+                "they",
+                "Her",
+                "they"
+            ],
+            "adjectives": [
+                "scientific",
+                "frequent",
+                "past",
+                "second",
+                "frequent",
+                "first",
+                "second"
+            ]
+        }
+    ],
+    "Stephan Diehl": [
+        {
+            "pronouns": [
+                "who",
+                "Her",
+                "they",
+                "they",
+                "Her",
+                "their",
+                "They",
+                "she",
+                "whom",
+                "she",
+                "They",
+                "it",
+                "They",
+                "Her",
+                "they"
+            ],
+            "adjectives": [
+                "scientific",
+                "several",
+                "notable",
+                "frequent",
+                "past",
+                "Fabian",
+                "second",
+                "frequent",
+                "Sebastian",
+                "first",
+                "Fabian",
+                "second"
+            ]
+        },
+        {
+            "pronouns": [
+                "who",
+                "his",
+                "His",
+                "whom",
+                "he",
+                "His",
+                "whom",
+                "he",
+                "he",
+                "they",
+                "His",
+                "whom",
+                "he"
+            ],
+            "adjectives": [
+                "scientific",
+                "multiple",
+                "frequent",
+                "past",
+                "Fabian",
+                "second",
+                "frequent",
+                "Sebastian",
+                "first",
+                "Fabian",
+                "second"
+            ]
+        },
+        {
+            "pronouns": [
+                "who",
+                "She",
+                "she"
+            ],
+            "adjectives": [
+                "scientific",
+                "Fabian",
+                "Sebastian",
+                "Fabian",
+                "Sebastian",
+                "other",
+                "Fabian"
+            ]
+        }
+    ],
+    "Daniel Weiskopf": [
+        {
+            "pronouns": [
+                "who",
+                "They",
+                "him",
+                "her",
+                "whom",
+                "she",
+                "she",
+                "whom",
+                "she",
+                "Her"
+            ],
+            "adjectives": [
+                "scientific",
+                "frequent",
+                "past",
+                "first",
+                "Fabian",
+                "second"
+            ]
+        },
+        {
+            "pronouns": [
+                "who",
+                "They",
+                "Their"
+            ],
+            "adjectives": [
+                "scientific",
+                "co-author",
+                "first",
+                "Fabian",
+                "second"
+            ]
+        },
+        {
+            "pronouns": [
+                "who",
+                "They",
+                "they",
+                "whom",
+                "they"
+            ],
+            "adjectives": [
+                "scientific",
+                "frequent",
+                "first",
+                "Fabian",
+                "second",
+                "published"
+            ]
+        }
+    ],
+    "Michael Burch": [
+        {
+            "pronouns": [
+                "who",
+                "Her",
+                "whom",
+                "she",
+                "They",
+                "Her",
+                "they",
+                "whom",
+                "she",
+                "They",
+                "their",
+                "She",
+                "her"
+            ],
+            "adjectives": [
+                "scientific",
+                "various",
+                "frequent",
+                "past",
+                "second",
+                "frequent",
+                "Fabian",
+                "first",
+                "Fabian",
+                "first",
+                "second",
+                "Overall",
+                "diverse",
+                "extensive"
+            ]
+        },
+        {
+            "pronouns": [
+                "who",
+                "He",
+                "his",
+                "He",
+                "his",
+                "He",
+                "His",
+                "His"
+            ],
+            "adjectives": [
+                "scientific",
+                "most",
+                "frequent",
+                "past",
+                "Fabian",
+                "second",
+                "frequent",
+                "first",
+                "Fabian",
+                "second"
+            ]
+        },
+        {
+            "pronouns": [
+                "who",
+                "She",
+                "their",
+                "Her"
+            ],
+            "adjectives": [
+                "scientific",
+                "first",
+                "Fabian",
+                "second"
+            ]
+        }
+    ],
+    "James A. Jones": [
+        {
+            "pronouns": [
+                "who",
+                "Her",
+                "whom",
+                "she",
+                "him",
+                "her",
+                "it",
+                "her",
+                "whom",
+                "she",
+                "their",
+                "Her",
+                "their"
+            ],
+            "adjectives": [
+                "scientific",
+                "various",
+                "frequent",
+                "past",
+                "Mary",
+                "long",
+                "productive",
+                "second",
+                "frequent",
+                "recent",
+                "productive",
+                "productive",
+                "long-lasting",
+                "first",
+                "first",
+                "unspecified",
+                "second",
+                "unspecified",
+                "diverse",
+                "significant",
+                "multiple",
+                "various"
+            ]
+        },
+        {
+            "pronouns": [
+                "who",
+                "They",
+                "his",
+                "his",
+                "he"
+            ],
+            "adjectives": [
+                "scientific",
+                "first",
+                "second"
+            ]
+        },
+        {
+            "pronouns": [
+                "who",
+                "She",
+                "Her",
+                "her"
+            ],
+            "adjectives": [
+                "scientific",
+                "first",
+                "second"
+            ]
+        }
+    ],
+    "Catherine Plaisant": [
+        {
+            "pronouns": [
+                "who",
+                "Her",
+                "whom",
+                "she",
+                "They",
+                "whom",
+                "she",
+                "They",
+                "They",
+                "her",
+                "their",
+                "they",
+                "her",
+                "They"
+            ],
+            "adjectives": [
+                "scientific",
+                "various",
+                "frequent",
+                "past",
+                "significant",
+                "first",
+                "visual",
+                "second"
+            ]
+        },
+        {
+            "pronouns": [
+                "who",
+                "His",
+                "they",
+                "whom"
+            ],
+            "adjectives": [
+                "scientific",
+                "several",
+                "visual",
+                "frequent",
+                "past",
+                "second",
+                "frequent",
+                "till",
+                "first",
+                "visual",
+                "second"
+            ]
+        },
+        {
+            "pronouns": [
+                "who"
+            ],
+            "adjectives": [
+                "scientific",
+                "first",
+                "visual",
+                "second"
+            ]
+        }
+    ],
+    "Benjamin B. Bederson": [
+        {
+            "pronouns": [
+                "who",
+                "Her",
+                "whom",
+                "she",
+                "They",
+                "her",
+                "they",
+                "They",
+                "Her"
+            ],
+            "adjectives": [
+                "scientific",
+                "several",
+                "human-computer",
+                "frequent",
+                "past",
+                "second",
+                "frequent",
+                "published",
+                "first",
+                "human-computer",
+                "second"
+            ]
+        },
+        {
+            "pronouns": [
+                "who",
+                "He",
+                "her",
+                "He",
+                "her",
+                "He",
+                "her",
+                "His",
+                "they",
+                "His",
+                "they"
+            ],
+            "adjectives": [
+                "scientific",
+                "first",
+                "human-computer",
+                "second"
+            ]
+        },
+        {
+            "pronouns": [
+                "who",
+                "She",
+                "whom",
+                "she",
+                "whom",
+                "Her"
+            ],
+            "adjectives": [
+                "scientific",
+                "human-computer",
+                "second",
+                "frequent",
+                "important",
+                "first",
+                "human-computer",
+                "second"
+            ]
+        }
+    ],
+    "Stuart K. Card": [
+        {
+            "pronouns": [
+                "who",
+                "her",
+                "Her",
+                "whom",
+                "she",
+                "They",
+                "whom",
+                "she",
+                "They",
+                "whom",
+                "she",
+                "They",
+                "They",
+                "Their",
+                "Her",
+                "they"
+            ],
+            "adjectives": [
+                "scientific",
+                "several",
+                "frequent",
+                "past",
+                "second",
+                "frequent",
+                "co-authored",
+                "first",
+                "human-computer",
+                "first",
+                "second",
+                "Overall",
+                "active",
+                "collaborative",
+                "scientific",
+                "human-computer"
+            ]
+        },
+        {
+            "pronouns": [
+                "who",
+                "He",
+                "He"
+            ],
+            "adjectives": [
+                "scientific",
+                "human-computer"
+            ]
+        },
+        {
+            "pronouns": [
+                "who",
+                "Her",
+                "whom",
+                "she",
+                "Her",
+                "whom",
+                "she",
+                "she",
+                "She",
+                "her",
+                "her"
+            ],
+            "adjectives": [
+                "scientific",
+                "human-computer",
+                "frequent",
+                "past",
+                "second",
+                "frequent",
+                "first",
+                "second"
+            ]
+        }
+    ],
+    "Achim Ebert": [
+        {
+            "pronouns": [
+                "who",
+                "Her",
+                "whom",
+                "she",
+                "they",
+                "their",
+                "They",
+                "whom",
+                "she",
+                "They",
+                "it",
+                "they",
+                "They",
+                "who",
+                "Her"
+            ],
+            "adjectives": [
+                "scientific",
+                "several",
+                "different",
+                "frequent",
+                "past",
+                "second",
+                "frequent",
+                "noteworthy",
+                "first",
+                "human-computer",
+                "different",
+                "Overall",
+                "scientific",
+                "multiple",
+                "various",
+                "frequent"
+            ]
+        },
+        {
+            "pronouns": [
+                "who",
+                "whom",
+                "he"
+            ],
+            "adjectives": [
+                "scientific",
+                "frequent",
+                "first",
+                "human-computer",
+                "second"
+            ]
+        },
+        {
+            "pronouns": [
+                "She",
+                "whom",
+                "she",
+                "She",
+                "they"
+            ],
+            "adjectives": [
+                "prolific",
+                "scientific",
+                "human-computer",
+                "published",
+                "separate",
+                "published"
+            ]
+        }
+    ],
+    "Mary C. Whitton": [
+        {
+            "pronouns": [
+                "who",
+                "Her",
+                "whom",
+                "she",
+                "They",
+                "Her",
+                "whom",
+                "she",
+                "they",
+                "she",
+                "whom",
+                "she",
+                "They",
+                "they",
+                "they"
+            ],
+            "adjectives": [
+                "scientific",
+                "several",
+                "frequent",
+                "past",
+                "second",
+                "frequent",
+                "first",
+                "virtual/mixed",
+                "second"
+            ]
+        },
+        {
+            "pronouns": [
+                "who",
+                "He",
+                "whom",
+                "he"
+            ],
+            "adjectives": [
+                "scientific",
+                "important",
+                "first",
+                "virtual/mixed",
+                "second"
+            ]
+        },
+        {
+            "pronouns": [
+                "who",
+                "She",
+                "whom",
+                "she",
+                "Her"
+            ],
+            "adjectives": [
+                "scientific",
+                "notable",
+                "first",
+                "virtual/mixed",
+                "second"
+            ]
+        }
+    ],
+    "Henry Fuchs": [
+        {
+            "pronouns": [
+                "who",
+                "her",
+                "They",
+                "Her",
+                "they",
+                "they",
+                "They",
+                "Her",
+                "they"
+            ],
+            "adjectives": [
+                "scientific",
+                "frequent",
+                "second",
+                "frequent",
+                "first",
+                "available",
+                "second"
+            ]
+        },
+        {
+            "pronouns": [
+                "who",
+                "His",
+                "whom",
+                "he",
+                "They",
+                "His",
+                "whom",
+                "he",
+                "They",
+                "They",
+                "they",
+                "they"
+            ],
+            "adjectives": [
+                "scientific",
+                "several",
+                "frequent",
+                "past",
+                "second",
+                "frequent",
+                "co-author",
+                "first",
+                "second"
+            ]
+        },
+        {
+            "pronouns": [
+                "who",
+                "She",
+                "her",
+                "she",
+                "Her",
+                "her"
+            ],
+            "adjectives": [
+                "scientific",
+                "long-term",
+                "frequent",
+                "past",
+                "first",
+                "second"
+            ]
+        }
+    ],
+    "Dieter Schmalstieg": [
+        {
+            "pronouns": [
+                "who",
+                "Her",
+                "they",
+                "They",
+                "their",
+                "they",
+                "they",
+                "her",
+                "her",
+                "They",
+                "her",
+                "they",
+                "her",
+                "who",
+                "Her"
+            ],
+            "adjectives": [
+                "scientific",
+                "long",
+                "productive",
+                "frequent",
+                "past",
+                "strong",
+                "ongoing",
+                "important",
+                "long-standing",
+                "fruitful",
+                "recent",
+                "open",
+                "new",
+                "first",
+                "significant",
+                "second",
+                "previous",
+                "Overall",
+                "prolific",
+                "scientific",
+                "successful",
+                "several",
+                "multiple"
+            ]
+        },
+        {
+            "pronouns": [
+                "who",
+                "He",
+                "He",
+                "His"
+            ],
+            "adjectives": [
+                "scientific",
+                "first",
+                "second"
+            ]
+        },
+        {
+            "pronouns": [
+                "who",
+                "She",
+                "she",
+                "Her",
+                "Her"
+            ],
+            "adjectives": [
+                "scientific",
+                "notable",
+                "first",
+                "second"
+            ]
+        }
+    ],
+    "Anna Celler": [
+        {
+            "pronouns": [
+                "who",
+                "Their",
+                "they",
+                "they",
+                "Their",
+                "they",
+                "she",
+                "her"
+            ],
+            "adjectives": [
+                "scientific",
+                "first",
+                "biomedical",
+                "second",
+                "past",
+                "initial"
+            ]
+        },
+        {
+            "pronouns": [
+                "whom",
+                "he"
+            ],
+            "adjectives": [
+                "extensive",
+                "co-authored",
+                "first",
+                "biomedical",
+                "second"
+            ]
+        },
+        {
+            "pronouns": [
+                "who",
+                "She",
+                "She"
+            ],
+            "adjectives": [
+                "scientific",
+                "biomedical",
+                "long-standing",
+                "published"
+            ]
+        }
+    ],
+    "Ghassan Hamarneh": [
+        {
+            "pronouns": [
+                "who",
+                "Her",
+                "whom",
+                "she",
+                "They",
+                "whom",
+                "she",
+                "They",
+                "her",
+                "Her"
+            ],
+            "adjectives": [
+                "scientific",
+                "various",
+                "biomedical",
+                "frequent",
+                "past",
+                "frequent",
+                "first",
+                "second"
+            ]
+        },
+        {
+            "pronouns": [
+                "who",
+                "They"
+            ],
+            "adjectives": [
+                "scientific",
+                "frequent",
+                "first",
+                "biomedical",
+                "second"
+            ]
+        },
+        {
+            "pronouns": [
+                "who",
+                "Her",
+                "whom",
+                "she",
+                "Her",
+                "whom",
+                "she",
+                "She",
+                "Her",
+                "Her"
+            ],
+            "adjectives": [
+                "scientific",
+                "biomedical",
+                "frequent",
+                "past",
+                "second",
+                "frequent",
+                "first",
+                "second"
+            ]
+        }
+    ],
+    "Xenophon Papademetris": [
+        {
+            "pronouns": [
+                "who",
+                "Her",
+                "whom",
+                "she",
+                "They",
+                "whom",
+                "she",
+                "they",
+                "her"
+            ],
+            "adjectives": [
+                "scientific",
+                "multiple",
+                "biomedical",
+                "frequent",
+                "past",
+                "frequent",
+                "first",
+                "second"
+            ]
+        },
+        {
+            "pronouns": [
+                "who",
+                "He",
+                "whom",
+                "he",
+                "His",
+                "His"
+            ],
+            "adjectives": [
+                "scientific",
+                "significant",
+                "first",
+                "biomedical",
+                "second"
+            ]
+        },
+        {
+            "pronouns": [
+                "who",
+                "her",
+                "She",
+                "her",
+                "Her",
+                "they",
+                "Her",
+                "they",
+                "She",
+                "she"
+            ],
+            "adjectives": [
+                "prominent",
+                "scientific",
+                "biomedical",
+                "main",
+                "notable",
+                "biomedical"
+            ]
+        }
+    ],
+    "Penny Rheingans": [
+        {
+            "pronouns": [
+                "who",
+                "Her",
+                "whom",
+                "she",
+                "They",
+                "They",
+                "They",
+                "their",
+                "they",
+                "her",
+                "They",
+                "They",
+                "Her",
+                "her"
+            ],
+            "adjectives": [
+                "scientific",
+                "numerous",
+                "scientific",
+                "frequent",
+                "past",
+                "least",
+                "strong",
+                "productive",
+                "significant",
+                "least",
+                "successful",
+                "ongoing",
+                "early",
+                "first",
+                "available",
+                "second",
+                "fruitful",
+                "Overall",
+                "strong",
+                "significant",
+                "scientific"
+            ]
+        },
+        {
+            "pronouns": [
+                "who",
+                "They"
+            ],
+            "adjectives": [
+                "scientific",
+                "frequent",
+                "first",
+                "second"
+            ]
+        },
+        {
+            "pronouns": [
+                "who",
+                "They",
+                "Her"
+            ],
+            "adjectives": [
+                "scientific",
+                "extensive",
+                "numerous",
+                "co-authored",
+                "co-authored",
+                "first",
+                "second"
+            ]
+        }
+    ],
+    "Marie desJardins": [
+        {
+            "pronouns": [
+                "who",
+                "her",
+                "Her",
+                "they",
+                "they",
+                "They",
+                "their",
+                "They",
+                "they"
+            ],
+            "adjectives": [
+                "scientific",
+                "multiple",
+                "frequent",
+                "past",
+                "second",
+                "frequent",
+                "first",
+                "available",
+                "second"
+            ]
+        },
+        {
+            "pronouns": [
+                "who",
+                "whom",
+                "he",
+                "whom",
+                "he",
+                "He"
+            ],
+            "adjectives": [
+                "scientific",
+                "significant",
+                "first",
+                "second",
+                "first"
+            ]
+        },
+        {
+            "pronouns": [
+                "her",
+                "She",
+                "her",
+                "her",
+                "Her",
+                "their"
+            ],
+            "adjectives": [
+                "scientific",
+                "frequent",
+                "past",
+                "second",
+                "frequent",
+                "first",
+                "available",
+                "second"
+            ]
+        }
+    ],
+    "Carla E. Brodley": [
+        {
+            "pronouns": [
+                "who",
+                "They",
+                "whom",
+                "she",
+                "she",
+                "They",
+                "Her",
+                "they"
+            ],
+            "adjectives": [
+                "scientific",
+                "second",
+                "frequent",
+                "co-authored",
+                "co-authoring",
+                "first",
+                "co-authored",
+                "second",
+                "co-authored"
+            ]
+        },
+        {
+            "pronouns": [
+                "who",
+                "He",
+                "whom",
+                "His"
+            ],
+            "adjectives": [
+                "scientific",
+                "notable",
+                "first",
+                "second"
+            ]
+        },
+        {
+            "pronouns": [
+                "who",
+                "She",
+                "Her",
+                "Her"
+            ],
+            "adjectives": [
+                "scientific",
+                "long-standing",
+                "first",
+                "second"
+            ]
+        }
+    ]
+}

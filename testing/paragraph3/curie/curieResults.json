@@ -1,0 +1,142 @@
+[
+    {
+        "name": "Ben Shneiderman",
+        "existing_text2": "Shneiderman was a core member of the visualization community. Shneiderman's expertise mainly covers the subfields of information visualization and visual analytics. A focus area of the author was the visualization of hierarchy data.Currently, the author is contributing to the area of human-computer interaction. Researchers with similar areas of expertise\u24d8 are Stuart K. Card, George G. Robertson, Raimund Dachselt, and Pourang Irani.",
+        "generated_text1": "Anna Smith is an information visualization and visual analytics expert who has worked on human-computer interaction. Researchers with similar areas of expertise include Stuart K. Card, George G. Robertson, Raimund Dachselt, and Pourang Irani.",
+        "generated_text2": "Ben Adams is an information visualization expert who has worked on human-computer interaction projects. His peers in this field include Stuart K. Card, George G. Robertson, Raimund Dachselt, and Pourang Irani.",
+        "generated_text3": "Marie Mueller is a visualization community member and expert in information visualization and visual analytics. She has worked on human-computer interaction and has similar research interests to Stuart K. Card, George G. Robertson, Raimund Dachselt, and Pourang Irani."
+    },
+    {
+        "name": "Fabian Beck",
+        "existing_text2": "Beck was a core member of the visualization community. Beck's expertise mainly covers the subfields of information visualization and visual analytics. The author also worked in the field of software engineering. Researchers with similar areas of expertise\u24d8 are Stephen G. Eick, Alexandru Telea, and James A. Jones.",
+        "generated_text1": "Anna Smith is a community member of the visualization community and has expertise in information visualization and visual analytics. She has worked on software engineering projects. Researchers with similar areas of expertise include Stephen G. Eick, Alexandru Telea, and James A. Jones.",
+        "generated_text2": "Ben Adams is a software engineering researcher who has worked on information visualization and visual analytics projects. He is a member of the visualization community and has expertise in this area. His research is similar to that of Stephen G. Eick, Alexandru Telea, and James A. Jones.",
+        "generated_text3": "Marie Mueller is a community member of the information visualization and visual analytics community who has expertise in software engineering. She has worked on projects that use information visualization and visual analytics to improve software development processes. Her research colleagues with similar areas of expertise include Stephen G. Eick, Alexandru Telea, and James A. Jones."
+    },
+    {
+        "name": "Mary Jean Harrold",
+        "existing_text2": "Harrold made contributions to the visualization research community with publications mainly within the subfield of information visualization. The author also worked in the field of software engineering. Researchers with similar areas of expertise\u24d8 are Kenny Wong, Hausi A. M\u00fcller, Shing-Chi Cheung, Ian Gorton, and Steven P. Reiss.",
+        "generated_text1": "Anna Smith is a community member and information visualization expert who has worked on software engineering projects. Researchers with similar areas of expertise include Kenny Wong, Hausi A. M\u00fcller, Shing-Chi Cheung, Ian Gorton, and Steven P. Reiss.",
+        "generated_text2": "Ben Adams is a visualization community member who has expertise in information visualization. He worked on software engineering projects and is similar to researchers such as Kenny Wong, Hausi A. M\u00fcller, Shing-Chi Cheung, Ian Gorton, and Steven P. Reiss in terms of their areas of expertise.",
+        "generated_text3": "Marie Mueller is a researcher with expertise in information visualization who has worked on software engineering. She is part of a growing community of information visualization experts who are working to improve the way information is visualized."
+    },
+    {
+        "name": "Stephan Diehl",
+        "existing_text2": "Diehl was a core member of the visualization community with publications mainly within the subfield of information visualization. The author also worked in the field of software engineering. Researchers with similar areas of expertise\u24d8 are James A. Jones, Steven P. Reiss, and Hausi A. M\u00fcller.",
+        "generated_text1": "Anna Smith is a visualization community member who has expertise in information visualization and software engineering. She worked on a project that has not been released to the public. Researchers with similar areas of expertise include James A. Jones, Steven P. Reiss, and Hausi A. M\u00fcller.",
+        "generated_text2": "Ben Adams is a visualization community member and software engineer who has worked on information visualization projects. His expertise lies in the area of software engineering, so his research may be similar to that of James A. Jones, Steven P. Reiss, and Hausi A. M\u00fcller.",
+        "generated_text3": ""
+    },
+    {
+        "name": "Daniel Weiskopf",
+        "existing_text2": "Weiskopf is a current core member of the visualization community. Weiskopf has contributed to all information visualization, visual analytics, and scientific visualization. Focus areas of the author are flow visualization, volume visualization, graph visualization, the evaluation of visualization, and multimedia visualization. The author also worked in the fields of computer graphics, bioinformatics, and software engineering. Researchers with similar areas of expertise\u24d8 are Quang Vinh Nguyen, Jarke J. van Wijk, Jonathan C. Roberts, Heidrun Schumann, and Mikael Jern.",
+        "generated_text1": "mark\n\nAnna Smith is an information visualization expert who has worked on projects in the fields of computer graphics, bioinformatics, and software engineering. Her work has involved the development of tools for data analysis and presentation. Her area of expertise is likely to be of great benefit to researchers in the fields of information visualization, visual analytics, and scientific visualization.",
+        "generated_text2": "mark\n\nBen Adams is an information visualization expert who has worked in the fields of computer graphics, bioinformatics, and software engineering. His work has focused on creating more effective ways to communicate information through visualization. He is also a community member of the visualization community, and his work has been praised by researchers with similar areas of expertise.",
+        "generated_text3": "mark.\n\nMarie Mueller is a visualization community member who has expertise in information visualization, visual analytics, and scientific visualization. She has worked on computer graphics, bioinformatics, and software engineering. Her research colleagues with similar areas of expertise include Quang Vinh Nguyen, Jarke J. van Wijk, Jonathan C. Roberts, Heidrun Schumann, and Mikael Jernmark."
+    },
+    {
+        "name": "Michael Burch",
+        "existing_text2": "Burch was a core member of the visualization community. Burch's expertise mainly covers the subfields of information visualization and visual analytics. Focus areas of the author were graph visualization and the evaluation of visualization. The author also worked in the field of software engineering. Researchers with similar areas of expertise\u24d8 are Andreas Kerren, David Auber, Jimmy Johansson, and Mikael Jern.",
+        "generated_text1": "igan\n\nAnna Smith is an information visualization and visual analytics expert who has worked on software engineering. She is also a member of the visualization community, which is composed of researchers with similar expertise in this area.",
+        "generated_text2": "berg\n\nBen Adams is a software engineer who has worked on information visualization and visual analytics projects. He is a member of the visualization community and has expertise in this area. His peers in this field include Andreas Kerren, David Auber, Jimmy Johansson, and Mikael Jernberg.",
+        "generated_text3": "igan\n\nMarie Mueller is a researcher with expertise in information visualization and visual analytics. She has worked on software engineering and is known for her work in creating user interfaces that are both informative and intuitive."
+    },
+    {
+        "name": "James A. Jones",
+        "existing_text2": "Jones was a member of the visualization community with publications mainly within the subfield of information visualization. The author also worked in the field of software engineering. Researchers with similar areas of expertise are Steven P. Reiss, Hausi A. M\u00fcller, and Kenny Wong.",
+        "generated_text1": "Anna Smith is a visualization community member who has expertise in information visualization. She has worked on software engineering projects. Researchers with similar areas of expertise include Steven P. Reiss, Hausi A. M\u00fcller, and Kenny Wong.",
+        "generated_text2": "Ben Adams is an information visualization expert who has worked on software engineering. Researchers with similar areas of expertise include Steven P. Reiss, Hausi A. M\u00fcller, and Kenny Wong.",
+        "generated_text3": "Marie Mueller is a software engineering researcher who has worked on information visualization. She is a member of the visualization community and has a significant expertise in this field."
+    },
+    {
+        "name": "Catherine Plaisant",
+        "existing_text2": "Plaisant is a current core member of the visualization community. Plaisant's expertise mainly covers the subfields of information visualization and visual analytics. The author is also contributing to the area of human-computer interaction. Researchers with similar areas of expertise\u24d8 are George G. Robertson, Stuart K. Card, and Pierre Dragicevic.",
+        "generated_text1": "Anna Smith is a visualization community member and information visualization expert who has worked on human-computer interaction. Researchers with similar areas of expertise include George G. Robertson, Stuart K. Card, and Pierre Dragicevic.",
+        "generated_text2": "Ben Adams is a researcher in the information visualization and visual analytics field. He has worked on human-computer interaction and has expertise in the fields of information visualization and visual analytics.",
+        "generated_text3": "Marie Mueller is a visual information visualization and visual analytics expert who has worked on human-computer interaction. Other researchers with similar expertise include George G. Robertson, Stuart K. Card, and Pierre Dragicevic."
+    },
+    {
+        "name": "Benjamin B. Bederson",
+        "existing_text2": "Bederson was a member of the visualization community. Bederson's expertise mainly covers the subfields of information visualization and visual analytics. The author also worked in the fields of human-computer interaction, digital libraries, robotics, vision, and software engineering. Researchers with similar areas of expertise\u24d8 are Harald Reiterer, Kasper Hornb\u00e6k, and Andreas Butz.",
+        "generated_text1": "Anna Smith is an information visualization expert who has worked on projects such as human-computer interaction, digital libraries, robotics, vision, and software engineering. Her colleagues Harald Reiterer, Kasper Hornb\u00e6k, and Andreas Butz have similar areas of expertise and are also prominent researchers in their respective fields. Therefore, Smith is most likely a respected member of the visualization community.",
+        "generated_text2": "Ben Adams is a visualization expert who has worked on human-computer interaction, digital libraries, robotics, vision, and software engineering. His peers in these fields include Harald Reiterer, Kasper Hornb\u00e6k, and Andreas Butz.",
+        "generated_text3": "Marie Mueller is a researcher with expertise in information visualization and visual analytics. She has worked on human-computer interaction, digital libraries, robotics, and vision, and is currently working on software engineering. Her peers in this area include Harald Reiterer, Kasper Hornb\u00e6k, and Andreas Butz."
+    },
+    {
+        "name": "Stuart K. Card",
+        "existing_text2": "Card was a member of the visualization community. Card's expertise mainly covers the subfields of information visualization and visual analytics. The author also worked in the fields of human-computer interaction and computer graphics. Researchers with similar areas of expertise\u24d8 are Pierre Dragicevic, Ben Shneiderman, Achim Ebert, Pourang Irani, and St\u00e9phane Conversy.",
+        "generated_text1": "Anna Smith is a visualization expert who has worked in the fields of human-computer interaction and computer graphics. She has collaborated with researchers in similar areas of expertise, including Pierre Dragicevic, Ben Shneiderman, Achim Ebert, Pourang Irani, and St\u00e9phane Conversy.",
+        "generated_text2": "Ben Adams has been a community member of the visualization community since 2006 and has been working in information visualization and visual analytics for over 10 years. He is a Professor of Computer Science at the University of Utah. Adams has published over 100 papers in these fields and has been recognized as an expert in his field.",
+        "generated_text3": "Marie Mueller is a visualization expert who has worked on human-computer interaction and computer graphics. She is also a member of the visualization community, and her research focuses on information visualization and visual analytics. Some of the other researchers with similar areas of expertise include Pierre Dragicevic, Ben Shneiderman, Achim Ebert, Pourang Irani, and St\u00e9phane Conversy."
+    },
+    {
+        "name": "Achim Ebert",
+        "existing_text2": "Ebert is a current core member of the visualization community. Ebert's expertise mainly covers the subfields of information visualization and visual analytics. The author is also contributing to the area of human-computer interaction. Researchers with similar areas of expertise\u24d8 are George G. Robertson, Stuart K. Card, and Raimund Dachselt.",
+        "generated_text1": "Anna Smith is an information visualization and visual analytics expert. She has worked on human-computer interaction research, which is a field that focuses on how humans interact with digital systems. This makes her a researcher with similar expertise to George G. Robertson, Stuart K. Card, and Raimund Dachselt.",
+        "generated_text2": "Ben Adams is a visualization community member and information visualization and visual analytics expert. He has worked on human-computer interaction research.",
+        "generated_text3": "Marie Mueller is a visualization community member and expert in information visualization and visual analytics. She has worked on human-computer interaction and is known for her work on creating informative and engaging graphical displays."
+    },
+    {
+        "name": "Mary C. Whitton",
+        "existing_text2": "Whitton made contributions to the visualization research community. A focus area of the author was the visualization of medical data. The author also worked in the fields of virtual/mixed reality, computer graphics, and human-computer interaction. Researchers with similar areas of expertise\u24d8 are Anatole L\u00e9cuyer, Evan A. Suma, Denis Kalkofen, Dieter Schmalstieg, and Larry F. Hodges.",
+        "generated_text1": "Anna Smith is a visualizer and expert in the field of medical data visualization. She has worked on virtual/mixed reality, computer graphics, and human-computer interaction. Her colleagues in this field include Anatole L\u00e9cuyer, Evan A. Suma, Denis Kalkofen, Dieter Schmalstieg, and Larry F. Hodges.",
+        "generated_text2": "Ben Adams is a computer graphics and human-computer interaction researcher who has worked on virtual/mixed reality and computer graphics. He is also a community member in the visualization community.",
+        "generated_text3": ".\n\nMarie Mueller is a visualization expert who has worked on virtual/mixed reality, computer graphics, and human-computer interaction. Her research in these areas is similar to that of Anatole L\u00e9cuyer, Evan A. Suma, Denis Kalkofen, Dieter Schmalstieg, and Larry F. Hodges."
+    },
+    {
+        "name": "Henry Fuchs",
+        "existing_text2": "Fuchs was a member of the visualization community. A focus area of the author was immersive visualization. The author also worked in the fields of virtual/mixed reality, computer graphics, and bioinformatics. Researchers with similar areas of expertise\u24d8 are Frederick P. Brooks Jr., Anatole L\u00e9cuyer, and Zachary Wartell.",
+        "generated_text1": "Anna Smith is a computer graphics and bioinformatics researcher with expertise in immersive visualization. She has worked on virtual/mixed reality and computer graphics, and is also a member of the visualization community. Smith's work has been focused on creating more realistic and immersive images and simulations.",
+        "generated_text2": "Ben Adams is a computer graphics and bioinformatics researcher who has worked on virtual/mixed reality and computer graphics. He is a member of the visualization community and has a background in immersive visualization.",
+        "generated_text3": "Marie Mueller is a researcher with expertise in immersive visualization, virtual/mixed reality, computer graphics, and bioinformatics. She has worked on projects in these fields for over 20 years and has contributed to the development of visualization techniques used in medicine, engineering, and science. Her work has been featured in publications such as IEEE Transactions on Visualization and Computer Graphics, Computer Graphics Forum, and Frontiers in Bioinformatics."
+    },
+    {
+        "name": "Dieter Schmalstieg",
+        "existing_text2": "Schmalstieg was a member of the visualization community. Schmalstieg contributed to all information visualization, visual analytics, and scientific visualization.Currently, the author is contributing to the area of vision. In the past, the author also worked in the fields of virtual/mixed reality, computer graphics, and human-computer interaction. Researchers with similar areas of expertise\u24d8 are Larry F. Hodges, Anatole L\u00e9cuyer, Evan A. Suma, Doug A. Bowman, and Mary C. Whitton.",
+        "generated_text1": "Anna Smith is an expert in information visualization, visual analytics, and scientific visualization. She has worked on virtual/mixed reality, computer graphics, and human-computer interaction. Her research has counterparts in the fields of Larry F. Hodges, Anatole L\u00e9cuyer, Evan A. Suma, Doug A. Bowman, and Mary C. Whitton.",
+        "generated_text2": "Ben Adams is a community member who is known for his work in information visualization, visual analytics, and scientific visualization. He has also worked on virtual/mixed reality, computer graphics, and human-computer interaction. Some of the researchers with similar areas of expertise include Larry F. Hodges, Anatole L\u00e9cuyer, Evan A. Suma, Doug A. Bowman, and Mary C. Whitton.",
+        "generated_text3": "Marie Mueller is an expert in information visualization, visual analytics, and scientific visualization. She has worked on virtual/mixed reality, computer graphics, and human-computer interaction. Her research collaborators have similar areas of expertise, which makes her an authoritative source on the topic."
+    },
+    {
+        "name": "Anna Celler",
+        "existing_text2": "Celler made contributions to the visualization research community. A focus area of the author was the visualization of medical data. Current research areas of the author are bioinformatics and biomedical imaging.",
+        "generated_text1": "found\n\nAnna Smith is an expert in visualization of medical data. She has worked on bioinformatics and biomedical imaging, which is a field that is similar to but not entirely the same as visualization of medical data.",
+        "generated_text2": "found\n\nBen Adams is a visualization community member and bioinformatics and biomedical imaging researcher who has worked on projects in the area of visualization of medical data. His peers in this field may not have any similar areas of expertise, indicating that he is an expert in this field.",
+        "generated_text3": "found"
+    },
+    {
+        "name": "Ghassan Hamarneh",
+        "existing_text2": "Hamarneh made contributions to the visualization research community. Current research areas of the author are bioinformatics and biomedical imaging. Researchers with similar areas of expertise are William M. Wells III, Albert J. Sinusas, Lawrence H. Staib, and Xenophon Papademetris.",
+        "generated_text1": "Anna Smith is a bioinformatician and biomedical imaging expert who has worked on projects related to the visualization of genomic data. She is part of the visualization community, which is made up of researchers with expertise in various fields of visualization, such as bioinformatics and biomedical imaging.",
+        "generated_text2": "Ben Adams is a bioinformatician and biomedical imaging expert who has worked on projects related to gene expression and transcriptional regulation. In the visualization community, he is known for his contributions to interactive graphic displays, such as the Gene Expression Omnibus (GEO) website and the Omnibus Biomedical Visualization Portal (OBVP). Several other experts with similar areas of expertise, such as William M. Wells III, Albert J. Sinusas, Lawrence H. Staib,",
+        "generated_text3": ""
+    },
+    {
+        "name": "Xenophon Papademetris",
+        "existing_text2": "Papademetris made contributions to the visualization research community. A focus area of the author was the visualization of medical data. Current research areas of the author are bioinformatics and biomedical imaging. Researchers with similar areas of expertise are William M. Wells III, Ronald M. Summers, and Ghassan Hamarneh.",
+        "generated_text1": "Anna Smith is a biomedical visualization expert who has worked on bioinformatics and biomedical imaging. Researchers with similar areas of expertise include William M. Wells III, Ronald M. Summers, and Ghassan Hamarneh.",
+        "generated_text2": "Ben Adams is a visualization community member who has expertise in visualization of medical data. He worked on bioinformatics and biomedical imaging research. His colleagues include William M. Wells III, Ronald M. Summers, and Ghassan Hamarneh.",
+        "generated_text3": "Marie Mueller is a visualization community member and bioinformatics and biomedical imaging researcher who has worked on creating visualizations of medical data."
+    },
+    {
+        "name": "Penny Rheingans",
+        "existing_text2": "Rheingans was a core member of the visualization community with publications mainly within the subfield of information visualization. Focus areas of the author were time-oriented, uncertainty, illustrative, and multivariate data visualization. The author also worked in the field of computer graphics. Researchers with similar areas of expertise\u24d8 are Oliver Deussen, Pat Hanrahan, Kwan-Liu Ma, and Patric Ljung.",
+        "generated_text1": "Anna Smith is an illustrator and data visualization expert. She has worked on computer graphics and is known for her time-oriented work, as well as her illustrations and use of data visualization to communicate uncertainty.",
+        "generated_text2": "Ben Adams is a computer graphics researcher who has worked on various time-oriented visualizations, such as illustrating how uncertainty changes with time and how multivariate data can be visualized. He is also a member of the visualization community.",
+        "generated_text3": "Marie Mueller is a computer graphics researcher who has worked on creating illustrations and visual representations of data. She is also a member of the visualization community, having contributed to projects such as the Time Series Gallery and the heatmap3D library. Her expertise lies in the areas of time-oriented data visualization and uncertainty, which makes her an expert in the field of multivariate data visualization."
+    },
+    {
+        "name": "Marie desJardins",
+        "existing_text2": "desJardins was a member of the visualization community with publications mainly within the subfield of information visualization. A focus area of the author was the visualization of time-oriented data. The author also worked in the fields of machine learning, education, and bioinformatics. Researchers with similar areas of expertise\u24d8 are Gregory Piatetsky-Shapiro, Guy Lebanon, Yangqiu Song, Stefan Wrobel, and Carla E. Brodley.",
+        "generated_text1": "Anna Smith is a visualizer and researcher with expertise in the visualization of time-oriented data. She has worked on machine learning, education, and bioinformatics. Her peers in the field include Gregory Piatetsky-Shapiro, Guy Lebanon, Yangqiu Song, Stefan Wrobel, and Carla E. Brodley.",
+        "generated_text2": "Ben Adams is a visualization expert and community member who has worked on machine learning, education, and bioinformatics. His peers in these fields include Gregory Piatetsky-Shapiro, Guy Lebanon, Yangqiu Song, Stefan Wrobel, and Carla E. Brodley.",
+        "generated_text3": "Marie Mueller is a researcher in the fields of machine learning, education, and bioinformatics. She has worked on projects in which she has used visualization to help people understand time-oriented data. Her work has led her to become an expert in the field of visualization, and she has been able to share her knowledge with other researchers in the field."
+    },
+    {
+        "name": "Carla E. Brodley",
+        "existing_text2": "Brodley made contributions to the visualization research community. The author also worked in the fields of machine learning, vision, and bioinformatics. Researchers with similar areas of expertise are Gregory Piatetsky-Shapiro, Guy Lebanon, Guido Tack, Stefan Wrobel, and Lise Getoor.",
+        "generated_text1": "Anna Smith is a researcher with expertise in machine learning, vision, and bioinformatics. She has worked on projects related to these fields and has collaborated with researchers with similar expertise.",
+        "generated_text2": "Ben Adams is a community member of the visualization community and an expert in machine learning, vision, and bioinformatics. He has worked on projects in these fields, and has collaborators with similar expertise.",
+        "generated_text3": "Marie Mueller is a community member in the visualization community who specializes in machine learning, vision, and bioinformatics. She has worked on projects in these areas, but there is no information on what specifically. Researchers with similar areas of expertise include Gregory Piatetsky-Shapiro, Guy Lebanon, Guido Tack, Stefan Wrobel, and Lise Getoor."
+    }
+]

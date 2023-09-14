@@ -5,17 +5,15 @@ import os
 import time
 
 # Load your API key from a secure location
-openai.api_key = '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'
+openai.api_key = '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'
 
 # Prompt templates
-prompt_template1 = "Please describe briefly the following scientific author and consider the following information:Name: Anna Smith, \nMost frequent co-author and past supervisee: {first_co_author}\nCollaboration since: {first_co_author_year}\nNumber of publication with the most frequent co-author:{first_co_author_publications}\nSecond most frequent co-author: {second_co_author}\nCollaboration since: {second_co_author_year}\nNumber of publication with Second most frequent co-author:{second_co_author_publications}"
-prompt_template2 = "Please describe briefly with a few words the following scientific author and consider the following information: Name: Ben Adams, \nMost frequent co-author and past supervisee: {first_co_author}\nCollaboration since: {first_co_author_year}\nNumber of publication with the most frequent co-author:{first_co_author_publications}\nSecond most frequent co-author: {second_co_author}\nCollaboration since: {second_co_author_year}\nNumber of publication with Second most frequent co-author:{second_co_author_publications}"
-prompt_template3 ="Generate a concise description of the given scientific author based on the following details:Name: Marie Mueller,  \nMost frequent co-author and past supervisee: {first_co_author}\nCollaboration since: {first_co_author_year}\nNumber of publication with the most frequent co-author:{first_co_author_publications}\nSecond most frequent co-author: {second_co_author}\nCollaboration since: {second_co_author_year}\nNumber of publication with Second most frequent co-author:{second_co_author_publications}"
-
+prompt_template1 ="Provide a brief overview of the scientific researcher below, considering the following data:\n\nName: Anna Smith\nCommunity member:{community}\nExpertise fields: {expertise}\nworked on: {worked}\nResearchers with similar areas of expertise:{researchers}"
+prompt_template2 ="Summarize the following scientific expert using the provided information:\n\nName: Ben Adams\nCommunity member:{community}\nExpertise fields: {expertise}\nworked on: {worked}\nResearchers with similar areas of expertise:{researchers}"
+prompt_template3 ="Compose a short description of the given scientific author based on the subsequent particulars:\n\nName: Marie Mueller\nCommunity member:{community}\nExpertise fields: {expertise}\nworked on: {worked}\nResearchers with similar areas of expertise:{researchers}"
 
 file_path = os.path.abspath("testing/data_authors.json")
-output_file = os.path.abspath("testing/paragraph3/ada_Results.json")
-
+output_file = os.path.abspath("testing/paragraph2/prompt2_resultscopy2.json")
 
 def save_to_json(data):
     results = []
@@ -25,7 +23,7 @@ def save_to_json(data):
 
     result = {
         'name': data['name'],
-        'existing_text': data['existing_text3'],
+        'existing_text2': data['existing_text2'],
         'generated_text1': data['generated_text1'],
         'generated_text2': data['generated_text2'],
         'generated_text3': data['generated_text3']
@@ -44,29 +42,28 @@ def generate_prompt(data):
 
     # Generate text using ChatGPT API for the first prompt
     response1 = openai.Completion.create(
-        engine='text-ada-001',
+        engine='text-davinci-003',
         prompt=prompt1,
-        temperature=1,
-        max_tokens=256,
-        top_p=1,
-        frequency_penalty=0,
-        presence_penalty=0
+        max_tokens=200,
+        n=1,
+        stop=None,
+        temperature=0.7,
     )
+
     # Extract the generated text from the API response
     generated_text1 = response1.choices[0].text.strip()
 
     # Construct the second prompt using the template and user data
     prompt2 = prompt_template2.format(**data)
 
-    #Generate text using ChatGPT API for the second prompt
+    # Generate text using ChatGPT API for the second prompt
     response2 = openai.Completion.create(
-        engine='text-ada-001',
+        engine='text-davinci-003',
         prompt=prompt2,
-        temperature=1,
-        max_tokens=256,
-        top_p=1,
-        frequency_penalty=0,
-        presence_penalty=0
+        max_tokens=200,
+        n=1,
+        stop=None,
+        temperature=0.7,
     )
 
     # Extract the generated text from the second API response
@@ -77,13 +74,12 @@ def generate_prompt(data):
 
     # Generate text using ChatGPT API for the third prompt
     response3 = openai.Completion.create(
-        engine='text-ada-001',
+        engine='text-davinci-003',
         prompt=prompt3,
-        temperature=1,
-        max_tokens=256,
-        top_p=1,
-        frequency_penalty=0,
-        presence_penalty=0
+        max_tokens=200,
+        n=1,
+        stop=None,
+        temperature=0.7,
     )
 
     # Extract the generated text from the third API response
@@ -121,9 +117,9 @@ def main():
 
     # Find the data for the author with name "Fabian Beck"
     #for user_data in user_data_list:
-       #if user_data['name'] == "Carla E. Brodley":
+        #if user_data['name'] == "Stephan Diehl":
             # Generate prompts based on the specified author data
-           # generate_prompt(user_data)
+            #generate_prompt(user_data)
             #break  # Exit the loop after processing the specified author
 
         # Ask if the user wants to continue or exit
@@ -134,3 +130,5 @@ def main():
 
 if __name__ == '__main__':
     main()
+
+
