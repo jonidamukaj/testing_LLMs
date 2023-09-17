@@ -1,0 +1,340 @@
+Please describe briefly the following scientific author and consider the following information:
+Name: Anna Smith
+Most frequent co-author and past supervisee: Catherine Plaisant
+Collaboration since: 1988
+The number of publications with the most frequent co-author: 91
+Second most frequent co-author: Harry Hochheiser
+Collaboration since: [2000, 2011]
+Number of publications with Second most frequent co-author: 11
+Another co-author: Cody Dunne
+Year of collaboration with another co-author: 2009
+Number of publications with another co-author: 11
+First Collaboration: Haixia Zhao and Catherine Plaisant
+First Collaboration Field: human-computer interaction
+Number of papers in the first collaboration: 7
+Second Collaboration: Krist Wongsuphasawat, Taowei David Wang, and Catherine Plaisant
+Number of papers in the second collaboration: 11
+
+Please describe briefly the following scientific author and consider the following information:
+Name: Fabian Beck
+Most frequent co-author and past supervisee: Stephan Diehl
+Collaboration since: 2008
+The number of publications with the most frequent co-author: 27
+Second most frequent co-author: Daniel Weiskopf
+Collaboration since: 2011
+Number of publications with Second most frequent co-author: 25
+Another co-author: Michael Burch
+Year of collaboration with another co-author: 2008
+Number of publications with another co-author: 19
+First Collaboration: Michael Burch and Daniel Weiskopf
+First Collaboration Field: information visualization
+Number of papers in the first collaboration: 13
+Second Collaboration: Stephan Diehl and Oliver Moseler
+Number of papers in the second collaboration: 25
+
+Please describe briefly the following scientific author and consider the following information:
+Name: Mary Jean Harrold
+Most frequent co-author and past supervisee: Gregg Rothermel
+Collaboration since: [1993, 2007]
+The number of publications with the most frequent co-author: 30
+Second most frequent co-author: Alessandro Orso
+Collaboration since: [2000, 2012]
+Number of publications with Second most frequent co-author: 27
+Another co-author: Saurabh Sinha
+Year of collaboration with another co-author: [1998, 2014]
+Number of publications with another co-author: 17
+First Collaboration: Taweesup Apiwattanapong and Alessandro Orso
+First Collaboration Field: software engineering
+Number of papers in the first collaboration: 7
+Second Collaboration: Hina Shah and Carsten Goerg
+Number of papers in the second collaboration: 27
+
+Please describe briefly the following scientific author and consider the following information:
+Name: Stephan Diehl
+Most frequent co-author and past supervisee: Fabian Beck
+Collaboration since: 2008
+The number of publications with the most frequent co-author: 27
+Second most frequent co-author: Sebastian Baltes
+Collaboration since: 2014
+Number of publications with Second most frequent co-author: 18
+Another co-author: Michael Burch
+Year of collaboration with another co-author: 2004
+Number of publications with another co-author: 17
+First Collaboration:  Fabian Beck and Michael Burch
+First Collaboration Field: information visualization
+Number of papers in the first collaboration: 10
+Second Collaboration: Thomas Zimmermann and Andreas Zeller
+Number of papers in the second collaboration: 18
+
+Please describe briefly the following scientific author and consider the following information:
+Name: Daniel Weiskopf
+Most frequent co-author and past supervisee: Michael Burch
+Collaboration since: 2010
+The number of publications with the most frequent co-author: 74
+Second most frequent co-author: Thomas Ertl
+Collaboration since: 2001
+Number of publications with Second most frequent co-author: 50
+Another co-author: Kuno Kurzhals 
+Year of collaboration with another co-author: 2012
+Number of publications with another co-author: 27
+First Collaboration: Fabian Beck and Michael Burch
+First Collaboration Field:  information visualization
+Number of papers in the first collaboration: 13
+Second Collaboration: Benjamin Hoeferlin, Markus Hoeferlin, and Gunther Heidemann
+Number of papers in the second collaboration: 50
+
+Please describe briefly the following scientific author and consider the following information:
+Name: Michael Burch
+Most frequent co-author and past supervisee: Daniel Weiskopf
+Collaboration since: 2010
+The number of publications with the most frequent co-author: 74
+Second most frequent co-author: Fabian Beck
+Collaboration since: 2008
+Number of publications with Second most frequent co-author: 19
+Another co-author: Stephan Diehl
+Year of collaboration with another co-author: 2004
+Number of publications with another co-author: 17
+First Collaboration: Fabian Beck and Daniel Weiskopf
+First Collaboration Field:  information visualization
+Number of papers in the first collaboration: 13
+Second Collaboration: Michael Raschke and Tanja Blascheck
+Number of papers in the second collaboration: 19
+
+Please describe briefly the following scientific author and consider the following information:
+Name: James A. Jones
+Most frequent co-author and past supervisee: Mary Jean Harrold
+Collaboration since: [1998, 2011]
+The number of publications with the most frequent co-author: 15
+Second most frequent co-author: Nicholas DiGiuseppe
+Collaboration since: [2011, 2015]
+Number of publications with Second most frequent co-author: 7
+Another co-author: Francisco Servant
+Year of collaboration with another co-author: 2010
+Number of publications with another co-author: 6
+First Collaboration: Mary Jean Harrold and Alessandro Orso
+First Collaboration Field: none
+Number of papers in the first collaboration: 4
+Second Collaboration: Yang Feng, Chunrong Fang, and Zhenyu Chen
+Number of papers in the second collaboration: 7
+
+Please describe briefly the following scientific author and consider the following information:
+Name: Catherine Plaisant
+Most frequent co-author and past supervisee: Ben Shneiderman
+Collaboration since: ['since', 1998]
+The number of publications with the most frequent co-author: 91
+Second most frequent co-author: Benjamin B. Bederson
+Collaboration since: [2002, 2013]
+Number of publications with Second most frequent co-author: 12
+Another co-author: Georges G. Grinstein
+Year of collaboration with another co-author: [2003, 2014]
+Number of publications with another co-author: 12
+First Collaboration: Georges G. Grinstein and Jean Scholtz
+First Collaboration Field: visual analytics and information visualization
+Number of papers in the first collaboration: 10
+Second Collaboration: Ben Shneiderman and Taowei David Wang
+Number of papers in the second collaboration: 12
+
+Please describe briefly the following scientific author and consider the following information:
+Name: Benjamin B. Bederson
+Most frequent co-author and past supervisee: Allison Druin
+Collaboration since: [1996, 2013]
+The number of publications with the most frequent co-author: 23
+Second most frequent co-author: Catherine Plaisant
+Collaboration since: [2002, 2013]
+Number of publications with Second most frequent co-author: 12
+Another co-author: Bongshin Lee
+Year of collaboration with another co-author: [2003, 2007]
+Number of publications with another co-author: 11
+First Collaboration: Juan Pablo Hourcade and Allison Druin
+First Collaboration Field: human-computer interaction
+Number of papers in the first collaboration: 10
+Second Collaboration: Chang Hu and Philip Resnik
+Number of papers in the second collaboration: 12
+
+Please describe briefly the following scientific author and consider the following information:
+Name: Stuart K. Card
+Most frequent co-author and past supervisee: Jock D. Mackinlay
+Collaboration since: [1989, 2004]
+The number of publications with the most frequent co-author: 21
+Second most frequent co-author: George G. Robertson
+Collaboration since: [1989, 1997]
+Number of publications with Second most frequent co-author: 17
+Another co-author: Peter Pirolli
+Year of collaboration with another co-author: [1993, 2009]
+Number of publications with another co-author: 16
+First Collaboration: George G. Robertson and Jock D. Mackinlay
+First Collaboration Field: human-computer interaction and information visualization
+Number of papers in the first collaboration: 14
+Second Collaboration: Ed Huai-hsin Chi and Lichan Hong
+Number of papers in the second collaboration: 17
+
+Please describe briefly the following scientific author and consider the following information:
+Name: Achim Ebert
+Most frequent co-author and past supervisee: Shah Rukh Humayoun
+Collaboration since: 2013
+The number of publications with the most frequent co-author: 35
+Second most frequent co-author: Ragaad AlTarawneh
+Collaboration since: 2012
+Number of publications with Second most frequent co-author: 24
+Another co-author: Matthias Deller
+Year of collaboration with another co-author: [2006, 2011]
+Number of publications with another co-author: 14
+First Collaboration: Shah Rukh Humayoun and Ragaad AlTarawneh
+First Collaboration Field: human-computer interaction and computer graphics
+Number of papers in the first collaboration: 21
+Second Collaboration: Andreas Kerren and Daniel Cernea
+Number of papers in the second collaboration: 24
+
+Please describe briefly the following scientific author and consider the following information:
+Name: Mary C. Whitton
+Most frequent co-author and past supervisee: Frederick P. Brooks Jr.
+Collaboration since: 1999
+The number of publications with the most frequent co-author: 26
+Second most frequent co-author: Henry Fuchs
+Collaboration since: 1996
+Number of publications with Second most frequent co-author: 10
+Another co-author: Sharif Razzaque
+Year of collaboration with another co-author: [2002, 2007]
+Number of publications with another co-author: 8
+First Collaboration: Sharif Razzaque and Frederick P. Brooks Jr.
+First Collaboration Field: virtual/mixed reality
+Number of papers in the first collaboration: 7
+Second Collaboration: Samir Naik, Frederick P. Brooks Jr., and Benjamin Lok
+Number of papers in the second collaboration: 10
+
+Please describe briefly the following scientific author and consider the following information:
+Name: Henry Fuchs
+Most frequent co-author and past supervisee: Andrei State
+Collaboration since: 1994
+The number of publications with the most frequent co-author: 24
+Second most frequent co-author: Greg Welch
+Collaboration since: [1998, 2012]
+Number of publications with Second most frequent co-author: 17
+Another co-author: Mary C. Whitton
+Year of collaboration with another co-author: 1996
+Number of publications with another co-author: 10
+First Collaboration: Greg Welch and Herman Towles
+First Collaboration Field: no information
+Number of papers in the first collaboration: 6
+Second Collaboration: Andrei State and Gentaro Hirota
+Number of papers in the second collaboration: 17
+
+Please describe briefly the following scientific author and consider the following information:
+Name: Dieter Schmalstieg
+Most frequent co-author and past supervisee: Denis Kalkofen
+Collaboration since: 2006
+The number of publications with the most frequent co-author: 33
+Second most frequent co-author: Gerhard Reitmayr
+Collaboration since: [2001, 2015]
+Number of publications with Second most frequent co-author: 26
+Another co-author: Markus Steinberger
+Year of collaboration with another co-author: 2011
+Number of publications with another co-author: 25
+First Collaboration: Marc Streit and Alexander Lex
+First Collaboration Field: information visualization and bioinformatics
+Number of papers in the first collaboration: 17
+Second Collaboration: Markus Tatzgern and Denis Kalkofen
+Number of papers in the second collaboration: 26
+
+Please describe briefly the following scientific author and consider the following information:
+Name: Anna Celler
+Most frequent co-author and past supervisee: Klaus D. Toennies
+Collaboration since: 2003
+The number of publications with the most frequent co-author: 6
+Second most frequent co-author: Ghassan Hamarneh
+Collaboration since: 2007
+Number of publications with Second most frequent co-author: 5
+Another co-author: Regina Pohle
+Year of collaboration with another co-author: [2003, 2004]
+Number of publications with another co-author: 4
+First Collaboration: Klaus D. Toennies and Regina Pohle
+First Collaboration Field: bioinformatics and biomedical imaging
+Number of papers in the first collaboration: 4
+Second Collaboration: none
+Number of papers in the second collaboration: 5
+
+Please describe briefly the following scientific author and consider the following information:
+Name: Ghassan Hamarneh
+Most frequent co-author and past supervisee: Rafeef Abugharbieh
+Collaboration since: 2003
+The number of publications with the most frequent co-author: 31
+Second most frequent co-author: Lisa Tang
+Collaboration since: [2008, 2015]
+Number of publications with Second most frequent co-author: 14
+Another co-author: Brian G. Booth
+Year of collaboration with another co-author: 2011
+Number of publications with another co-author: 14
+First Collaboration: Alborz Amir-Khalili and Rafeef Abugharbieh
+First Collaboration Field: bioinformatics, biomedical imaging, and machine learning
+Number of papers in the first collaboration: 9
+Second Collaboration: Tim K. Lee and Hengameh Mirzaalian
+Number of papers in the second collaboration: 14
+
+Please describe briefly the following scientific author and consider the following information:
+Name: Xenophon Papademetris
+Most frequent co-author and past supervisee: James S. Duncan
+Collaboration since: 1999
+The number of publications with the most frequent co-author: 48
+Second most frequent co-author: Lawrence H. Staib
+Collaboration since: 2003
+Number of publications with Second most frequent co-author: 42
+Another co-author: Albert J. Sinusas
+Year of collaboration with another co-author: 1999
+Number of publications with another co-author: 33
+First Collaboration:  Albert J. Sinusas and James S. Duncan
+First Collaboration Field: bioinformatics, biomedical imaging, and machine learning
+Number of papers in the first collaboration: 23
+Second Collaboration: Dennis D. Spencer and Kenneth P. Vives
+Number of papers in the second collaboration: 42
+
+Please describe briefly the following scientific author and consider the following information:
+Name: Penny Rheingans
+Most frequent co-author and past supervisee: Terry S. Yoo
+Collaboration since: [1999, 2011]
+The number of publications with the most frequent co-author: 11
+Second most frequent co-author:  Marie desJardins
+Collaboration since: [1999, 2012]
+Number of publications with Second most frequent co-author: 9
+Another co-author: David S. Ebert
+Year of collaboration with another co-author: [2000, 2003]
+Number of publications with another co-author: 7
+First Collaboration: John R. Goodall and Anita Komlodi
+First Collaboration Field: no info
+Number of papers in the first collaboration: 4
+Second Collaboration: Bryan S. Morse, Terry S. Yoo, and Kalpathi R. Subramanian
+Number of papers in the second collaboration: 9
+
+Please describe briefly the following scientific author and consider the following information:
+Name: Marie desJardins
+Most frequent co-author and past supervisee: Eric Eaton
+Collaboration since: [2005, 2014]
+The number of publications with the most frequent co-author: 10
+Second most frequent co-author: Penny Rheingans
+Collaboration since: [1999, 2012]
+Number of publications with Second most frequent co-author: 9
+Another co-author: Michael L. Littman
+Year of collaboration with another co-author: 1999
+Number of publications with another co-author: 8
+First Collaboration: James MacGlashan and Shawn Squire
+First Collaboration Field: no info
+Number of papers in the first collaboration: 3
+Second Collaboration: Eric Eaton and Sara Jacob
+Number of papers in the second collaboration: 9
+
+Please describe briefly the following scientific author and consider the following information:
+Name: Carla E. Brodley
+Most frequent co-author and past supervisee: Jennifer G. Dy
+Collaboration since: 1999
+The number of publications with the most frequent co-author: 11
+Second most frequent co-author: Byron C. Wallace
+Collaboration since: [2010, 2014]
+Number of publications with Second most frequent co-author: 9
+Another co-author: Mark A. Friedl
+Year of collaboration with another co-author: [1996, 2012]
+Number of publications with another co-author: 9
+First Collaboration: Avinash C. Kak and Lynn S. Broderick
+First Collaboration Field: vision
+Number of papers in the first collaboration: 8
+Second Collaboration: Kevin Small, Thomas A. Trikalinos, and Byron C. Wallace
+Number of papers in the second collaboration: 9
+

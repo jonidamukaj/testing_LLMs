@@ -14,7 +14,7 @@ prompt_template3 ="Generate a concise description of the given scientific author
 
 
 file_path = os.path.abspath("testing/data_authors.json")
-output_file = os.path.abspath("testing/paragraph3/ada_Results.json")
+output_file = os.path.abspath("testing/paragraph3/ada2_Results.json")
 
 
 def save_to_json(data):
