@@ -2,7 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # Load your data into a pandas DataFrame
-data = pd.read_csv('automatic.csv')
+data = pd.read_csv("automatic.csv")
 
 # Calculate correlations with Coherence
 coherence_correlation = data[['F1_Score', 'Rouge1', 'Rouge2', 'RougeL', 'Length', 'Vec2', 'Bleu']].corrwith(data['Coherence'], method='pearson')
