@@ -1,0 +1,749 @@
+{
+    "Ben Shneiderman": [
+        {
+            "pronouns": [
+                "who",
+                "her",
+                "She",
+                "who"
+            ],
+            "adjectives": [
+                "scientific",
+                "more",
+                "subsequent",
+                "technical",
+                "higher",
+                "human-Computer",
+                "scientific",
+                "more",
+                "subsequent"
+            ]
+        },
+        {
+            "pronouns": [
+                "who",
+                "He",
+                "he"
+            ],
+            "adjectives": [
+                "scientific",
+                "various",
+                "scientific",
+                "frequent",
+                "past",
+                "frequent"
+            ]
+        },
+        {
+            "pronouns": [],
+            "adjectives": [
+                "Third",
+                "third"
+            ]
+        }
+    ],
+    "Fabian Beck": [
+        {
+            "pronouns": [],
+            "adjectives": [
+                "second",
+                "frequent"
+            ]
+        },
+        {
+            "pronouns": [],
+            "adjectives": [
+                "Second",
+                "second",
+                "following",
+                "scientific",
+                "common",
+                "specific",
+                "past",
+                "scientific",
+                "other",
+                "scientific"
+            ]
+        },
+        {
+            "pronouns": [
+                "She",
+                "they",
+                "their",
+                "their"
+            ],
+            "adjectives": [
+                "collaboration",
+                "many",
+                "First"
+            ]
+        }
+    ],
+    "Mary Jean Harrold": [
+        {
+            "pronouns": [
+                "who",
+                "She",
+                "They"
+            ],
+            "adjectives": [
+                "British",
+                "past",
+                "commonly"
+            ]
+        },
+        {
+            "pronouns": [],
+            "adjectives": [
+                "Second",
+                "scientific"
+            ]
+        },
+        {
+            "pronouns": [],
+            "adjectives": [
+                "Second",
+                "second"
+            ]
+        }
+    ],
+    "Stephan Diehl": [
+        {
+            "pronouns": [],
+            "adjectives": [
+                "second",
+                "frequent",
+                "frequent",
+                "first",
+                "nearby",
+                "only",
+                "other",
+                "unknown",
+                "Berendhorn",
+                "second",
+                "nearby",
+                "only",
+                "other",
+                "engeren"
+            ]
+        },
+        {
+            "pronouns": [
+                "He",
+                "him",
+                "He",
+                "he"
+            ],
+            "adjectives": [
+                "scientific",
+                "Most",
+                "withFabian",
+                "Second",
+                "commonly",
+                "co-authored",
+                "Sebastian",
+                "other"
+            ]
+        },
+        {
+            "pronouns": [
+                "she",
+                "they",
+                "it",
+                "They",
+                "she",
+                "They"
+            ],
+            "adjectives": [
+                "first",
+                "second",
+                "co-author",
+                "withFabian",
+                "second",
+                "Sebastian",
+                "past",
+                "Sebastian",
+                "only",
+                "threearten",
+                "first",
+                "ten",
+                "second",
+                "co-author",
+                "only",
+                "threearten",
+                "eighteen",
+                "first",
+                "eighteen",
+                "second"
+            ]
+        }
+    ],
+    "Daniel Weiskopf": [
+        {
+            "pronouns": [],
+            "adjectives": [
+                "Second"
+            ]
+        },
+        {
+            "pronouns": [],
+            "adjectives": [
+                "Second",
+                "third"
+            ]
+        },
+        {
+            "pronouns": [],
+            "adjectives": [
+                "Second"
+            ]
+        }
+    ],
+    "Michael Burch": [
+        {
+            "pronouns": [
+                "She",
+                "She"
+            ],
+            "adjectives": [
+                "second"
+            ]
+        },
+        {
+            "pronouns": [],
+            "adjectives": []
+        },
+        {
+            "pronouns": [
+                "she",
+                "She",
+                "She",
+                "she",
+                "her"
+            ],
+            "adjectives": [
+                "third"
+            ]
+        }
+    ],
+    "James A. Jones": [
+        {
+            "pronouns": [
+                "She"
+            ],
+            "adjectives": [
+                "deep",
+                "scientific",
+                "field+"
+            ]
+        },
+        {
+            "pronouns": [],
+            "adjectives": [
+                "ascientific",
+                "frequent",
+                "scientific",
+                "frequent",
+                "scientific",
+                "frequent",
+                "Mary",
+                "scientific",
+                "frequent",
+                "scientific",
+                "frequent",
+                "frequent",
+                "scientific",
+                "frequent",
+                "scientific",
+                "frequent"
+            ]
+        },
+        {
+            "pronouns": [],
+            "adjectives": [
+                "strong2",
+                "scientific",
+                "common",
+                "shared",
+                "shared"
+            ]
+        }
+    ],
+    "Catherine Plaisant": [
+        {
+            "pronouns": [
+                "My"
+            ],
+            "adjectives": [
+                "visual",
+                "scientific"
+            ]
+        },
+        {
+            "pronouns": [],
+            "adjectives": [
+                "Third",
+                "visual"
+            ]
+        },
+        {
+            "pronouns": [
+                "They",
+                "they",
+                "They",
+                "they"
+            ],
+            "adjectives": [
+                "scientific",
+                "many",
+                "scientific",
+                "many"
+            ]
+        }
+    ],
+    "Benjamin B. Bederson": [
+        {
+            "pronouns": [
+                "She"
+            ],
+            "adjectives": [
+                "ten",
+                "frequent",
+                "frequented",
+                "other",
+                "first",
+                "second"
+            ]
+        },
+        {
+            "pronouns": [
+                "He"
+            ],
+            "adjectives": [
+                "human-",
+                "computer-human"
+            ]
+        },
+        {
+            "pronouns": [
+                "They",
+                "they",
+                "they",
+                "They",
+                "they"
+            ],
+            "adjectives": [
+                "human",
+                "[",
+                "[",
+                "human",
+                "[",
+                "["
+            ]
+        }
+    ],
+    "Stuart K. Card": [
+        {
+            "pronouns": [
+                "She"
+            ],
+            "adjectives": [
+                "scientific",
+                "frequent",
+                "second",
+                "frequent",
+                "anliowisseent",
+                "first",
+                "human-computer",
+                "Second"
+            ]
+        },
+        {
+            "pronouns": [
+                "They"
+            ],
+            "adjectives": [
+                "scientific",
+                "second",
+                "frequent",
+                "frequent",
+                "first",
+                "more",
+                "first",
+                "past"
+            ]
+        },
+        {
+            "pronouns": [
+                "She",
+                "Her"
+            ],
+            "adjectives": [
+                "scientific",
+                "different",
+                "scientific",
+                "frequent",
+                "human-computer"
+            ]
+        }
+    ],
+    "Achim Ebert": [
+        {
+            "pronouns": [
+                "She"
+            ],
+            "adjectives": [
+                "second",
+                "frequent"
+            ]
+        },
+        {
+            "pronouns": [],
+            "adjectives": [
+                "scientific",
+                "frequent",
+                "scientific",
+                "second",
+                "scientific",
+                "first"
+            ]
+        },
+        {
+            "pronouns": [],
+            "adjectives": []
+        }
+    ],
+    "Mary C. Whitton": [
+        {
+            "pronouns": [
+                "She"
+            ],
+            "adjectives": [
+                "frequent",
+                "most",
+                "First",
+                "last"
+            ]
+        },
+        {
+            "pronouns": [
+                "He",
+                "He",
+                "him",
+                "He"
+            ],
+            "adjectives": [
+                "nonlinearheterodyne",
+                "second",
+                "frequent"
+            ]
+        },
+        {
+            "pronouns": [
+                "She",
+                "Her"
+            ],
+            "adjectives": [
+                "Francisco-based",
+                "first",
+                "second",
+                "virtual/mixed"
+            ]
+        }
+    ],
+    "Henry Fuchs": [
+        {
+            "pronouns": [],
+            "adjectives": [
+                "scientific",
+                "following"
+            ]
+        },
+        {
+            "pronouns": [
+                "He",
+                "He",
+                "He"
+            ],
+            "adjectives": [
+                "frequent",
+                "past",
+                "second",
+                "frequent",
+                "second",
+                "frequent",
+                "third"
+            ]
+        },
+        {
+            "pronouns": [],
+            "adjectives": [
+                "1994-2012",
+                "first",
+                "first",
+                "1994-2012",
+                "frequent",
+                "first",
+                "1994-2012"
+            ]
+        }
+    ],
+    "Dieter Schmalstieg": [
+        {
+            "pronouns": [
+                "who"
+            ],
+            "adjectives": [
+                "scientific",
+                "recent",
+                "other",
+                "more",
+                "second",
+                "third",
+                "recent",
+                "second",
+                "third"
+            ]
+        },
+        {
+            "pronouns": [
+                "who"
+            ],
+            "adjectives": [
+                "scientific",
+                "various",
+                "more",
+                "second",
+                "frequent"
+            ]
+        },
+        {
+            "pronouns": [],
+            "adjectives": [
+                "Third",
+                "third"
+            ]
+        }
+    ],
+    "Anna Celler": [
+        {
+            "pronouns": [
+                "She",
+                "Her"
+            ],
+            "adjectives": [
+                "biomedical"
+            ]
+        },
+        {
+            "pronouns": [
+                "him",
+                "who"
+            ],
+            "adjectives": [
+                "scientific",
+                "optional"
+            ]
+        },
+        {
+            "pronouns": [
+                "They",
+                "They"
+            ],
+            "adjectives": [
+                "past"
+            ]
+        }
+    ],
+    "Ghassan Hamarneh": [
+        {
+            "pronouns": [
+                "her",
+                "Her",
+                "her"
+            ],
+            "adjectives": [
+                "scientific",
+                "powerful",
+                "female",
+                "never-ending",
+                "new",
+                "SI-1"
+            ]
+        },
+        {
+            "pronouns": [],
+            "adjectives": [
+                "dare.Alborz",
+                "biomedical"
+            ]
+        },
+        {
+            "pronouns": [
+                "She",
+                "they"
+            ],
+            "adjectives": [
+                "third",
+                "third",
+                "great",
+                "able",
+                "biomedical"
+            ]
+        }
+    ],
+    "Xenophon Papademetris": [
+        {
+            "pronouns": [
+                "She",
+                "She"
+            ],
+            "adjectives": [
+                "Research",
+                "frequent",
+                "second",
+                "co-author",
+                "second",
+                "mostNotable"
+            ]
+        },
+        {
+            "pronouns": [
+                "He",
+                "he"
+            ],
+            "adjectives": [
+                "scientific",
+                "FIRST",
+                "other",
+                "first"
+            ]
+        },
+        {
+            "pronouns": [
+                "She"
+            ],
+            "adjectives": [
+                "ofMedical"
+            ]
+        }
+    ],
+    "Penny Rheingans": [
+        {
+            "pronouns": [
+                "who",
+                "her",
+                "They",
+                "her"
+            ],
+            "adjectives": [
+                "scientific",
+                "many",
+                "first",
+                "first"
+            ]
+        },
+        {
+            "pronouns": [],
+            "adjectives": [
+                "scientific",
+                "several",
+                "scientific",
+                "most",
+                "enlarged",
+                "original"
+            ]
+        },
+        {
+            "pronouns": [
+                "who",
+                "They",
+                "she"
+            ],
+            "adjectives": [
+                "scientific",
+                "second"
+            ]
+        }
+    ],
+    "Marie desJardins": [
+        {
+            "pronouns": [
+                "her",
+                "She",
+                "her"
+            ],
+            "adjectives": [
+                "scientific",
+                "third",
+                "different",
+                "negativemathematical",
+                "scientific"
+            ]
+        },
+        {
+            "pronouns": [
+                "He"
+            ],
+            "adjectives": [
+                "scientific",
+                "environmental",
+                "past",
+                "intellectual"
+            ]
+        },
+        {
+            "pronouns": [
+                "She"
+            ],
+            "adjectives": [
+                "fantasy",
+                "second",
+                "first",
+                "co-authored"
+            ]
+        }
+    ],
+    "Carla E. Brodley": [
+        {
+            "pronouns": [],
+            "adjectives": [
+                "scientific"
+            ]
+        },
+        {
+            "pronouns": [
+                "who",
+                "He",
+                "He",
+                "His",
+                "He"
+            ],
+            "adjectives": [
+                "academic",
+                "uia.edu",
+                "past",
+                "study",
+                "other",
+                "second",
+                "frequent",
+                "scientific"
+            ]
+        },
+        {
+            "pronouns": [
+                "You",
+                "their",
+                "they"
+            ],
+            "adjectives": [
+                "scientific",
+                "most",
+                "co-authored",
+                "second",
+                "neck-and-neck",
+                "few"
+            ]
+        }
+    ]
+}
