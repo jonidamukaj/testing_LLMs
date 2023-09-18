@@ -1,0 +1,13 @@
+Model,Generated_Texts,Length
+ada,Text1,276.65
+ada,Text2,300.40
+ada,Text3,279.20
+curie,Text1,276.65
+curie,Text2,272.90
+curie,Text3,224.25
+davinci,Text1,262.95
+davinci,Text2,116.50
+davinci,Text3,133.50
+turbo,Text1,340.80
+turbo,Text2,181.45
+turbo,Text3,151.55
