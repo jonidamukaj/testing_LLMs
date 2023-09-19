@@ -1,0 +1,13 @@
+Model,Generated_Texts,Bleu
+ada,Text1,0.03135
+ada,Text2,0.028745
+ada,Text3,0.013685
+curie,Text1,0.108675
+curie,Text2,0.095785
+curie,Text3,0.07258
+davinci,Text1,0.16593
+davinci,Text2,0.048555
+davinci,Text3,0.162165
+turbo,Text1,0.135565
+turbo,Text2,0.16119
+turbo,Text3,0.16709000000000002
