@@ -1,0 +1,168 @@
+{
+    "adjectives_per_author": {
+        "Ben Shneiderman": {
+            "core": 1,
+            "visual": 3,
+            "focus": 1,
+            "human-computer": 2,
+            "similar": 3,
+            "prominent": 1,
+            "scientific": 1,
+            "such": 1,
+            "Human-computer": 1
+        },
+        "Fabian Beck": {
+            "core": 1,
+            "visual": 3,
+            "similar": 3,
+            "scientific": 2,
+            "primary": 2,
+            "complex": 1
+        },
+        "Mary Jean Harrold": {
+            "similar": 2,
+            "scientific": 2,
+            "such": 1
+        },
+        "Stephan Diehl": {
+            "core": 1,
+            "similar": 3,
+            "scientific": 2,
+            "available": 2,
+            "specific": 2
+        },
+        "Daniel Weiskopf": {
+            "current": 1,
+            "visual": 3,
+            "scientific": 4,
+            "flow": 1,
+            "graph": 1,
+            "multimedia": 1,
+            "similar": 3,
+            "well-respected": 1,
+            "well-known": 1
+        },
+        "Michael Burch": {
+            "core": 1,
+            "visual": 3,
+            "graph": 1,
+            "similar": 3,
+            "scientific": 2
+        },
+        "James A. Jones": {
+            "similar": 3,
+            "scientific": 1
+        },
+        "Catherine Plaisant": {
+            "current": 1,
+            "visual": 3,
+            "human-computer": 3,
+            "similar": 2,
+            "respected": 1,
+            "scientific": 1,
+            "active": 1,
+            "notable": 1,
+            "Similar": 1
+        },
+        "Benjamin B. Bederson": {
+            "visual": 3,
+            "human-computer": 2,
+            "digital": 3,
+            "similar": 2,
+            "prominent": 1,
+            "scientific": 1,
+            "broad": 1,
+            "other": 1,
+            "notable": 1
+        },
+        "Stuart K. Card": {
+            "visual": 3,
+            "human-computer": 3,
+            "similar": 3,
+            "prominent": 1,
+            "scientific": 2,
+            "extensive": 1
+        },
+        "Achim Ebert": {
+            "current": 1,
+            "visual": 3,
+            "human-computer": 3,
+            "similar": 2,
+            "prominent": 1,
+            "strong": 1,
+            "renowned": 1
+        },
+        "Mary C. Whitton": {
+            "focus": 1,
+            "medical": 3,
+            "virtual/mixed": 2,
+            "human-computer": 3,
+            "similar": 3,
+            "scientific": 2,
+            "prominent": 1,
+            "virtual": 1,
+            "mixed": 1
+        },
+        "Henry Fuchs": {
+            "focus": 1,
+            "immersive": 3,
+            "virtual/mixed": 3,
+            "similar": 2,
+            "scientific": 1,
+            "Other": 1,
+            "Similar": 1
+        },
+        "Dieter Schmalstieg": {
+            "visual": 3,
+            "scientific": 5,
+            "virtual/mixed": 3,
+            "human-computer": 3,
+            "similar": 3,
+            "Other": 1
+        },
+        "Anna Celler": {
+            "focus": 1,
+            "medical": 3,
+            "biomedical": 3,
+            "scientific": 1,
+            "other": 2,
+            "similar": 2,
+            "Scientific": 1
+        },
+        "Ghassan Hamarneh": {
+            "biomedical": 3,
+            "similar": 3,
+            "prominent": 1,
+            "available": 2,
+            "specific": 2,
+            "notable": 1,
+            "scientific": 1
+        },
+        "Xenophon Papademetris": {
+            "focus": 1,
+            "medical": 3,
+            "biomedical": 3,
+            "similar": 3,
+            "scientific": 2,
+            "active": 1,
+            "such": 1
+        },
+        "Penny Rheingans": {
+            "core": 1,
+            "time-oriented": 3,
+            "illustrative": 3,
+            "similar": 3,
+            "Other": 1
+        },
+        "Marie desJardins": {
+            "focus": 1,
+            "time-oriented": 3,
+            "similar": 3,
+            "scientific": 2
+        },
+        "Carla E. Brodley": {
+            "similar": 2,
+            "scientific": 1
+        }
+    }
+}

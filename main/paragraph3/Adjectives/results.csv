@@ -1,0 +1,81 @@
+Author,Model,Num_Adjectives,Top_Adjective_1,Top_Adjective_2
+Ben Shneiderman,ada,12,frequent,1,prolonged,1
+Ben Shneiderman,curie,11,frequent,1,prolonged,1
+Ben Shneiderman,turbo,9,frequent,1,prolonged,1
+Ben Shneiderman,davinci,12,frequent,1,prolonged,1
+ Fabian Beck,ada,8,frequent,1,ongoing,1
+ Fabian Beck,curie,8,frequent,1,ongoing,1
+ Fabian Beck,turbo,11,frequent,1,ongoing,1
+ Fabian Beck,davinci,8,frequent,1,ongoing,1
+Mary Jean Harrold,ada,5,frequent,1,notable,1
+Mary Jean Harrold,curie,8,frequent,1,notable,1
+Mary Jean Harrold,turbo,5,frequent,1,notable,1
+Mary Jean Harrold,davinci,7,frequent,1,notable,1
+Stephan Diehl,ada,13,frequent,1,ongoing,1
+Stephan Diehl,curie,11,frequent,1,ongoing,1
+Stephan Diehl,turbo,7,frequent,1,ongoing,1
+Stephan Diehl,davinci,8,frequent,1,ongoing,1
+Daniel Weiskopf,ada,5,frequent,1,further,1
+Daniel Weiskopf,curie,7,frequent,1,further,1
+Daniel Weiskopf,turbo,7,frequent,1,further,1
+Daniel Weiskopf,davinci,8,frequent,1,further,1
+Michael Burch,ada,3,frequent,1,ongoing,1
+Michael Burch,curie,10,frequent,1,ongoing,1
+Michael Burch,turbo,9,frequent,1,ongoing,1
+Michael Burch,davinci,6,frequent,1,ongoing,1
+James A. Jones,ada,6,frequent,1,notable,1
+James A. Jones,curie,9,frequent,1,notable,1
+James A. Jones,turbo,13,frequent,1,notable,1
+James A. Jones,davinci,7,frequent,1,notable,1
+Catherine Plaisant,ada,6,frequent,1,prolonged,1
+Catherine Plaisant,curie,8,frequent,1,prolonged,1
+Catherine Plaisant,turbo,10,frequent,1,prolonged,1
+Catherine Plaisant,davinci,10,frequent,1,prolonged,1
+Benjamin B. Bederson,ada,10,frequent,1,further,1
+Benjamin B. Bederson,curie,12,frequent,1,further,1
+Benjamin B. Bederson,turbo,9,frequent,1,further,1
+Benjamin B. Bederson,davinci,12,frequent,1,further,1
+Stuart K. Card,ada,7,frequent,1,human-computer,1
+Stuart K. Card,curie,7,frequent,1,human-computer,1
+Stuart K. Card,turbo,10,frequent,1,human-computer,1
+Stuart K. Card,davinci,8,frequent,1,human-computer,1
+Achim Ebert,ada,6,frequent,1,ongoing,1
+Achim Ebert,curie,7,frequent,1,ongoing,1
+Achim Ebert,turbo,12,frequent,1,ongoing,1
+Achim Ebert,davinci,7,frequent,1,ongoing,1
+Mary C. Whitton,ada,6,frequent,1,virtual/mixed,1
+Mary C. Whitton,curie,8,frequent,1,virtual/mixed,1
+Mary C. Whitton,turbo,7,frequent,1,virtual/mixed,1
+Mary C. Whitton,davinci,8,frequent,1,virtual/mixed,1
+Henry Fuchs,ada,7,frequent,1,prolonged,1
+Henry Fuchs,curie,8,frequent,1,prolonged,1
+Henry Fuchs,turbo,9,frequent,1,prolonged,1
+Henry Fuchs,davinci,9,frequent,1,prolonged,1
+Dieter Schmalstieg,ada,8,frequent,1,further,1
+Dieter Schmalstieg,curie,13,frequent,1,further,1
+Dieter Schmalstieg,turbo,23,frequent,1,further,1
+Dieter Schmalstieg,davinci,6,frequent,1,further,1
+Anna Celler,ada,5,frequent,1,ongoing,1
+Anna Celler,curie,8,frequent,1,ongoing,1
+Anna Celler,turbo,8,frequent,1,ongoing,1
+Anna Celler,davinci,7,frequent,1,ongoing,1
+Ghassan Hamarneh,ada,10,frequent,1,biomedical,1
+Ghassan Hamarneh,curie,10,frequent,1,biomedical,1
+Ghassan Hamarneh,turbo,6,frequent,1,biomedical,1
+Ghassan Hamarneh,davinci,7,frequent,1,biomedical,1
+Xenophon Papademetris,ada,10,frequent,1,ongoing,1
+Xenophon Papademetris,curie,10,frequent,1,ongoing,1
+Xenophon Papademetris,turbo,8,frequent,1,ongoing,1
+Xenophon Papademetris,davinci,8,frequent,1,ongoing,1
+Penny Rheingans,ada,10,frequent,1,further,1
+Penny Rheingans,curie,16,frequent,1,further,1
+Penny Rheingans,turbo,17,frequent,1,further,1
+Penny Rheingans,davinci,6,frequent,1,further,1
+Marie desJardins,ada,9,frequent,1,ongoing,1
+Marie desJardins,curie,7,frequent,1,ongoing,1
+Marie desJardins,turbo,8,frequent,1,ongoing,1
+Marie desJardins,davinci,4,frequent,1,ongoing,1
+Carla E. Brodley,ada,7,frequent,1,notable,1
+Carla E. Brodley,curie,9,frequent,1,notable,1
+Carla E. Brodley,turbo,6,frequent,1,notable,1
+Carla E. Brodley,davinci,8,frequent,1,notable,1

@@ -1,0 +1,1125 @@
+{
+    "Ben Shneiderman": {
+        "ada": [
+            
+            "frequent",
+            
+            "prolonged",
+            
+            "further",
+            "considerable",
+            
+            "human-computer",
+            "notable",
+            "scientific",
+            
+            "subsequent",
+            "technical",
+            "higher",
+            "human-Computer",
+            "various"
+        ],
+        "curie": [
+            
+            "frequent",
+            
+            "prolonged",
+            
+            "further",
+            "considerable",
+            
+            "human-computer",
+            "notable",
+            "likely",
+            "scientific",
+            "first",
+            "collaborative",
+            "recent"
+        ],
+        "turbo": [
+            
+            "frequent",
+            
+            "prolonged",
+            
+            "further",
+            "considerable",
+            
+            "human-computer",
+            "notable",
+            "scientific",
+            "significant",
+            "first"
+        ],
+        "davinci": [
+            
+            "frequent",
+            
+            "prolonged",
+            
+            "further",
+            "considerable",
+            
+            "human-computer",
+            "notable",
+            "experienced",
+            "long",
+            "recent",
+            "first",
+            "Long-term",
+            "prolific"
+        ]
+    },
+    " Fabian Beck": {
+        "ada": [
+            
+            "frequent",
+            
+            "ongoing",
+            "notable",
+            
+            "following",
+            "scientific",
+            "common",
+            "specific",
+            
+            ""
+        ],
+        "curie": [
+            
+            "frequent",
+            
+            "ongoing",
+            "notable",
+            "total",
+            "consecutive",
+            "nineteen",
+            "thirteen",
+            "recent"
+        ],
+        "turbo": [
+            
+            "frequent",
+            
+            "ongoing",
+            "notable",
+            "scientific",
+            "co-authored",
+            "strong",
+            "long-lasting",
+            "first",
+            "different",
+            "Overall",
+            
+            "significant"
+        ],
+        "davinci": [
+            
+            "frequent",
+            
+            "ongoing",
+            "notable",
+            "established",
+            "strong",
+            "first",
+            "long-term",
+            "2008-present"
+        ]
+    },
+    "Mary Jean Harrold": {
+        "ada": [
+            
+            "frequent",
+            
+            "notable",
+            "British",
+            
+            "commonly",
+            
+            "scientific"
+        ],
+        "curie": [
+            
+            "frequent",
+            
+            "notable",
+            "Software-intensive",
+            "Multi-Agent",
+            "first",
+            "model-driven",
+            "modern",
+            
+            "recent"
+        ],
+        "turbo": [
+            
+            "frequent",
+            
+            "notable",
+            "scientific",
+            "several",
+            
+            "first"
+        ],
+        "davinci": [
+            
+            "frequent",
+            
+            "notable",
+            "long",
+            
+            "first",
+            "Long-term",
+            "1993-2007",
+            "2000-2012"
+        ]
+    },
+    "Stephan Diehl": {
+        "ada": [
+            
+            "frequent",
+            "ongoing",
+            "notable",
+            "first",
+            "nearby",
+            "only",
+            
+            "unknown",
+            "Berendhorn",
+            "engeren",
+            "scientific",
+            
+            "with",
+            
+            "commonly",
+            "co-authored"
+        ],
+        "curie": [
+            
+            "frequent",
+
+            "ongoing",
+            "notable",
+            
+            "first",
+            "American",
+            "evident",
+            "strong",
+            "together.Ben",
+            "post-doctoral",
+            "Cognitive",
+            "Experimental"
+        ],
+        "turbo": [
+            
+            "frequent",
+            
+
+            "ongoing",
+            "notable",
+            "scientific",
+            "several",
+            "first",
+            "multiple"
+        ],
+        "davinci": [
+            
+            "frequent",
+
+            "ongoing",
+            "notable",
+            "well-established",
+            "Long-term",
+            "-",
+            "w/",
+            ""
+        ]
+    },
+    "Daniel Weiskopf": {
+        "ada": [
+            
+            "frequent",
+            
+            
+            "further",
+            "considerable",
+            
+            "notable",
+            
+            "third"
+        ],
+        "curie": [
+            
+            "frequent",
+            
+            
+            "further",
+            "considerable",
+            
+            "notable",
+            "scientific",
+            "first",
+            "large"
+        ],
+        "turbo": [
+            
+            "frequent",
+            
+            
+            "further",
+            "considerable",
+            
+            "notable",
+            "scientific",
+            "first",
+            "co-author"
+        ],
+        "davinci": [
+            
+            "frequent",
+            
+            
+            "further",
+            "considerable",
+            
+            "notable",
+            "prolific",
+            "long-standing",
+            "first",
+            ""
+        ]
+    },
+    "Michael Burch": {
+        "ada": [
+            
+            "frequent",
+            
+            
+            "ongoing",
+            "notable"
+        ],
+        "curie": [
+            
+            "frequent",
+            
+            
+            "ongoing",
+            "notable",
+            "scientific",
+            "together.Anna",
+            "total",
+            "first",
+            "recent",
+            "co-authored",
+            "prolific"
+        ],
+        "turbo": [
+            
+            "frequent",
+            
+            
+            "ongoing",
+            "notable",
+            "scientific",
+            "various",
+            
+            "first",
+            "Overall",
+            "diverse",
+            "extensive"
+        ],
+        "davinci": [
+            
+            "frequent",
+            
+            
+            "ongoing",
+            "notable",
+            "first",
+            "collaborative",
+            "prolific"
+        ]
+    },
+    "James A. Jones": {
+        "ada": [
+            
+            "frequent",
+            "notable",
+            "deep",
+            "scientific",
+            "field+",
+            "ascientific"
+        ],
+        "curie": [
+            
+            "frequent",
+            
+            "notable",
+            "fifteen",
+            "first",
+            
+            
+            "own",
+            "original",
+            "together.Ben",
+            "scientific",
+            "genome"
+        ],
+        "turbo": [
+            
+            "frequent",
+            "notable",
+            "scientific",
+            "various",
+            
+            "long",
+            "productive",
+            "recent",
+            "long-lasting",
+            "first",
+            "unspecified",
+            "diverse",
+            "significant",
+            "multiple"
+        ],
+        "davinci": [
+            
+            "frequent",
+            "notable",
+            "first",
+            "Long-term",
+            "1998-2015",
+            "2011-2015",
+            "First"
+        ]
+    },
+    "Catherine Plaisant": {
+        "ada": [
+            
+            "frequent",
+            "prolonged",
+            
+            
+            "visual",
+            "notable",
+            "scientific",
+            "Third"
+        ],
+        "curie": [
+            
+            "frequent",
+            "prolonged",
+            
+            
+            "visual",
+            "notable",
+            "first",
+            "web",
+            "prominent",
+            "scientific"
+        ],
+        "turbo": [
+            
+            "frequent",
+            "prolonged",
+            
+            
+            "visual",
+            "notable",
+            "scientific",
+            "various",
+            
+            "significant",
+            "first",
+            "several",
+            "till"
+        ],
+        "davinci": [
+            
+            "frequent",
+            "prolonged",
+            
+            
+            "visual",
+            "notable",
+            "well-known",
+            "first",
+            "Long-term",
+            
+            "Third",
+            "First",
+            "Visual"
+        ]
+    },
+    "Benjamin B. Bederson": {
+        "ada": [
+            
+            "frequent",
+            
+            "further",
+            "considerable",
+            "human-computer",
+            "notable",
+            "ten",
+            "frequented",
+            
+            "first",
+            "human-",
+            "computer-human"
+        ],
+        "curie": [
+            
+            "frequent",
+            
+            "further",
+            "considerable",
+            "human-computer",
+            "notable",
+            "collaborative",
+            
+            "scientific",
+            "first",
+            "eleven",
+            "American",
+            
+            "productive",
+            "ten"
+        ],
+        "turbo": [
+            
+            "frequent",
+            
+            "further",
+            "considerable",
+            "human-computer",
+            "notable",
+            "scientific",
+            "several",
+            
+            "published",
+            "first"
+        ],
+        "davinci": [
+            
+            "frequent",
+            
+            "further",
+            "considerable",
+            "human-computer",
+            "notable",
+            "same",
+            "first",
+            "Long-term",
+            "1996-2013",
+            "2002-2013",
+            "2003-2007",
+            "unknown"
+        ]
+    },
+    "Stuart K. Card": {
+        "ada": [
+            
+            "frequent",
+            
+            
+            "human-computer",
+            "notable",
+            "scientific",
+            "anliowisseent",
+            "first",
+            
+            
+            ""
+        ],
+        "curie": [
+            
+            "frequent",
+            
+            
+            "human-computer",
+            "notable",
+            "first",
+            "scientific",
+            "greater",
+            "collaborative"
+        ],
+        "turbo": [
+            
+            "frequent",
+            
+            
+            "human-computer",
+            "notable",
+            "scientific",
+            "several",
+            
+            "co-authored",
+            "first",
+            "Overall",
+            "active",
+            "collaborative"
+        ],
+        "davinci": [
+            
+            "frequent",
+            
+            
+            "human-computer",
+            "notable",
+            "many",
+            "third",
+            "first",
+            "Long-term",
+            "prolific"
+        ]
+    },
+    "Achim Ebert": {
+        "ada": [
+            
+            "frequent",
+            
+            "ongoing",
+            "human-computer",
+            "notable",
+            "scientific",
+            "first"
+        ],
+        "curie": [
+            
+            "frequent",
+            
+            "ongoing",
+            "human-computer",
+            "notable",
+            "together.Anna",
+            "first",
+            "biomedical"
+        ],
+        "turbo": [
+            
+            "frequent",
+            
+            "ongoing",
+            "human-computer",
+            "notable",
+            "scientific",
+            "several",
+            "different",
+            
+            "noteworthy",
+            "first",
+            "Overall",
+            "multiple",
+            "various"
+        ],
+        "davinci": [
+            
+            "frequent",
+            
+            "ongoing",
+            "human-computer",
+            "notable",
+            "first",
+            "Collaborative",
+            "2013-present"
+        ]
+    },
+    "Mary C. Whitton": {
+        "ada": [
+            
+            "frequent",
+            
+            "virtual/mixed",
+            "notable",
+            "First",
+            "last",
+            "nonlinearheterodyne"
+        ],
+        "curie": [
+            
+            "frequent",
+            
+            "virtual/mixed",
+            "notable",
+            
+            "third",
+            "first",
+            "recent",
+            "biomedical",
+            "American"
+        ],
+        "turbo": [
+            
+            "frequent",
+            
+            "virtual/mixed",
+            "notable",
+            "scientific",
+            "several",
+            
+            "first",
+            "important"
+        ],
+        "davinci": [
+            
+            "frequent",
+            
+            "virtual/mixed",
+            "notable",
+            "first",
+            "Long-term",
+            "1999-present",
+            "1996-present",
+            "2002-2007"
+        ]
+    },
+    "Henry Fuchs": {
+        "ada": [
+            
+            "frequent",
+            
+            "prolonged",
+            
+            "ongoing",
+            "notable",
+            "scientific",
+            "following",
+            "third"
+        ],
+        "curie": [
+            
+            "frequent",
+            
+            "prolonged",
+            
+            "ongoing",
+            "notable",
+            "together.Ben",
+            "scientific",
+            "different",
+            "first"
+        ],
+        "turbo": [
+            
+            "frequent",
+            
+            "prolonged",
+            
+            "ongoing",
+            "notable",
+            "scientific",
+            "first",
+            "available",
+            "several",
+            "co-author"
+        ],
+        "davinci": [
+            
+            "frequent",
+            
+            "prolonged",
+            
+            "ongoing",
+            "notable",
+            "long",
+            "successful",
+            "first",
+            "long-term",
+            "Initial"
+        ]
+    },
+    "Dieter Schmalstieg": {
+        "ada": [
+            
+            "frequent",
+            
+            
+            "further",
+            "considerable",
+            "notable",
+            "scientific",
+            "recent",
+            
+            
+            "third",
+            "various"
+        ],
+        "curie": [
+            
+            "frequent",
+            
+            
+            "further",
+            "considerable",
+            "notable",
+            "scientific",
+            "Modern",
+            "modern",
+            "statistical",
+            "gene-centric",
+            "automated",
+            "social",
+            "Multi-View",
+            "multi-view"
+        ],
+        "turbo": [
+            
+            "frequent",
+            
+            
+            "further",
+            "considerable",
+            "notable",
+            "scientific",
+            "long",
+            "productive",
+            "strong",
+            "ongoing",
+            "important",
+            "long-standing",
+            "fruitful",
+            "recent",
+            "open",
+            "new",
+            "first",
+            "significant",
+            "previous",
+            "Overall",
+            "prolific",
+            "successful",
+            "several",
+            "multiple"
+        ],
+        "davinci": [
+            
+            "frequent",
+            
+            
+            "further",
+            "considerable",
+            "notable",
+            "first",
+            "interdisciplinary"
+        ]
+    },
+    "Anna Celler": {
+        "ada": [
+            
+            "frequent",
+            
+            "ongoing",
+            "biomedical",
+            "scientific",
+            "optional"
+        ],
+        "curie": [
+            
+            "frequent",
+            
+            "ongoing",
+            "biomedical",
+            "additional",
+            
+            "Next",
+            "productive",
+            "scientific",
+            "bioinformatician"
+        ],
+        "turbo": [
+            
+            "frequent",
+            
+            "ongoing",
+            "biomedical",
+            "scientific",
+            "first",
+            
+            "initial",
+            "extensive",
+            "co-authored"
+        ],
+        "davinci": [
+            
+            "frequent",
+            
+            "ongoing",
+            "biomedical",
+            "experienced",
+            "first",
+            
+            "Collaborative",
+            "bioinformatics-focused"
+        ]
+    },
+    "Ghassan Hamarneh": {
+        "ada": [
+            
+            "frequent",
+            
+            "biomedical",
+            "notable",
+            "scientific",
+            "powerful",
+            "female",
+            "never-ending",
+            "new",
+            "SI-1",
+            "dare.Alborz"
+        ],
+        "curie": [
+            
+            "frequent",
+            
+            "biomedical",
+            "notable",
+            "first",
+            "recent",
+            "dark",
+            "total",
+            "co-authors.Ben",
+            "bioinformatician",
+            "2011-2016"
+        ],
+        "turbo": [
+            
+            "frequent",
+            
+            "biomedical",
+            "notable",
+            "scientific",
+            "various",
+            
+            "first"
+        ],
+        "davinci": [
+            
+            "frequent",
+            
+            "biomedical",
+            "notable",
+            "scientific",
+            "first",
+            "Long-term",
+            "diverse"
+        ]
+    },
+    "Xenophon Papademetris": {
+        "ada": [
+            
+            "frequent",
+            
+            "ongoing",
+            "biomedical",
+            "notable",
+            "Research",
+            "co-author",
+            "Notable",
+            "scientific",
+            "FIRST",
+            
+            "first"
+        ],
+        "curie": [
+            
+            "frequent",
+            
+            "ongoing",
+            "biomedical",
+            "notable",
+            "scientific",
+            
+            "prolific",
+            "good",
+            "co-authors.Third",
+            "American",
+            "following"
+        ],
+        "turbo": [
+            
+            "frequent",
+            
+            "ongoing",
+            "biomedical",
+            "notable",
+            "scientific",
+            "multiple",
+            
+            "first",
+            "significant"
+        ],
+        "davinci": [
+            
+            "frequent",
+            
+            "ongoing",
+            "biomedical",
+            "notable",
+            "long",
+            "first",
+            "Long-term",
+            "interdisciplinary"
+        ]
+    },
+    "Penny Rheingans": {
+        "ada": [
+            
+            "frequent",
+            
+            "further",
+            "considerable",
+            "notable",
+            "scientific",
+            "many",
+            "first",
+            "several",
+            "enlarged",
+            "original"
+        ],
+        "curie": [
+            
+            "frequent",
+            
+            "further",
+            "considerable",
+            "notable",
+            "metastatic",
+            "human",
+            "pancreatic",
+            "flow",
+            "differential",
+            "cervical",
+            "cancerous",
+            "normal",
+            "strong",
+            "scientific",
+            "first",
+            "third"
+        ],
+        "turbo": [
+            
+            "frequent",
+            
+            "further",
+            "considerable",
+            "notable",
+            "scientific",
+            "numerous",
+            
+            "least",
+            "strong",
+            "productive",
+            "significant",
+            "successful",
+            "ongoing",
+            "early",
+            "first",
+            "available",
+            "fruitful",
+            "Overall"
+        ],
+        "davinci": [
+            
+            "frequent",
+            
+            "further",
+            "considerable",
+            "notable",
+            
+            "first",
+            "long-standing"
+        ]
+    },
+    "Marie desJardins": {
+        "ada": [
+            "frequent",
+            
+            "ongoing",
+            "notable",
+            "scientific",
+            "third",
+            "different",
+            "negativemathematical",
+            "environmental",
+            
+            "intellectual"
+        ],
+        "curie": [
+            "frequent",
+            
+            "ongoing",
+            "notable",
+            "American",
+            "first",
+            "third",
+            "years.Ben"
+        ],
+        "turbo": [
+            "frequent",
+            
+            "ongoing",
+            "notable",
+            "scientific",
+            "multiple",
+            
+            "first",
+            "available",
+            "significant"
+        ],
+        "davinci": [
+            "frequent",
+            
+            "ongoing",
+            "notable",
+            "first"
+        ]
+    },
+    "Carla E. Brodley": {
+        "ada": [
+            
+            "frequent",
+            
+            "notable",
+            "scientific",
+            "academic",
+            "uia.edu",
+            
+            "study",
+            ""
+        ],
+        "curie": [
+            
+            "frequent",
+            
+            "notable",
+            "eleven",
+            "co-authored",
+            "first",
+            "American",
+            "combined",
+            "graduate",
+            "recent"
+        ],
+        "turbo": [
+            
+            "frequent",
+            
+            "notable",
+            "scientific",
+            "co-authored",
+            "co-authoring",
+            "first"
+        ],
+        "davinci": [
+            
+            "frequent",
+            
+            "notable",
+            "scientific",
+            "first",
+            "1999-present",
+            "2010-2014",
+            "extensive",
+            "1996-2012"
+        ]
+    }
+}

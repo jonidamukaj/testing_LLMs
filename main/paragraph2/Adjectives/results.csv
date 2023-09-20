@@ -1,0 +1,81 @@
+Author,Model,Num_Adjectives,Top_Adjective_1,Top_Adjective_2
+Ben Shneiderman,ada,5,core,visual
+Ben Shneiderman,curie,5,core,visual
+Ben Shneiderman,turbo,9,core,visual
+Ben Shneiderman,davinci,6,core,visual
+Fabian Beck,ada,3,core,visual
+Fabian Beck,curie,3,core,visual
+Fabian Beck,turbo,6,core,visual
+Fabian Beck,davinci,3,core,visual
+Mary Jean Harrold,ada,2,similar,such
+Mary Jean Harrold,curie,2,similar,such
+Mary Jean Harrold,turbo,3,similar,scientific
+Mary Jean Harrold,davinci,1,similar,
+Stephan Diehl,ada,2,core,similar
+Stephan Diehl,curie,2,core,similar
+Stephan Diehl,turbo,5,core,similar
+Stephan Diehl,davinci,3,core,similar
+Daniel Weiskopf,ada,10,current,visual
+Daniel Weiskopf,curie,10,current,visual
+Daniel Weiskopf,turbo,9,current,visual
+Daniel Weiskopf,davinci,7,current,visual
+Michael Burch,ada,5,core,visual
+Michael Burch,curie,5,core,visual
+Michael Burch,turbo,5,core,visual
+Michael Burch,davinci,6,core,visual
+James A. Jones,ada,1,similar,
+James A. Jones,curie,1,similar,
+James A. Jones,turbo,2,similar,scientific
+James A. Jones,davinci,1,similar,
+Catherine Plaisant,ada,4,current,visual
+Catherine Plaisant,curie,4,current,visual
+Catherine Plaisant,turbo,9,current,visual
+Catherine Plaisant,davinci,5,current,visual
+Benjamin B. Bederson,ada,9,visual,human-computer
+Benjamin B. Bederson,curie,9,visual,human-computer
+Benjamin B. Bederson,turbo,9,visual,human-computer
+Benjamin B. Bederson,davinci,4,visual,human-computer
+Stuart K. Card,ada,3,visual,human-computer
+Stuart K. Card,curie,3,visual,human-computer
+Stuart K. Card,turbo,6,visual,human-computer
+Stuart K. Card,davinci,4,visual,human-computer
+Achim Ebert,ada,5,current,visual
+Achim Ebert,curie,5,current,visual
+Achim Ebert,turbo,7,current,visual
+Achim Ebert,davinci,6,current,visual
+Mary C. Whitton,ada,5,focus,medical
+Mary C. Whitton,curie,5,focus,medical
+Mary C. Whitton,turbo,9,focus,medical
+Mary C. Whitton,davinci,6,focus,medical
+Henry Fuchs,ada,5,focus,immersive
+Henry Fuchs,curie,5,focus,immersive
+Henry Fuchs,turbo,7,focus,immersive
+Henry Fuchs,davinci,5,focus,immersive
+Dieter Schmalstieg,ada,5,visual,scientific
+Dieter Schmalstieg,curie,5,visual,scientific
+Dieter Schmalstieg,turbo,6,visual,scientific
+Dieter Schmalstieg,davinci,6,visual,scientific
+Anna Celler,ada,5,focus,medical
+Anna Celler,curie,5,focus,medical
+Anna Celler,turbo,7,focus,medical
+Anna Celler,davinci,3,focus,medical
+Ghassan Hamarneh,ada,10,biomedical,similar
+Ghassan Hamarneh,curie,10,biomedical,similar
+Ghassan Hamarneh,turbo,7,biomedical,similar
+Ghassan Hamarneh,davinci,3,biomedical,similar
+Xenophon Papademetris,ada,4,focus,medical
+Xenophon Papademetris,curie,4,focus,medical
+Xenophon Papademetris,turbo,7,focus,medical
+Xenophon Papademetris,davinci,4,focus,medical
+Penny Rheingans,ada,7,core,time-oriented
+Penny Rheingans,curie,7,core,time-oriented
+Penny Rheingans,turbo,5,core,time-oriented
+Penny Rheingans,davinci,7,core,time-oriented
+Marie desJardins,ada,3,focus,time-oriented
+Marie desJardins,curie,3,focus,time-oriented
+Marie desJardins,turbo,4,focus,time-oriented
+Marie desJardins,davinci,4,focus,time-oriented
+Carla E. Brodley,ada,1,similar,
+Carla E. Brodley,curie,1,similar,
+Carla E. Brodley,turbo,2,similar,scientific
+Carla E. Brodley,davinci,1,similar,

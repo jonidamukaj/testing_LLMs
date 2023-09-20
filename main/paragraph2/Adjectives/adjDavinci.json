@@ -1,0 +1,129 @@
+{
+    "adjectives_per_author": {
+        "Ben Shneiderman": {
+            "core": 1,
+            "visual": 1,
+            "focus": 1,
+            "human-computer": 1,
+            "similar": 1,
+            "Similar": 1
+        },
+        "Fabian Beck": {
+            "core": 1,
+            "visual": 3,
+            "similar": 1
+        },
+        "Mary Jean Harrold": {
+            "similar": 2
+        },
+        "Stephan Diehl": {
+            "core": 1,
+            "similar": 1,
+            "Similar": 1
+        },
+        "Daniel Weiskopf": {
+            "current": 1,
+            "visual": 3,
+            "scientific": 2,
+            "flow": 1,
+            "graph": 1,
+            "multimedia": 1,
+            "similar": 1
+        },
+        "Michael Burch": {
+            "core": 1,
+            "visual": 3,
+            "graph": 1,
+            "similar": 2,
+            "alongside": 1,
+            "info": 1
+        },
+        "James A. Jones": {
+            "similar": 2
+        },
+        "Catherine Plaisant": {
+            "current": 1,
+            "visual": 3,
+            "human-computer": 3,
+            "similar": 1,
+            "Similar": 1
+        },
+        "Benjamin B. Bederson": {
+            "visual": 1,
+            "human-computer": 1,
+            "digital": 1,
+            "similar": 1
+        },
+        "Stuart K. Card": {
+            "visual": 3,
+            "human-computer": 3,
+            "similar": 1,
+            "Similar": 1
+        },
+        "Achim Ebert": {
+            "current": 1,
+            "visual": 1,
+            "human-computer": 1,
+            "similar": 2,
+            "info": 1,
+            "viz/visual": 1
+        },
+        "Mary C. Whitton": {
+            "focus": 1,
+            "medical": 1,
+            "virtual/mixed": 1,
+            "human-computer": 1,
+            "similar": 1,
+            "Medical": 1
+        },
+        "Henry Fuchs": {
+            "focus": 1,
+            "immersive": 2,
+            "virtual/mixed": 1,
+            "similar": 1,
+            "Immersive": 1
+        },
+        "Dieter Schmalstieg": {
+            "visual": 1,
+            "scientific": 1,
+            "virtual/mixed": 1,
+            "human-computer": 1,
+            "similar": 1,
+            "information/visual": 1
+        },
+        "Anna Celler": {
+            "focus": 1,
+            "medical": 3,
+            "biomedical": 3
+        },
+        "Ghassan Hamarneh": {
+            "biomedical": 1,
+            "similar": 1,
+            "Bioinformatics/Biomedical": 2
+        },
+        "Xenophon Papademetris": {
+            "focus": 1,
+            "medical": 2,
+            "biomedical": 2,
+            "similar": 2
+        },
+        "Penny Rheingans": {
+            "core": 1,
+            "time-oriented": 1,
+            "illustrative": 3,
+            "similar": 1,
+            "Time-oriented": 2,
+            "multivariate": 2,
+            "same": 1
+        },
+        "Marie desJardins": {
+            "focus": 1,
+            "time-oriented": 3,
+            "similar": 3,
+            "such": 1
+        },
+        "Carla E. Brodley": {
+            "similar": 2
+        }
+    }
+}

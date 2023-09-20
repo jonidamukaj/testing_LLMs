@@ -1,0 +1,599 @@
+{
+    "Ben Shneiderman": {
+        "ada": [
+            "core",
+            "visual",
+            "focus",
+            "human-computer",
+            "similar"
+        ],
+        "curie": [
+            "core",
+            "visual",
+            "focus",
+            "human-computer",
+            "similar"
+        ],
+        "turbo": [
+            "core",
+            "visual",
+            "focus",
+            "human-computer",
+            "similar",
+            "prominent",
+            "scientific",
+            "such",
+            "Human-computer"
+        ],
+        "davinci": [
+            "core",
+            "visual",
+            "focus",
+            "human-computer",
+            "similar",
+            "Similar"
+        ]
+    },
+    "Fabian Beck": {
+        "ada": [
+            "core",
+            "visual",
+            "similar"
+        ],
+        "curie": [
+            "core",
+            "visual",
+            "similar"
+        ],
+        "turbo": [
+            "core",
+            "visual",
+            "similar",
+            "scientific",
+            "primary",
+            "complex"
+        ],
+        "davinci": [
+            "core",
+            "visual",
+            "similar"
+        ]
+    },
+    "Mary Jean Harrold": {
+        "ada": [
+            "similar",
+            "such"
+        ],
+        "curie": [
+            "similar",
+            "such"
+        ],
+        "turbo": [
+            "similar",
+            "scientific",
+            "such"
+        ],
+        "davinci": [
+            "similar"
+        ]
+    },
+    "Stephan Diehl": {
+        "ada": [
+            "core",
+            "similar"
+        ],
+        "curie": [
+            "core",
+            "similar"
+        ],
+        "turbo": [
+            "core",
+            "similar",
+            "scientific",
+            "available",
+            "specific"
+        ],
+        "davinci": [
+            "core",
+            "similar",
+            "Similar"
+        ]
+    },
+    "Daniel Weiskopf": {
+        "ada": [
+            "current",
+            "visual",
+            "scientific",
+            "flow",
+            "graph",
+            "multimedia",
+            "similar",
+            "likely",
+            "great",
+            "effective"
+        ],
+        "curie": [
+            "current",
+            "visual",
+            "scientific",
+            "flow",
+            "graph",
+            "multimedia",
+            "similar",
+            "likely",
+            "great",
+            "effective"
+        ],
+        "turbo": [
+            "current",
+            "visual",
+            "scientific",
+            "flow",
+            "graph",
+            "multimedia",
+            "similar",
+            "well-respected",
+            "well-known"
+        ],
+        "davinci": [
+            "current",
+            "visual",
+            "scientific",
+            "flow",
+            "graph",
+            "multimedia",
+            "similar"
+        ]
+    },
+    "Michael Burch": {
+        "ada": [
+            "core",
+            "visual",
+            "graph",
+            "similar",
+            "igan"
+        ],
+        "curie": [
+            "core",
+            "visual",
+            "graph",
+            "similar",
+            "igan"
+        ],
+        "turbo": [
+            "core",
+            "visual",
+            "graph",
+            "similar",
+            "scientific"
+        ],
+        "davinci": [
+            "core",
+            "visual",
+            "graph",
+            "similar",
+            "alongside",
+            "info"
+        ]
+    },
+    "James A. Jones": {
+        "ada": [
+            "similar"
+        ],
+        "curie": [
+            "similar"
+        ],
+        "turbo": [
+            "similar",
+            "scientific"
+        ],
+        "davinci": [
+            "similar"
+        ]
+    },
+    "Catherine Plaisant": {
+        "ada": [
+            "current",
+            "visual",
+            "human-computer",
+            "similar"
+        ],
+        "curie": [
+            "current",
+            "visual",
+            "human-computer",
+            "similar"
+        ],
+        "turbo": [
+            "current",
+            "visual",
+            "human-computer",
+            "similar",
+            "respected",
+            "scientific",
+            "active",
+            "notable",
+            "Similar"
+        ],
+        "davinci": [
+            "current",
+            "visual",
+            "human-computer",
+            "similar",
+            "Similar"
+        ]
+    },
+    "Benjamin B. Bederson": {
+        "ada": [
+            "visual",
+            "human-computer",
+            "digital",
+            "similar",
+            "such",
+            "prominent",
+            "respective",
+            "likely",
+            "respected"
+        ],
+        "curie": [
+            "visual",
+            "human-computer",
+            "digital",
+            "similar",
+            "such",
+            "prominent",
+            "respective",
+            "likely",
+            "respected"
+        ],
+        "turbo": [
+            "visual",
+            "human-computer",
+            "digital",
+            "similar",
+            "prominent",
+            "scientific",
+            "broad",
+            "other",
+            "notable"
+        ],
+        "davinci": [
+            "visual",
+            "human-computer",
+            "digital",
+            "similar"
+        ]
+    },
+    "Stuart K. Card": {
+        "ada": [
+            "visual",
+            "human-computer",
+            "similar"
+        ],
+        "curie": [
+            "visual",
+            "human-computer",
+            "similar"
+        ],
+        "turbo": [
+            "visual",
+            "human-computer",
+            "similar",
+            "prominent",
+            "scientific",
+            "extensive"
+        ],
+        "davinci": [
+            "visual",
+            "human-computer",
+            "similar",
+            "Similar"
+        ]
+    },
+    "Achim Ebert": {
+        "ada": [
+            "current",
+            "visual",
+            "human-computer",
+            "similar",
+            "digital"
+        ],
+        "curie": [
+            "current",
+            "visual",
+            "human-computer",
+            "similar",
+            "digital"
+        ],
+        "turbo": [
+            "current",
+            "visual",
+            "human-computer",
+            "similar",
+            "prominent",
+            "strong",
+            "renowned"
+        ],
+        "davinci": [
+            "current",
+            "visual",
+            "human-computer",
+            "similar",
+            "info",
+            "viz/visual"
+        ]
+    },
+    "Mary C. Whitton": {
+        "ada": [
+            "focus",
+            "medical",
+            "virtual/mixed",
+            "human-computer",
+            "similar"
+        ],
+        "curie": [
+            "focus",
+            "medical",
+            "virtual/mixed",
+            "human-computer",
+            "similar"
+        ],
+        "turbo": [
+            "focus",
+            "medical",
+            "virtual/mixed",
+            "human-computer",
+            "similar",
+            "scientific",
+            "prominent",
+            "virtual",
+            "mixed"
+        ],
+        "davinci": [
+            "focus",
+            "medical",
+            "virtual/mixed",
+            "human-computer",
+            "similar",
+            "Medical"
+        ]
+    },
+    "Henry Fuchs": {
+        "ada": [
+            "focus",
+            "immersive",
+            "virtual/mixed",
+            "similar",
+            "realistic"
+        ],
+        "curie": [
+            "focus",
+            "immersive",
+            "virtual/mixed",
+            "similar",
+            "realistic"
+        ],
+        "turbo": [
+            "focus",
+            "immersive",
+            "virtual/mixed",
+            "similar",
+            "scientific",
+            "Other",
+            "Similar"
+        ],
+        "davinci": [
+            "focus",
+            "immersive",
+            "virtual/mixed",
+            "similar",
+            "Immersive"
+        ]
+    },
+    "Dieter Schmalstieg": {
+        "ada": [
+            "visual",
+            "scientific",
+            "virtual/mixed",
+            "human-computer",
+            "similar"
+        ],
+        "curie": [
+            "visual",
+            "scientific",
+            "virtual/mixed",
+            "human-computer",
+            "similar"
+        ],
+        "turbo": [
+            "visual",
+            "scientific",
+            "virtual/mixed",
+            "human-computer",
+            "similar",
+            "Other"
+        ],
+        "davinci": [
+            "visual",
+            "scientific",
+            "virtual/mixed",
+            "human-computer",
+            "similar",
+            "information/visual"
+        ]
+    },
+    "Anna Celler": {
+        "ada": [
+            "focus",
+            "medical",
+            "biomedical",
+            "similar",
+            "same"
+        ],
+        "curie": [
+            "focus",
+            "medical",
+            "biomedical",
+            "similar",
+            "same"
+        ],
+        "turbo": [
+            "focus",
+            "medical",
+            "biomedical",
+            "scientific",
+            "other",
+            "similar",
+            "Scientific"
+        ],
+        "davinci": [
+            "focus",
+            "medical",
+            "biomedical"
+        ]
+    },
+    "Ghassan Hamarneh": {
+        "ada": [
+            "biomedical",
+            "similar",
+            "bioinformatician",
+            "genomic",
+            "various",
+            "such",
+            "transcriptional",
+            "graphic",
+            "Several",
+            "other"
+        ],
+        "curie": [
+            "biomedical",
+            "similar",
+            "bioinformatician",
+            "genomic",
+            "various",
+            "such",
+            "transcriptional",
+            "graphic",
+            "Several",
+            "other"
+        ],
+        "turbo": [
+            "biomedical",
+            "similar",
+            "prominent",
+            "available",
+            "specific",
+            "notable",
+            "scientific"
+        ],
+        "davinci": [
+            "biomedical",
+            "similar",
+            "Bioinformatics/Biomedical"
+        ]
+    },
+    "Xenophon Papademetris": {
+        "ada": [
+            "focus",
+            "medical",
+            "biomedical",
+            "similar"
+        ],
+        "curie": [
+            "focus",
+            "medical",
+            "biomedical",
+            "similar"
+        ],
+        "turbo": [
+            "focus",
+            "medical",
+            "biomedical",
+            "similar",
+            "scientific",
+            "active",
+            "such"
+        ],
+        "davinci": [
+            "focus",
+            "medical",
+            "biomedical",
+            "similar"
+        ]
+    },
+    "Penny Rheingans": {
+        "ada": [
+            "core",
+            "time-oriented",
+            "illustrative",
+            "similar",
+            "various",
+            "such",
+            "multivariate"
+        ],
+        "curie": [
+            "core",
+            "time-oriented",
+            "illustrative",
+            "similar",
+            "various",
+            "such",
+            "multivariate"
+        ],
+        "turbo": [
+            "core",
+            "time-oriented",
+            "illustrative",
+            "similar",
+            "Other"
+        ],
+        "davinci": [
+            "core",
+            "time-oriented",
+            "illustrative",
+            "similar",
+            "Time-oriented",
+            "multivariate",
+            "same"
+        ]
+    },
+    "Marie desJardins": {
+        "ada": [
+            "focus",
+            "time-oriented",
+            "similar"
+        ],
+        "curie": [
+            "focus",
+            "time-oriented",
+            "similar"
+        ],
+        "turbo": [
+            "focus",
+            "time-oriented",
+            "similar",
+            "scientific"
+        ],
+        "davinci": [
+            "focus",
+            "time-oriented",
+            "similar",
+            "such"
+        ]
+    },
+    "Carla E. Brodley": {
+        "ada": [
+            "similar"
+        ],
+        "curie": [
+            "similar"
+        ],
+        "turbo": [
+            "similar",
+            "scientific"
+        ],
+        "davinci": [
+            "similar"
+        ]
+    }
+}
