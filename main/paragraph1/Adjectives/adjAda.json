@@ -1,0 +1,191 @@
+{
+    "adjectives_per_author": {
+        "Ben Shneiderman": {
+            "active": 1,
+            "longtime": 1,
+            "more": 1,
+            "past": 4,
+            "new": 1
+        },
+        "Fabian Beck": {
+            "Fabian": 1,
+            "active": 1,
+            "journal": 1,
+            "total": 1,
+            "first": 1,
+            "Multi-Dimensional": 1,
+            "little": 1,
+            "different": 1
+        },
+        "Mary Jean Harrold": {
+            "Mary": 1,
+            "active": 1,
+            "longtime": 1,
+            "more": 1,
+            "undergraduate": 1,
+            "American": 2,
+            "past": 1,
+            "major": 1,
+            "numerous": 1,
+            "regular": 1,
+            "annual": 1
+        },
+        "Stephan Diehl": {
+            "active": 1,
+            "longtime": 1,
+            "more": 1,
+            "Semantics-directed": 1,
+            "abstract": 1,
+            "journal": 1,
+            "hard": 1,
+            "cardiovascular": 1
+        },
+        "Daniel Weiskopf": {
+            "active": 1,
+            "more": 1,
+            "molecular": 1,
+            "genetic": 1,
+            "past": 1,
+            "chronic": 1,
+            "full-time": 1,
+            "other": 1
+        },
+        "Michael Burch": {
+            "active": 1,
+            "more": 1,
+            "most": 1,
+            "journal": 1,
+            "regular": 1,
+            "several": 1
+        },
+        "James A. Jones": {
+            "longtime": 1,
+            "journal": 2,
+            "total": 1,
+            "first": 1,
+            "Semi-automatic": 1,
+            "Cross-Cultural": 1,
+            "author/inferior": 1,
+            "past": 1
+        },
+        "Catherine Plaisant": {
+            "active": 1,
+            "longtime": 1,
+            "more": 1,
+            "entire": 1,
+            "includingbourne": 1,
+            "strategic": 1,
+            "journal": 1,
+            "several": 1,
+            "retired": 1,
+            "high": 1
+        },
+        "Benjamin B. Bederson": {
+            "active": 1,
+            "longtime": 1,
+            "more": 1,
+            "most": 1,
+            "professional": 1,
+            "journal": 1
+        },
+        "Stuart K. Card": {
+            "journal": 2,
+            "total": 1,
+            "first": 1,
+            "most": 1,
+            "deputy": 1
+        },
+        "Achim Ebert": {
+            "active": 1,
+            "longtime": 1,
+            "more": 1,
+            "most": 1,
+            "Context-sensitive": 1,
+            "w3-comic": 1,
+            "online": 1
+        },
+        "Mary C. Whitton": {
+            "longtime": 1,
+            "most": 1,
+            "journal": 1,
+            "total": 1,
+            "first": 1,
+            "senior": 1
+        },
+        "Henry Fuchs": {
+            "active": 1,
+            "longtime": 1,
+            "more": 1,
+            "other": 1,
+            "such": 1,
+            "nose": 1,
+            "mouth": 1,
+            "journal": 1,
+            "in30": 1
+        },
+        "Dieter Schmalstieg": {
+            "active": 1,
+            "longtime": 1,
+            "more": 1
+        },
+        "Anna Celler": {
+            "active": 1,
+            "journal": 1,
+            "total": 1,
+            "first": 1,
+            "past": 2,
+            "post-doctoral": 1,
+            "associate": 1,
+            "atronational": 1,
+            "2000-2002": 1
+        },
+        "Ghassan Hamarneh": {
+            "active": 1,
+            "more": 1,
+            "self-esteem": 1,
+            "mental": 2,
+            "social": 1,
+            "environmental": 1,
+            "human": 1,
+            "Environmental": 1,
+            "Environmentexternal": 1,
+            "prestigious": 2,
+            "American": 1
+        },
+        "Xenophon Papademetris": {
+            "longtime": 1,
+            "most": 1,
+            "journal": 2,
+            "total": 1,
+            "first": 1,
+            "social": 1,
+            "various": 1
+        },
+        "Penny Rheingans": {
+            "longtime": 1,
+            "most": 1,
+            "journal": 1,
+            "total": 1,
+            "first": 1,
+            "following": 1
+        },
+        "Marie desJardins": {
+            "longtime": 1,
+            "journal": 1,
+            "total": 1,
+            "first": 1,
+            "past": 1
+        },
+        "Carla E. Brodley": {
+            "longtime": 1,
+            "journal": 1,
+            "total": 1,
+            "first": 1,
+            "in284": 1,
+            "website": 4,
+            "past": 2,
+            "many": 2,
+            "different": 2
+        }
+    }
+}

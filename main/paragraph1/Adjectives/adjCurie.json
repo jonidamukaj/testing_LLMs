@@ -1,0 +1,205 @@
+{
+    "adjectives_per_author": {
+        "Ben Shneiderman": {
+            "active": 1,
+            "longtime": 1,
+            "more": 1,
+            "prominent": 1,
+            "scientific": 1,
+            "journal": 2,
+            "molecular": 1,
+            "important": 1,
+            "new": 1,
+            "respected": 1,
+            "significant": 1,
+            "eminent": 1,
+            "peer-reviewed": 1
+        },
+        "Fabian Beck": {
+            "Fabian": 1,
+            "active": 1,
+            "journal": 3,
+            "total": 1,
+            "first": 1,
+            "Multi-Dimensional": 1,
+            "scientific": 1,
+            "other": 1,
+            "various": 1
+        },
+        "Mary Jean Harrold": {
+            "Mary": 1,
+            "active": 1,
+            "longtime": 1,
+            "more": 1,
+            "scientific": 2,
+            "journal": 1,
+            "recent": 1,
+            "human": 1
+        },
+        "Stephan Diehl": {
+            "active": 1,
+            "longtime": 1,
+            "more": 1,
+            "Semantics-directed": 1,
+            "abstract": 1,
+            "scientific": 1,
+            "journal": 2,
+            "other": 1,
+            "non-peer-reviewed": 1
+        },
+        "Daniel Weiskopf": {
+            "active": 1,
+            "more": 3,
+            "scientific": 1,
+            "journal": 2,
+            "other": 3
+        },
+        "Michael Burch": {
+            "active": 1,
+            "more": 1,
+            "most": 1,
+            "journal": 2,
+            "peer-reviewed": 2,
+            "molecular": 1,
+            "cellular": 1,
+            "developmental": 1
+        },
+        "James A. Jones": {
+            "longtime": 1,
+            "journal": 3,
+            "total": 1,
+            "first": 1,
+            "Semi-automatic": 1,
+            "scientific": 1,
+            "high": 1,
+            "environmental": 1
+        },
+        "Catherine Plaisant": {
+            "active": 1,
+            "longtime": 1,
+            "more": 1,
+            "journal": 3,
+            "last": 1,
+            "evolutionary": 2,
+            "such": 1,
+            "significant": 1,
+            "scientific": 1,
+            "atmospheric": 1
+        },
+        "Benjamin B. Bederson": {
+            "active": 1,
+            "longtime": 1,
+            "more": 1,
+            "most": 1,
+            "journal": 2,
+            "significant": 1,
+            "environmental": 1,
+            "public": 1
+        },
+        "Stuart K. Card": {
+            "journal": 3,
+            "total": 1,
+            "first": 1,
+            "scientific": 2,
+            "other": 1
+        },
+        "Achim Ebert": {
+            "active": 1,
+            "longtime": 1,
+            "more": 1,
+            "most": 1,
+            "Context-sensitive": 1,
+            "scientific": 1,
+            "journal": 2,
+            "total": 1,
+            "human": 1
+        },
+        "Mary C. Whitton": {
+            "longtime": 1,
+            "most": 1,
+            "journal": 3,
+            "total": 1,
+            "first": 1,
+            "scientific": 1,
+            "animal": 2,
+            "significant": 1,
+            "numerous": 1
+        },
+        "Henry Fuchs": {
+            "active": 1,
+            "longtime": 1,
+            "more": 1,
+            "journal": 2
+        },
+        "Dieter Schmalstieg": {
+            "active": 1,
+            "longtime": 1,
+            "more": 1,
+            "scientific": 2,
+            "journal": 2,
+            "peer-reviewed": 1
+        },
+        "Anna Celler": {
+            "active": 1,
+            "journal": 3,
+            "total": 1,
+            "first": 1,
+            "environmental": 1,
+            "scientific": 1
+        },
+        "Ghassan Hamarneh": {
+            "active": 2,
+            "more": 1,
+            "scientific": 2,
+            "journal": 2,
+            "recent": 1,
+            "biomedical": 1,
+            "particular": 1,
+            "molecular": 1,
+            "total": 1
+        },
+        "Xenophon Papademetris": {
+            "longtime": 1,
+            "most": 1,
+            "journal": 3,
+            "total": 1,
+            "first": 1,
+            "scientific": 2,
+            "peer-reviewed": 1,
+            "other": 1,
+            "major": 1,
+            "environmental": 1
+        },
+        "Penny Rheingans": {
+            "longtime": 1,
+            "most": 1,
+            "journal": 4,
+            "total": 2,
+            "first": 1,
+            "scientific": 1,
+            "frequent": 1,
+            "other": 1,
+            "physical": 1
+        },
+        "Marie desJardins": {
+            "longtime": 1,
+            "journal": 3,
+            "total": 1,
+            "first": 1,
+            "scientific": 1,
+            "open-access": 1,
+            "environmental": 1,
+            "peer-reviewed": 1
+        },
+        "Carla E. Brodley": {
+            "longtime": 1,
+            "journal": 4,
+            "total": 1,
+            "first": 1,
+            "scientific": 2,
+            "molecular": 1,
+            "cellular": 1,
+            "other": 1
+        }
+    }
+}

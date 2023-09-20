@@ -1,0 +1,223 @@
+{
+    "adjectives_per_author": {
+        "Ben Shneiderman": {
+            "active": 2,
+            "longtime": 1,
+            "more": 1,
+            "prolific": 2,
+            "journal": 2,
+            "extensive": 1,
+            "academic": 1,
+            "several": 1
+        },
+        "Fabian Beck": {
+            "Fabian": 1,
+            "active": 1,
+            "journal": 3,
+            "total": 1,
+            "first": 1,
+            "Multi-Dimensional": 1,
+            "proceedings": 1,
+            "prolific": 1
+        },
+        "Mary Jean Harrold": {
+            "Mary": 1,
+            "active": 1,
+            "longtime": 1,
+            "more": 1,
+            "journal": 3,
+            "significant": 1,
+            "academic": 1,
+            "Overall": 1,
+            "strong": 1,
+            "experienced": 1,
+            "proceedings": 1
+        },
+        "Stephan Diehl": {
+            "active": 1,
+            "longtime": 1,
+            "more": 1,
+            "Semantics-directed": 1,
+            "abstract": 1,
+            "journal": 2,
+            "significant": 1,
+            "diverse": 1,
+            "strong": 1,
+            "academic": 1,
+            "scientific": 1,
+            "Overall": 1,
+            "extensive": 1,
+            "dedicated": 1,
+            "prolific": 2
+        },
+        "Daniel Weiskopf": {
+            "active": 1,
+            "more": 1,
+            "reputable": 1,
+            "substantial": 1,
+            "scientific": 2,
+            "journal": 1,
+            "in-depth": 1,
+            "various": 1,
+            "academic": 1,
+            "Overall": 1,
+            "impressive": 1,
+            "prolific": 1
+        },
+        "Michael Burch": {
+            "active": 1,
+            "more": 1,
+            "most": 1,
+            "significant": 2,
+            "journal": 2,
+            "proceedings": 1,
+            "sustained": 1,
+            "successful": 1,
+            "various": 1,
+            "scholarly": 1,
+            "strong": 1,
+            "high": 1,
+            "prolific": 1
+        },
+        "James A. Jones": {
+            "longtime": 1,
+            "journal": 3,
+            "total": 1,
+            "first": 1,
+            "Semi-automatic": 1,
+            "prolific": 1,
+            "proceedings": 1,
+            "present": 1
+        },
+        "Catherine Plaisant": {
+            "active": 1,
+            "longtime": 1,
+            "more": 1,
+            "prominent": 1,
+            "journal": 2,
+            "proceedings": 1,
+            "prolific": 1
+        },
+        "Benjamin B. Bederson": {
+            "active": 2,
+            "longtime": 1,
+            "more": 1,
+            "most": 1,
+            "prominent": 1,
+            "significant": 1,
+            "strong": 1,
+            "journal": 2,
+            "high": 1,
+            "academic": 1,
+            "Overall": 1,
+            "extensive": 1,
+            "prolific": 1
+        },
+        "Stuart K. Card": {
+            "journal": 3,
+            "total": 1,
+            "first": 1,
+            "significant": 2,
+            "active": 1,
+            "wide": 1,
+            "proceedings": 1
+        },
+        "Achim Ebert": {
+            "active": 1,
+            "longtime": 1,
+            "more": 1,
+            "most": 1,
+            "Context-sensitive": 1,
+            "journal": 2,
+            "prolific": 1
+        },
+        "Mary C. Whitton": {
+            "longtime": 1,
+            "most": 1,
+            "journal": 3,
+            "total": 1,
+            "first": 1,
+            "proceedings": 1,
+            "prolific": 1
+        },
+        "Henry Fuchs": {
+            "active": 1,
+            "longtime": 1,
+            "more": 1,
+            "substantial": 1,
+            "journal": 1,
+            "diverse": 1,
+            "significant": 2,
+            "prolific": 1,
+            "numerous": 1
+        },
+        "Dieter Schmalstieg": {
+            "active": 1,
+            "longtime": 1,
+            "more": 1,
+            "prolific": 2,
+            "significant": 1,
+            "journal": 2,
+            "strong": 1,
+            "prestigious": 1
+        },
+        "Anna Celler": {
+            "active": 1,
+            "journal": 3,
+            "total": 1,
+            "first": 1,
+            "proceedings": 1
+        },
+        "Ghassan Hamarneh": {
+            "active": 1,
+            "more": 1,
+            "prolific": 2,
+            "journal": 2,
+            "substantial": 1,
+            "scientific": 1,
+            "peer-reviewed": 1,
+            "Overall": 1,
+            "significant": 1,
+            "extensive": 1
+        },
+        "Xenophon Papademetris": {
+            "longtime": 1,
+            "most": 1,
+            "journal": 3,
+            "total": 1,
+            "first": 1,
+            "prolific": 1
+        },
+        "Penny Rheingans": {
+            "longtime": 1,
+            "most": 1,
+            "journal": 3,
+            "total": 1,
+            "first": 1,
+            "proceedings": 1,
+            "experienced": 1
+        },
+        "Marie desJardins": {
+            "longtime": 1,
+            "journal": 3,
+            "total": 1,
+            "first": 1,
+            "prolific": 2,
+            "proceedings": 1,
+            "long-standing": 1,
+            "substantial": 1,
+            "diverse": 1
+        },
+        "Carla E. Brodley": {
+            "longtime": 1,
+            "journal": 3,
+            "total": 1,
+            "first": 1,
+            "academic": 1,
+            "substantial": 1,
+            "scientific": 1,
+            "significant": 1,
+            "prolific": 1
+        }
+    }
+}

@@ -1,0 +1,114 @@
+[
+    {
+        "Metric Group 1": "F1_Score",
+        "Metric Group 2": "Consistency",
+        "T-Statistic": -4.21579016583742,
+        "P-Value": 0.005587222052723582,
+        "Significant Difference": "Yes"
+    },
+    {
+        "Metric Group 1": "F1_Score",
+        "Metric Group 2": "Coherence",
+        "T-Statistic": -3.562605752074996,
+        "P-Value": 0.011889718514774713,
+        "Significant Difference": "Yes"
+    },
+    {
+        "Metric Group 1": "F1_Score",
+        "Metric Group 2": "Relevance",
+        "T-Statistic": -3.0677958137327557,
+        "P-Value": 0.02200408435622687,
+        "Significant Difference": "Yes"
+    },
+    {
+        "Metric Group 1": "F1_Score",
+        "Metric Group 2": "Fluency",
+        "T-Statistic": -8.572143330671553,
+        "P-Value": 0.00013841970678245022,
+        "Significant Difference": "Yes"
+    },
+    {
+        "Metric Group 1": "Rouge1",
+        "Metric Group 2": "Consistency",
+        "T-Statistic": -4.136056505857554,
+        "P-Value": 0.00610548328487761,
+        "Significant Difference": "Yes"
+    },
+    {
+        "Metric Group 1": "Rouge1",
+        "Metric Group 2": "Coherence",
+        "T-Statistic": -3.4742715869935856,
+        "P-Value": 0.013234635213672425,
+        "Significant Difference": "Yes"
+    },
+    {
+        "Metric Group 1": "Rouge1",
+        "Metric Group 2": "Relevance",
+        "T-Statistic": -2.9840500683018956,
+        "P-Value": 0.024507948207130162,
+        "Significant Difference": "Yes"
+    },
+    {
+        "Metric Group 1": "Rouge1",
+        "Metric Group 2": "Fluency",
+        "T-Statistic": -8.604463615234872,
+        "P-Value": 0.00013553092840304444,
+        "Significant Difference": "Yes"
+    },
+    {
+        "Metric Group 1": "Rouge2",
+        "Metric Group 2": "Consistency",
+        "T-Statistic": -4.44727238585543,
+        "P-Value": 0.004341827020397492,
+        "Significant Difference": "Yes"
+    },
+    {
+        "Metric Group 1": "Rouge2",
+        "Metric Group 2": "Coherence",
+        "T-Statistic": -3.8004049681057763,
+        "P-Value": 0.00896355298488398,
+        "Significant Difference": "Yes"
+    },
+    {
+        "Metric Group 1": "Rouge2",
+        "Metric Group 2": "Relevance",
+        "T-Statistic": -3.262626214271722,
+        "P-Value": 0.01719216708414385,
+        "Significant Difference": "Yes"
+    },
+    {
+        "Metric Group 1": "Rouge2",
+        "Metric Group 2": "Fluency",
+        "T-Statistic": -9.142923129778445,
+        "P-Value": 9.631659028739854e-05,
+        "Significant Difference": "Yes"
+    },
+    {
+        "Metric Group 1": "Bleu",
+        "Metric Group 2": "Consistency",
+        "T-Statistic": -4.63133654794511,
+        "P-Value": 0.0035726976652830774,
+        "Significant Difference": "Yes"
+    },
+    {
+        "Metric Group 1": "Bleu",
+        "Metric Group 2": "Coherence",
+        "T-Statistic": -3.9922853830831664,
+        "P-Value": 0.0071818452128467715,
+        "Significant Difference": "Yes"
+    },
+    {
+        "Metric Group 1": "Bleu",
+        "Metric Group 2": "Relevance",
+        "T-Statistic": -3.4243671951865444,
+        "P-Value": 0.014068090825708673,
+        "Significant Difference": "Yes"
+    },
+    {
+        "Metric Group 1": "Bleu",
+        "Metric Group 2": "Fluency",
+        "T-Statistic": -9.505392665003988,
+        "P-Value": 7.729061895750343e-05,
+        "Significant Difference": "Yes"
+    }
+]
