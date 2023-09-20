@@ -1,0 +1,701 @@
+{
+    "Ben Shneiderman": {
+        "ada": [
+            "active",
+            "longtime",
+            "past",
+            "new"
+        ],
+        "curie": [
+            "active",
+            "longtime",
+            "prominent",
+            "scientific",
+            "molecular",
+            "important",
+            "new",
+            "respected",
+            "significant",
+            "eminent",
+            "peer-reviewed"
+        ],
+        "turbo": [
+            "active",
+            "longtime",
+            "prolific",
+            "extensive",
+            "academic",
+            "several"
+        ],
+        "davinci": [
+            "active",
+            "longtime",
+            "prolific"        ]
+    },
+    "Fabian Beck": {
+        "ada": [
+            "active",
+            "total",
+            "first",
+            "Multi-Dimensional",
+            "little",
+            "different"
+        ],
+        "curie": [
+            "active",
+            "total",
+            "first",
+            "Multi-Dimensional",
+            "scientific",
+            "other",
+            "various"
+        ],
+        "turbo": [
+            "active",
+            "total",
+            "first",
+            "Multi-Dimensional",
+            "proceedings",
+            "prolific"
+        ],
+        "davinci": [
+            "active",
+            "total",
+            "first",
+            "Multi-Dimensional"
+        ]
+    },
+    "Mary Jean Harrold": {
+        "ada": [
+            "active",
+            "longtime",
+            "undergraduate",
+            "American",
+            "past",
+            "major",
+            "numerous",
+            "regular",
+            "annual"
+        ],
+        "curie": [
+
+            "active",
+            "longtime",
+            "scientific",
+            "recent",
+            "human"
+        ],
+        "turbo": [
+            "active",
+            "longtime",
+            "significant",
+            "academic",
+            "Overall",
+            "strong",
+            "experienced",
+            "proceedings"
+        ],
+        "davinci": [
+
+            "active",
+            "longtime",
+            "impressive",
+            "1989-present"
+        ]
+    },
+    "Stephan Diehl": {
+        "ada": [
+            "active",
+            "longtime",
+            "Semantics-directed",
+            "abstract",
+            "hard",
+            "cardiovascular"
+        ],
+        "curie": [
+            "active",
+            "longtime",
+            "Semantics-directed",
+            "abstract",
+            "scientific",
+            "other",
+            "non-peer-reviewed"
+        ],
+        "turbo": [
+            "active",
+            "longtime",
+            "Semantics-directed",
+            "significant",
+            "diverse",
+            "strong",
+            "academic",
+            "scientific",
+            "Overall",
+            "extensive",
+            "dedicated",
+            "prolific"
+        ],
+        "davinci": [
+            "active",
+            "longtime",
+            "Semantics-directed",
+            "abstract"
+        ]
+    },
+    "Daniel Weiskopf": {
+        "ada": [
+            "active",
+            "molecular",
+            "genetic",
+            "past",
+            "chronic",
+            "full-time",
+            "other"
+        ],
+        "curie": [
+            "active",
+            "scientific",
+            "other"
+        ],
+        "turbo": [
+            "active",
+            "reputable",
+            "substantial",
+            "scientific",
+            "in-depth",
+            "various",
+            "academic",
+            "Overall",
+            "impressive",
+            "prolific"
+        ],
+        "davinci": [
+            "active",
+            "productive",
+            "academic"
+        ]
+    },
+    "Michael Burch": {
+        "ada": [
+            "active",
+            "regular",
+            "several"
+        ],
+        "curie": [
+            "active",
+            "peer-reviewed",
+            "molecular",
+            "cellular",
+            "developmental"
+        ],
+        "turbo": [
+            "active",
+            "significant",
+            "proceedings",
+            "sustained",
+            "successful",
+            "various",
+            "scholarly",
+            "strong",
+            "high",
+            "prolific"
+        ],
+        "davinci": [
+            "active",
+            
+            "experienced",
+            "scientific",
+            "many",
+            "respected"
+        ]
+    },
+    "James A. Jones": {
+        "ada": [
+            "longtime",
+            "total",
+            "first",
+            "Semi-automatic",
+            "Cross-Cultural",
+            "author/inferior",
+            "past"
+        ],
+        "curie": [
+            "longtime",
+            "total",
+            "first",
+            "Semi-automatic",
+            "scientific",
+            "high",
+            "environmental"
+        ],
+        "turbo": [
+            "longtime",
+            "total",
+            "first",
+            "Semi-automatic",
+            "prolific",
+            "proceedings",
+            "present"
+        ],
+        "davinci": [
+            "longtime",
+            "total",
+            "first",
+            "Semi-automatic",
+            "productive"
+        ]
+    },
+    "Catherine Plaisant": {
+        "ada": [
+            "active",
+            "longtime",
+            "entire",
+            "includingbourne",
+            "strategic",
+            "several",
+            "retired",
+            "high"
+        ],
+        "curie": [
+            "active",
+            "longtime",
+            "last",
+            "evolutionary",
+            "such",
+            "significant",
+            "scientific",
+            "atmospheric"
+        ],
+        "turbo": [
+            "active",
+            "longtime",
+            "prominent",
+            "proceedings",
+            "prolific"
+        ],
+        "davinci": [
+            "active",
+            "longtime",
+            "experienced",
+            "extensive"
+        ]
+    },
+    "Benjamin B. Bederson": {
+        "ada": [
+            "active",
+            "longtime",
+            "professional"
+        ],
+        "curie": [
+            "active",
+            "longtime",
+            "significant",
+            "environmental",
+            "public"
+        ],
+        "turbo": [
+            "active",
+            "longtime",
+            "prominent",
+            "significant",
+            "strong",
+            "high",
+            "academic",
+            "Overall",
+            "extensive",
+            "prolific"
+        ],
+        "davinci": [
+            "active",
+            "longtime",
+            "experienced",
+            "Prolific"
+        ]
+    },
+    "Stuart K. Card": {
+        "ada": [
+            "total",
+            "first",
+            "deputy"
+        ],
+        "curie": [
+            "total",
+            "first",
+            "scientific",
+            "other"
+        ],
+        "turbo": [
+            "total",
+            "first",
+            "significant",
+            "active",
+            "wide",
+            "proceedings"
+        ],
+        "davinci": [
+            "total",
+            "first",
+            "highly-credentialed",
+            "recent"
+        ]
+    },
+    "Achim Ebert": {
+        "ada": [
+            "active",
+            "longtime",
+            "Context-sensitive",
+            "w3-comic",
+            "online"
+        ],
+        "curie": [
+            "active",
+            "longtime",
+            "Context-sensitive",
+            "scientific",
+            "total",
+            "human"
+        ],
+        "turbo": [
+            "active",
+            "longtime",
+            "Context-sensitive",
+            "prolific"
+        ],
+        "davinci": [
+            "active",
+            "longtime",
+            "Context-sensitive",
+            "prolific"        ]
+    },
+    "Mary C. Whitton": {
+        "ada": [
+            "longtime",
+            "total",
+            "first",
+            "senior"
+        ],
+        "curie": [
+            "longtime",
+            "total",
+            "first",
+            "scientific",
+            "animal",
+            "significant",
+            "numerous"
+        ],
+        "turbo": [
+            "longtime",
+            
+            "total",
+            "first",
+            "proceedings",
+            "prolific"
+        ],
+        "davinci": [
+            "longtime",
+            
+            "total",
+            "first",
+            "productive",
+            "significant"
+        ]
+    },
+    "Henry Fuchs": {
+        "ada": [
+            "active",
+            "longtime",
+            
+            "other",
+            "such",
+            "nose",
+            "mouth",
+            
+            "in30"
+        ],
+        "curie": [
+            "active",
+            "longtime"
+        ],
+        "turbo": [
+            "active",
+            "longtime",
+            "substantial",
+            
+            "diverse",
+            "significant",
+            "prolific",
+            "numerous"
+        ],
+        "davinci": [
+            "active",
+            "longtime",
+            "experienced",
+            "prolific",
+            
+            "1977-present"
+        ]
+    },
+    "Dieter Schmalstieg": {
+        "ada": [
+            "active",
+            "longtime"
+        ],
+        "curie": [
+            "active",
+            "longtime",
+            "scientific",
+            
+            "peer-reviewed"
+        ],
+        "turbo": [
+            "active",
+            "longtime",
+            "prolific",
+            "significant",
+            "strong",
+            "prestigious"
+        ],
+        "davinci": [
+            "active",
+            "longtime",
+            "experienced"
+        ]
+    },
+    "Anna Celler": {
+        "ada": [
+            "active",
+            "total",
+            "first",
+            "past",
+            "post-doctoral",
+            "associate",
+            "atronational",
+            "2000-2002"
+        ],
+        "curie": [
+            "active",
+            "total",
+            "first",
+            "environmental",
+            "scientific"
+        ],
+        "turbo": [
+            "active",
+            "total",
+            "first",
+            "proceedings"
+        ],
+        "davinci": [
+            "active",
+            "total",
+            "first",
+            "experienced",
+            "academic",
+            "wide"
+        ]
+    },
+    "Ghassan Hamarneh": {
+        "ada": [
+            "active",
+            "self-esteem",
+            "mental",
+            "social",
+            "environmental",
+            "human",
+            "Environmental",
+            "Environmentexternal",
+            "prestigious",
+            "American"
+        ],
+        "curie": [
+            "active",
+            "scientific",
+            
+            "recent",
+            "biomedical",
+            "particular",
+            "molecular",
+            "total"
+        ],
+        "turbo": [
+            "active",
+            "prolific",
+            
+            "substantial",
+            "scientific",
+            "peer-reviewed",
+            "Overall",
+            "significant",
+            "extensive"
+        ],
+        "davinci": [
+            "active",
+            "experienced",
+            
+            "significant",
+            "2000-present"
+        ]
+    },
+    "Xenophon Papademetris": {
+        "ada": [
+            "longtime",
+            
+            
+            "total",
+            "first",
+            "social",
+            "various"
+        ],
+        "curie": [
+            "longtime",
+            
+            
+            "total",
+            "first",
+            "scientific",
+            "peer-reviewed",
+            "other",
+            "major",
+            "environmental"
+        ],
+        "turbo": [
+            "longtime",
+            
+            
+            "total",
+            "first",
+            "prolific"
+        ],
+        "davinci": [
+            "longtime",
+            
+            
+            "total",
+            "first",
+            "experienced",
+            "extensive"
+        ]
+    },
+    "Penny Rheingans": {
+        "ada": [
+            "longtime",
+            
+            
+            "total",
+            "first",
+            "following"
+        ],
+        "curie": [
+            "longtime",
+            
+            
+            "total",
+            "first",
+            "scientific",
+            "frequent",
+            "other",
+            "physical"
+        ],
+        "turbo": [
+            "longtime",
+            
+            
+            "total",
+            "first",
+            "proceedings",
+            "experienced"
+        ],
+        "davinci": [
+            "longtime",
+            
+            
+            "total",
+            "first",
+            "productive",
+            "long",
+            "past",
+            "influential"
+        ]
+    },
+    "Marie desJardins": {
+        "ada": [
+            "longtime",
+            
+            "total",
+            "first",
+            "past"
+        ],
+        "curie": [
+            "longtime",
+            
+            "total",
+            "first",
+            "scientific",
+            "open-access",
+            "environmental",
+            "peer-reviewed"
+        ],
+        "turbo": [
+            "longtime",
+            
+            "total",
+            "first",
+            "prolific",
+            "proceedings",
+            "long-standing",
+            "substantial",
+            "diverse"
+        ],
+        "davinci": [
+            "longtime",
+            
+            "total",
+            "first",
+            "1991-present"
+        ]
+    },
+    "Carla E. Brodley": {
+        "ada": [
+            "longtime",
+            
+            "total",
+            "first",
+            "in284",
+            "website",
+            "past",
+            "many",
+            "different"
+        ],
+        "curie": [
+            "longtime",
+            
+            "total",
+            "first",
+            "scientific",
+            "molecular",
+            "cellular",
+            "other"
+        ],
+        "turbo": [
+            "longtime",
+            
+            "total",
+            "first",
+            "academic",
+            "substantial",
+            "scientific",
+            "significant",
+            "prolific"
+        ],
+        "davinci": [
+            "longtime",
+            
+            "total",
+            "first",
+            "experienced",
+            "long",
+            "likely",
+            "knowledgeable"
+        ]
+    }
+}

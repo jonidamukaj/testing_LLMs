@@ -3,7 +3,6 @@
         "Ben Shneiderman": {
             "active": 1,
             "longtime": 1,
-            "more": 1,
             "past": 4,
             "new": 1
         },
@@ -21,7 +20,6 @@
             "Mary": 1,
             "active": 1,
             "longtime": 1,
-            "more": 1,
             "undergraduate": 1,
             "American": 2,
             "past": 1,
@@ -33,7 +31,6 @@
         "Stephan Diehl": {
             "active": 1,
             "longtime": 1,
-            "more": 1,
             "Semantics-directed": 1,
             "abstract": 1,
             "journal": 1,

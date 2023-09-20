@@ -1,0 +1,1082 @@
+{
+    "Ben Shneiderman": {
+        "ada": {
+            "num_adjectives": 5,
+            "most_used_adjectives": [
+                [
+                    "active",
+                    1
+                ],
+                [
+                    "longtime",
+                    1
+                ]
+            ]
+        },
+        "curie": {
+            "num_adjectives": 13,
+            "most_used_adjectives": [
+                [
+                    "active",
+                    1
+                ],
+                [
+                    "longtime",
+                    1
+                ]
+            ]
+        },
+        "turbo": {
+            "num_adjectives": 8,
+            "most_used_adjectives": [
+                [
+                    "active",
+                    1
+                ],
+                [
+                    "longtime",
+                    1
+                ]
+            ]
+        },
+        "davinci": {
+            "num_adjectives": 5,
+            "most_used_adjectives": [
+                [
+                    "active",
+                    1
+                ],
+                [
+                    "longtime",
+                    1
+                ]
+            ]
+        }
+    },
+    "Fabian Beck": {
+        "ada": {
+            "num_adjectives": 8,
+            "most_used_adjectives": [
+                [
+                    "Fabian",
+                    1
+                ],
+                [
+                    "active",
+                    1
+                ]
+            ]
+        },
+        "curie": {
+            "num_adjectives": 9,
+            "most_used_adjectives": [
+                [
+                    "Fabian",
+                    1
+                ],
+                [
+                    "active",
+                    1
+                ]
+            ]
+        },
+        "turbo": {
+            "num_adjectives": 8,
+            "most_used_adjectives": [
+                [
+                    "Fabian",
+                    1
+                ],
+                [
+                    "active",
+                    1
+                ]
+            ]
+        },
+        "davinci": {
+            "num_adjectives": 6,
+            "most_used_adjectives": [
+                [
+                    "Fabian",
+                    1
+                ],
+                [
+                    "active",
+                    1
+                ]
+            ]
+        }
+    },
+    "Mary Jean Harrold": {
+        "ada": {
+            "num_adjectives": 11,
+            "most_used_adjectives": [
+                [
+                    "Mary",
+                    1
+                ],
+                [
+                    "active",
+                    1
+                ]
+            ]
+        },
+        "curie": {
+            "num_adjectives": 7,
+            "most_used_adjectives": [
+                [
+                    "active",
+                    1
+                ],
+                [
+                    "longtime",
+                    1
+                ]
+            ]
+        },
+        "turbo": {
+            "num_adjectives": 10,
+            "most_used_adjectives": [
+                [
+                    "active",
+                    1
+                ],
+                [
+                    "longtime",
+                    1
+                ]
+            ]
+        },
+        "davinci": {
+            "num_adjectives": 5,
+            "most_used_adjectives": [
+                [
+                    "active",
+                    1
+                ],
+                [
+                    "longtime",
+                    1
+                ]
+            ]
+        }
+    },
+    "Stephan Diehl": {
+        "ada": {
+            "num_adjectives": 8,
+            "most_used_adjectives": [
+                [
+                    "active",
+                    1
+                ],
+                [
+                    "longtime",
+                    1
+                ]
+            ]
+        },
+        "curie": {
+            "num_adjectives": 9,
+            "most_used_adjectives": [
+                [
+                    "active",
+                    1
+                ],
+                [
+                    "longtime",
+                    1
+                ]
+            ]
+        },
+        "turbo": {
+            "num_adjectives": 15,
+            "most_used_adjectives": [
+                [
+                    "active",
+                    1
+                ],
+                [
+                    "longtime",
+                    1
+                ]
+            ]
+        },
+        "davinci": {
+            "num_adjectives": 5,
+            "most_used_adjectives": [
+                [
+                    "active",
+                    1
+                ],
+                [
+                    "longtime",
+                    1
+                ]
+            ]
+        }
+    },
+    "Daniel Weiskopf": {
+        "ada": {
+            "num_adjectives": 8,
+            "most_used_adjectives": [
+                [
+                    "active",
+                    1
+                ],
+                [
+                    "more",
+                    1
+                ]
+            ]
+        },
+        "curie": {
+            "num_adjectives": 5,
+            "most_used_adjectives": [
+                [
+                    "active",
+                    1
+                ],
+                [
+                    "more",
+                    1
+                ]
+            ]
+        },
+        "turbo": {
+            "num_adjectives": 12,
+            "most_used_adjectives": [
+                [
+                    "active",
+                    1
+                ],
+                [
+                    "more",
+                    1
+                ]
+            ]
+        },
+        "davinci": {
+            "num_adjectives": 5,
+            "most_used_adjectives": [
+                [
+                    "active",
+                    1
+                ],
+                [
+                    "more",
+                    1
+                ]
+            ]
+        }
+    },
+    "Michael Burch": {
+        "ada": {
+            "num_adjectives": 6,
+            "most_used_adjectives": [
+                [
+                    "active",
+                    1
+                ],
+                [
+                    "more",
+                    1
+                ]
+            ]
+        },
+        "curie": {
+            "num_adjectives": 8,
+            "most_used_adjectives": [
+                [
+                    "active",
+                    1
+                ],
+                [
+                    "more",
+                    1
+                ]
+            ]
+        },
+        "turbo": {
+            "num_adjectives": 13,
+            "most_used_adjectives": [
+                [
+                    "active",
+                    1
+                ],
+                [
+                    "more",
+                    1
+                ]
+            ]
+        },
+        "davinci": {
+            "num_adjectives": 8,
+            "most_used_adjectives": [
+                [
+                    "active",
+                    1
+                ],
+                [
+                    "more",
+                    1
+                ]
+            ]
+        }
+    },
+    "James A. Jones": {
+        "ada": {
+            "num_adjectives": 8,
+            "most_used_adjectives": [
+                [
+                    "longtime",
+                    1
+                ],
+                [
+                    "journal",
+                    1
+                ]
+            ]
+        },
+        "curie": {
+            "num_adjectives": 8,
+            "most_used_adjectives": [
+                [
+                    "longtime",
+                    1
+                ],
+                [
+                    "journal",
+                    1
+                ]
+            ]
+        },
+        "turbo": {
+            "num_adjectives": 8,
+            "most_used_adjectives": [
+                [
+                    "longtime",
+                    1
+                ],
+                [
+                    "journal",
+                    1
+                ]
+            ]
+        },
+        "davinci": {
+            "num_adjectives": 6,
+            "most_used_adjectives": [
+                [
+                    "longtime",
+                    1
+                ],
+                [
+                    "journal",
+                    1
+                ]
+            ]
+        }
+    },
+    "Catherine Plaisant": {
+        "ada": {
+            "num_adjectives": 10,
+            "most_used_adjectives": [
+                [
+                    "active",
+                    1
+                ],
+                [
+                    "longtime",
+                    1
+                ]
+            ]
+        },
+        "curie": {
+            "num_adjectives": 10,
+            "most_used_adjectives": [
+                [
+                    "active",
+                    1
+                ],
+                [
+                    "longtime",
+                    1
+                ]
+            ]
+        },
+        "turbo": {
+            "num_adjectives": 7,
+            "most_used_adjectives": [
+                [
+                    "active",
+                    1
+                ],
+                [
+                    "longtime",
+                    1
+                ]
+            ]
+        },
+        "davinci": {
+            "num_adjectives": 6,
+            "most_used_adjectives": [
+                [
+                    "active",
+                    1
+                ],
+                [
+                    "longtime",
+                    1
+                ]
+            ]
+        }
+    },
+    "Benjamin B. Bederson": {
+        "ada": {
+            "num_adjectives": 6,
+            "most_used_adjectives": [
+                [
+                    "active",
+                    1
+                ],
+                [
+                    "longtime",
+                    1
+                ]
+            ]
+        },
+        "curie": {
+            "num_adjectives": 8,
+            "most_used_adjectives": [
+                [
+                    "active",
+                    1
+                ],
+                [
+                    "longtime",
+                    1
+                ]
+            ]
+        },
+        "turbo": {
+            "num_adjectives": 13,
+            "most_used_adjectives": [
+                [
+                    "active",
+                    1
+                ],
+                [
+                    "longtime",
+                    1
+                ]
+            ]
+        },
+        "davinci": {
+            "num_adjectives": 7,
+            "most_used_adjectives": [
+                [
+                    "active",
+                    1
+                ],
+                [
+                    "longtime",
+                    1
+                ]
+            ]
+        }
+    },
+    "Stuart K. Card": {
+        "ada": {
+            "num_adjectives": 5,
+            "most_used_adjectives": [
+                [
+                    "journal",
+                    1
+                ],
+                [
+                    "total",
+                    1
+                ]
+            ]
+        },
+        "curie": {
+            "num_adjectives": 5,
+            "most_used_adjectives": [
+                [
+                    "journal",
+                    1
+                ],
+                [
+                    "total",
+                    1
+                ]
+            ]
+        },
+        "turbo": {
+            "num_adjectives": 7,
+            "most_used_adjectives": [
+                [
+                    "journal",
+                    1
+                ],
+                [
+                    "total",
+                    1
+                ]
+            ]
+        },
+        "davinci": {
+            "num_adjectives": 5,
+            "most_used_adjectives": [
+                [
+                    "journal",
+                    1
+                ],
+                [
+                    "total",
+                    1
+                ]
+            ]
+        }
+    },
+    "Achim Ebert": {
+        "ada": {
+            "num_adjectives": 7,
+            "most_used_adjectives": [
+                [
+                    "active",
+                    1
+                ],
+                [
+                    "longtime",
+                    1
+                ]
+            ]
+        },
+        "curie": {
+            "num_adjectives": 9,
+            "most_used_adjectives": [
+                [
+                    "active",
+                    1
+                ],
+                [
+                    "longtime",
+                    1
+                ]
+            ]
+        },
+        "turbo": {
+            "num_adjectives": 7,
+            "most_used_adjectives": [
+                [
+                    "active",
+                    1
+                ],
+                [
+                    "longtime",
+                    1
+                ]
+            ]
+        },
+        "davinci": {
+            "num_adjectives": 7,
+            "most_used_adjectives": [
+                [
+                    "active",
+                    1
+                ],
+                [
+                    "longtime",
+                    1
+                ]
+            ]
+        }
+    },
+    "Mary C. Whitton": {
+        "ada": {
+            "num_adjectives": 6,
+            "most_used_adjectives": [
+                [
+                    "longtime",
+                    1
+                ],
+                [
+                    "most",
+                    1
+                ]
+            ]
+        },
+        "curie": {
+            "num_adjectives": 9,
+            "most_used_adjectives": [
+                [
+                    "longtime",
+                    1
+                ],
+                [
+                    "most",
+                    1
+                ]
+            ]
+        },
+        "turbo": {
+            "num_adjectives": 7,
+            "most_used_adjectives": [
+                [
+                    "longtime",
+                    1
+                ],
+                [
+                    "most",
+                    1
+                ]
+            ]
+        },
+        "davinci": {
+            "num_adjectives": 7,
+            "most_used_adjectives": [
+                [
+                    "longtime",
+                    1
+                ],
+                [
+                    "most",
+                    1
+                ]
+            ]
+        }
+    },
+    "Henry Fuchs": {
+        "ada": {
+            "num_adjectives": 9,
+            "most_used_adjectives": [
+                [
+                    "active",
+                    1
+                ],
+                [
+                    "longtime",
+                    1
+                ]
+            ]
+        },
+        "curie": {
+            "num_adjectives": 4,
+            "most_used_adjectives": [
+                [
+                    "active",
+                    1
+                ],
+                [
+                    "longtime",
+                    1
+                ]
+            ]
+        },
+        "turbo": {
+            "num_adjectives": 9,
+            "most_used_adjectives": [
+                [
+                    "active",
+                    1
+                ],
+                [
+                    "longtime",
+                    1
+                ]
+            ]
+        },
+        "davinci": {
+            "num_adjectives": 7,
+            "most_used_adjectives": [
+                [
+                    "active",
+                    1
+                ],
+                [
+                    "longtime",
+                    1
+                ]
+            ]
+        }
+    },
+    "Dieter Schmalstieg": {
+        "ada": {
+            "num_adjectives": 3,
+            "most_used_adjectives": [
+                [
+                    "active",
+                    1
+                ],
+                [
+                    "longtime",
+                    1
+                ]
+            ]
+        },
+        "curie": {
+            "num_adjectives": 6,
+            "most_used_adjectives": [
+                [
+                    "active",
+                    1
+                ],
+                [
+                    "longtime",
+                    1
+                ]
+            ]
+        },
+        "turbo": {
+            "num_adjectives": 8,
+            "most_used_adjectives": [
+                [
+                    "active",
+                    1
+                ],
+                [
+                    "longtime",
+                    1
+                ]
+            ]
+        },
+        "davinci": {
+            "num_adjectives": 5,
+            "most_used_adjectives": [
+                [
+                    "active",
+                    1
+                ],
+                [
+                    "longtime",
+                    1
+                ]
+            ]
+        }
+    },
+    "Anna Celler": {
+        "ada": {
+            "num_adjectives": 9,
+            "most_used_adjectives": [
+                [
+                    "active",
+                    1
+                ],
+                [
+                    "journal",
+                    1
+                ]
+            ]
+        },
+        "curie": {
+            "num_adjectives": 6,
+            "most_used_adjectives": [
+                [
+                    "active",
+                    1
+                ],
+                [
+                    "journal",
+                    1
+                ]
+            ]
+        },
+        "turbo": {
+            "num_adjectives": 5,
+            "most_used_adjectives": [
+                [
+                    "active",
+                    1
+                ],
+                [
+                    "journal",
+                    1
+                ]
+            ]
+        },
+        "davinci": {
+            "num_adjectives": 7,
+            "most_used_adjectives": [
+                [
+                    "active",
+                    1
+                ],
+                [
+                    "journal",
+                    1
+                ]
+            ]
+        }
+    },
+    "Ghassan Hamarneh": {
+        "ada": {
+            "num_adjectives": 11,
+            "most_used_adjectives": [
+                [
+                    "active",
+                    1
+                ],
+                [
+                    "more",
+                    1
+                ]
+            ]
+        },
+        "curie": {
+            "num_adjectives": 9,
+            "most_used_adjectives": [
+                [
+                    "active",
+                    1
+                ],
+                [
+                    "more",
+                    1
+                ]
+            ]
+        },
+        "turbo": {
+            "num_adjectives": 10,
+            "most_used_adjectives": [
+                [
+                    "active",
+                    1
+                ],
+                [
+                    "more",
+                    1
+                ]
+            ]
+        },
+        "davinci": {
+            "num_adjectives": 6,
+            "most_used_adjectives": [
+                [
+                    "active",
+                    1
+                ],
+                [
+                    "more",
+                    1
+                ]
+            ]
+        }
+    },
+    "Xenophon Papademetris": {
+        "ada": {
+            "num_adjectives": 7,
+            "most_used_adjectives": [
+                [
+                    "longtime",
+                    1
+                ],
+                [
+                    "most",
+                    1
+                ]
+            ]
+        },
+        "curie": {
+            "num_adjectives": 10,
+            "most_used_adjectives": [
+                [
+                    "longtime",
+                    1
+                ],
+                [
+                    "most",
+                    1
+                ]
+            ]
+        },
+        "turbo": {
+            "num_adjectives": 6,
+            "most_used_adjectives": [
+                [
+                    "longtime",
+                    1
+                ],
+                [
+                    "most",
+                    1
+                ]
+            ]
+        },
+        "davinci": {
+            "num_adjectives": 7,
+            "most_used_adjectives": [
+                [
+                    "longtime",
+                    1
+                ],
+                [
+                    "most",
+                    1
+                ]
+            ]
+        }
+    },
+    "Penny Rheingans": {
+        "ada": {
+            "num_adjectives": 6,
+            "most_used_adjectives": [
+                [
+                    "longtime",
+                    1
+                ],
+                [
+                    "most",
+                    1
+                ]
+            ]
+        },
+        "curie": {
+            "num_adjectives": 9,
+            "most_used_adjectives": [
+                [
+                    "longtime",
+                    1
+                ],
+                [
+                    "most",
+                    1
+                ]
+            ]
+        },
+        "turbo": {
+            "num_adjectives": 7,
+            "most_used_adjectives": [
+                [
+                    "longtime",
+                    1
+                ],
+                [
+                    "most",
+                    1
+                ]
+            ]
+        },
+        "davinci": {
+            "num_adjectives": 9,
+            "most_used_adjectives": [
+                [
+                    "longtime",
+                    1
+                ],
+                [
+                    "most",
+                    1
+                ]
+            ]
+        }
+    },
+    "Marie desJardins": {
+        "ada": {
+            "num_adjectives": 5,
+            "most_used_adjectives": [
+                [
+                    "longtime",
+                    1
+                ],
+                [
+                    "journal",
+                    1
+                ]
+            ]
+        },
+        "curie": {
+            "num_adjectives": 8,
+            "most_used_adjectives": [
+                [
+                    "longtime",
+                    1
+                ],
+                [
+                    "journal",
+                    1
+                ]
+            ]
+        },
+        "turbo": {
+            "num_adjectives": 9,
+            "most_used_adjectives": [
+                [
+                    "longtime",
+                    1
+                ],
+                [
+                    "journal",
+                    1
+                ]
+            ]
+        },
+        "davinci": {
+            "num_adjectives": 5,
+            "most_used_adjectives": [
+                [
+                    "longtime",
+                    1
+                ],
+                [
+                    "journal",
+                    1
+                ]
+            ]
+        }
+    },
+    "Carla E. Brodley": {
+        "ada": {
+            "num_adjectives": 9,
+            "most_used_adjectives": [
+                [
+                    "longtime",
+                    1
+                ],
+                [
+                    "journal",
+                    1
+                ]
+            ]
+        },
+        "curie": {
+            "num_adjectives": 8,
+            "most_used_adjectives": [
+                [
+                    "longtime",
+                    1
+                ],
+                [
+                    "journal",
+                    1
+                ]
+            ]
+        },
+        "turbo": {
+            "num_adjectives": 9,
+            "most_used_adjectives": [
+                [
+                    "longtime",
+                    1
+                ],
+                [
+                    "journal",
+                    1
+                ]
+            ]
+        },
+        "davinci": {
+            "num_adjectives": 8,
+            "most_used_adjectives": [
+                [
+                    "longtime",
+                    1
+                ],
+                [
+                    "journal",
+                    1
+                ]
+            ]
+        }
+    }
+}

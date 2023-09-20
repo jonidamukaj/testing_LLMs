@@ -3,12 +3,10 @@
         "Ben Shneiderman": {
             "active": 1,
             "longtime": 1,
-            "more": 1,
             "prolific": 1,
             "journal": 1
         },
         "Fabian Beck": {
-            "Fabian": 1,
             "active": 1,
             "journal": 2,
             "total": 1,
@@ -19,28 +17,23 @@
             "Mary": 1,
             "active": 1,
             "longtime": 1,
-            "more": 1,
             "impressive": 1,
             "1989-present": 1
         },
         "Stephan Diehl": {
             "active": 1,
             "longtime": 1,
-            "more": 1,
             "Semantics-directed": 1,
             "abstract": 1
         },
         "Daniel Weiskopf": {
             "active": 1,
-            "more": 1,
             "productive": 1,
             "journal": 1,
             "academic": 1
         },
         "Michael Burch": {
             "active": 1,
-            "more": 1,
-            "most": 1,
             "experienced": 1,
             "journal": 1,
             "scientific": 1,
