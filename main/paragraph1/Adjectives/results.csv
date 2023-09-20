@@ -1,81 +1,81 @@
 Author,Model,Num_Adjectives,Top_Adjective_1,Top_Adjective_2
-Ben Shneiderman,ada,4,active,1,longtime,1
-Ben Shneiderman,curie,11,active,1,longtime,1
-Ben Shneiderman,turbo,6,active,1,longtime,1
-Ben Shneiderman,davinci,3,active,1,longtime,1
-Fabian Beck,ada,6,active,1,total,1
-Fabian Beck,curie,7,active,1,total,1
-Fabian Beck,turbo,6,active,1,total,1
-Fabian Beck,davinci,4,active,1,total,1
-Mary Jean Harrold,ada,9,active,1,longtime,1
-Mary Jean Harrold,curie,5,active,1,longtime,1
-Mary Jean Harrold,turbo,8,active,1,longtime,1
-Mary Jean Harrold,davinci,4,active,1,longtime,1
-Stephan Diehl,ada,6,active,1,longtime,1
-Stephan Diehl,curie,7,active,1,longtime,1
-Stephan Diehl,turbo,12,active,1,longtime,1
-Stephan Diehl,davinci,4,active,1,longtime,1
-Daniel Weiskopf,ada,7,active,1,molecular,1
-Daniel Weiskopf,curie,3,active,1,scientific,1
-Daniel Weiskopf,turbo,10,active,1,reputable,1
-Daniel Weiskopf,davinci,3,active,1,productive,1
-Michael Burch,ada,3,active,1,regular,1
-Michael Burch,curie,5,active,1,peer-reviewed,1
-Michael Burch,turbo,10,active,1,significant,1
-Michael Burch,davinci,5,active,1,experienced,1
-James A. Jones,ada,7,longtime,1,total,1
-James A. Jones,curie,7,longtime,1,total,1
-James A. Jones,turbo,7,longtime,1,total,1
-James A. Jones,davinci,5,longtime,1,total,1
-Catherine Plaisant,ada,8,active,1,longtime,1
-Catherine Plaisant,curie,8,active,1,longtime,1
-Catherine Plaisant,turbo,5,active,1,longtime,1
-Catherine Plaisant,davinci,4,active,1,longtime,1
-Benjamin B. Bederson,ada,3,active,1,longtime,1
-Benjamin B. Bederson,curie,5,active,1,longtime,1
-Benjamin B. Bederson,turbo,10,active,1,longtime,1
-Benjamin B. Bederson,davinci,4,active,1,longtime,1
-Stuart K. Card,ada,3,total,1,first,1
-Stuart K. Card,curie,4,total,1,first,1
-Stuart K. Card,turbo,6,total,1,first,1
-Stuart K. Card,davinci,4,total,1,first,1
-Achim Ebert,ada,5,active,1,longtime,1
-Achim Ebert,curie,6,active,1,longtime,1
-Achim Ebert,turbo,4,active,1,longtime,1
-Achim Ebert,davinci,4,active,1,longtime,1
-Mary C. Whitton,ada,4,longtime,1,total,1
-Mary C. Whitton,curie,7,longtime,1,total,1
-Mary C. Whitton,turbo,5,longtime,1,total,1
-Mary C. Whitton,davinci,5,longtime,1,total,1
-Henry Fuchs,ada,7,active,1,longtime,1
-Henry Fuchs,curie,2,active,1,longtime,1
-Henry Fuchs,turbo,7,active,1,longtime,1
-Henry Fuchs,davinci,5,active,1,longtime,1
-Dieter Schmalstieg,ada,2,active,1,longtime,1
-Dieter Schmalstieg,curie,4,active,1,longtime,1
-Dieter Schmalstieg,turbo,6,active,1,longtime,1
-Dieter Schmalstieg,davinci,3,active,1,longtime,1
-Anna Celler,ada,8,active,1,total,1
-Anna Celler,curie,5,active,1,total,1
-Anna Celler,turbo,4,active,1,total,1
-Anna Celler,davinci,6,active,1,total,1
-Ghassan Hamarneh,ada,10,active,1,self-esteem,1
-Ghassan Hamarneh,curie,7,active,1,scientific,1
-Ghassan Hamarneh,turbo,8,active,1,prolific,1
-Ghassan Hamarneh,davinci,4,active,1,experienced,1
-Xenophon Papademetris,ada,5,longtime,1,total,1
-Xenophon Papademetris,curie,8,longtime,1,total,1
-Xenophon Papademetris,turbo,4,longtime,1,total,1
-Xenophon Papademetris,davinci,5,longtime,1,total,1
-Penny Rheingans,ada,4,longtime,1,total,1
-Penny Rheingans,curie,7,longtime,1,total,1
-Penny Rheingans,turbo,5,longtime,1,total,1
-Penny Rheingans,davinci,7,longtime,1,total,1
-Marie desJardins,ada,4,longtime,1,total,1
-Marie desJardins,curie,7,longtime,1,total,1
-Marie desJardins,turbo,8,longtime,1,total,1
-Marie desJardins,davinci,4,longtime,1,total,1
-Carla E. Brodley,ada,8,longtime,1,total,1
-Carla E. Brodley,curie,7,longtime,1,total,1
-Carla E. Brodley,turbo,8,longtime,1,total,1
-Carla E. Brodley,davinci,7,longtime,1,total,1
+Ben Shneiderman,ada,4,active,longtime
+Ben Shneiderman,curie,11,active,longtime
+Ben Shneiderman,turbo,6,active,longtime
+Ben Shneiderman,davinci,3,active,longtime
+Fabian Beck,ada,6,active,total
+Fabian Beck,curie,7,active,total
+Fabian Beck,turbo,6,active,total
+Fabian Beck,davinci,4,active,total
+Mary Jean Harrold,ada,9,active,longtime
+Mary Jean Harrold,curie,5,active,longtime
+Mary Jean Harrold,turbo,8,active,longtime
+Mary Jean Harrold,davinci,4,active,longtime
+Stephan Diehl,ada,6,active,longtime
+Stephan Diehl,curie,7,active,longtime
+Stephan Diehl,turbo,12,active,longtime
+Stephan Diehl,davinci,4,active,longtime
+Daniel Weiskopf,ada,7,active,molecular
+Daniel Weiskopf,curie,3,active,scientific
+Daniel Weiskopf,turbo,10,active,reputable
+Daniel Weiskopf,davinci,3,active,productive
+Michael Burch,ada,3,active,regular
+Michael Burch,curie,5,active,peer-reviewed
+Michael Burch,turbo,10,active,significant
+Michael Burch,davinci,5,active,experienced
+James A. Jones,ada,7,longtime,total
+James A. Jones,curie,7,longtime,total
+James A. Jones,turbo,7,longtime,total
+James A. Jones,davinci,5,longtime,total
+Catherine Plaisant,ada,8,active,longtime
+Catherine Plaisant,curie,8,active,longtime
+Catherine Plaisant,turbo,5,active,longtime
+Catherine Plaisant,davinci,4,active,longtime
+Benjamin B. Bederson,ada,3,active,longtime
+Benjamin B. Bederson,curie,5,active,longtime
+Benjamin B. Bederson,turbo,10,active,longtime
+Benjamin B. Bederson,davinci,4,active,longtime
+Stuart K. Card,ada,3,total,first
+Stuart K. Card,curie,4,total,first
+Stuart K. Card,turbo,6,total,first
+Stuart K. Card,davinci,4,total,first
+Achim Ebert,ada,5,active,longtime
+Achim Ebert,curie,6,active,longtime
+Achim Ebert,turbo,4,active,longtime
+Achim Ebert,davinci,4,active,longtime
+Mary C. Whitton,ada,4,longtime,total
+Mary C. Whitton,curie,7,longtime,total
+Mary C. Whitton,turbo,5,longtime,total
+Mary C. Whitton,davinci,5,longtime,total
+Henry Fuchs,ada,7,active,longtime
+Henry Fuchs,curie,2,active,longtime
+Henry Fuchs,turbo,7,active,longtime
+Henry Fuchs,davinci,5,active,longtime
+Dieter Schmalstieg,ada,2,active,longtime
+Dieter Schmalstieg,curie,4,active,longtime
+Dieter Schmalstieg,turbo,6,active,longtime
+Dieter Schmalstieg,davinci,3,active,longtime
+Anna Celler,ada,8,active,total
+Anna Celler,curie,5,active,total
+Anna Celler,turbo,4,active,total
+Anna Celler,davinci,6,active,total
+Ghassan Hamarneh,ada,10,active,self-esteem
+Ghassan Hamarneh,curie,7,active,scientific
+Ghassan Hamarneh,turbo,8,active,prolific
+Ghassan Hamarneh,davinci,4,active,experienced
+Xenophon Papademetris,ada,5,longtime,total
+Xenophon Papademetris,curie,8,longtime,total
+Xenophon Papademetris,turbo,4,longtime,total
+Xenophon Papademetris,davinci,5,longtime,total
+Penny Rheingans,ada,4,longtime,total
+Penny Rheingans,curie,7,longtime,total
+Penny Rheingans,turbo,5,longtime,total
+Penny Rheingans,davinci,7,longtime,total
+Marie desJardins,ada,4,longtime,total
+Marie desJardins,curie,7,longtime,total
+Marie desJardins,turbo,8,longtime,total
+Marie desJardins,davinci,4,longtime,total
+Carla E. Brodley,ada,8,longtime,total
+Carla E. Brodley,curie,7,longtime,total
+Carla E. Brodley,turbo,8,longtime,total
+Carla E. Brodley,davinci,7,longtime,total
