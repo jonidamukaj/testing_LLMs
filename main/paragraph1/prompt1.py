@@ -4,7 +4,7 @@ import os
 import time
 
 # Load your API key from a secure location
-openai.api_key = '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'
+openai.api_key = 'API'
 
 
 # Prompt templates

@@ -5,7 +5,7 @@ import os
 import time
 
 # Load your API key from a secure location
-openai.api_key = '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'
+openai.api_key = 'API'
 
 # Prompt templates
 prompt_template1 = "Please describe briefly the following scientific author and consider the following information:Name: Anna Smith, \nMost frequent co-author and past supervisee: {first_co_author}\nCollaboration since: {first_co_author_year}\nNumber of publication with the most frequent co-author:{first_co_author_publications}\nSecond most frequent co-author: {second_co_author}\nCollaboration since: {second_co_author_year}\nNumber of publication with Second most frequent co-author:{second_co_author_publications}"
